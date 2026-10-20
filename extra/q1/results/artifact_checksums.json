@@ -1,0 +1,9 @@
+{
+  "experiment.py": "2b304a0dcfc9589b0ebe2c7f098e3b5b42d2c6568ca33d89fe4545120dfdf805",
+  "requirements.txt": "8fd9c9df6e3c80d405078078407f96592925bdfaee3b59ab096e79fdce42b6ae",
+  "requirements-lock.txt": "dd5339e53e5602b2365625d46af112124be8f945ef01e4900a3831ff225be07d",
+  "results/armor_digits.pth": "6e7f3708a401e29f7d2a4ef0743f630a3f392b54709b1322a21e069d14846b20",
+  "results/armor_digits.onnx": "afaae536a02ffcbc3776ec08149e3bb013326fb915c9bd39aa04971ae3a2be46",
+  "results/metrics.json": "ea656175332be59f7e093c2811cb82db32ddfa5b4c64dcdfc19e5a3b2e2853a2",
+  "results/benchmark.json": "629cd6df711c7b308536229d4941336f276b54bee624d6af1ffe1210982b3420"
+}

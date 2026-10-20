@@ -1,0 +1,5756 @@
+[
+  {
+    "path": "armors/11048.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "ff34cf7d769031c6403463edd29e62bc2beeb8781ebbc6cb3d73a383113fa747"
+  },
+  {
+    "path": "armors/12387.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "befdac4765fcb0729a784a5fd19214802af29ba225fc6cb552e477756f7df08a"
+  },
+  {
+    "path": "armors/13302.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "d2dd74387b5d8c701d107e07eccf31cb36f0e8048b94e03080054e0c8054bd53"
+  },
+  {
+    "path": "armors/11040.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "8ad9b9b06df0231a128f20c636e782385b98d7bf5f3bbf1a9cdb8b6e4115ba95"
+  },
+  {
+    "path": "armors/15308.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "321a2b5846d43509af50a5e501c2688f2482be3c3ecd011b82a86dfafbaf0fca"
+  },
+  {
+    "path": "armors/7189.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "713c211a423f1ad63cd42f40eae2d3d506f8b614e042b75676471abe86a87167"
+  },
+  {
+    "path": "armors/13280.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "e9d0af671022ab0a076055e75f6d20ba059bb08ffeb670c6d63ed3f9a03c8062"
+  },
+  {
+    "path": "armors/13381.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "ba06a355f3e6e3d052a7533be94f6f909e159896edb31892410cb92f2ff2e204"
+  },
+  {
+    "path": "armors/15157.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "028dbb846c84fcf9200df9831962e9d6c7a84f44dbaeb7498e6d78bbc501c973"
+  },
+  {
+    "path": "armors/15299.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "297f1b1fdf3c959ab4e20dbc38e31f536a5119096b83fda084118d7d3273aac6"
+  },
+  {
+    "path": "armors/13390.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "c6fad584fcad6a0a66e11d8a44896268bae22670e09b0bffaac68c0e7d988e9c"
+  },
+  {
+    "path": "armors/12356.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "7823e0820f1b8eb962c79ee4303334fc5b3005e36d64380e42a5d2dc1d163793"
+  },
+  {
+    "path": "armors/13326.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "b8c1a7304d82153b6b06b87fa05fb57dc53159cd809bcd7abe8047e0a0ebf64f"
+  },
+  {
+    "path": "armors/10996.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "ad998ad94e19ddc828f85e6034747083eedb5809d98c8c1b558e4df6ef115dbe"
+  },
+  {
+    "path": "armors/15123.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "b94b52123a2cf4894e271957e1e831351c3eb7dc84f7aaf6bc14ceb5d73d0a93"
+  },
+  {
+    "path": "armors/11136.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "fbd134c0da5184712f48902f2b1b946d75928fd52420e5ff239edcad5733ee98"
+  },
+  {
+    "path": "armors/7220.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "511b4d74ae37138c9133c7f8a2d1ac2633218a9fdbbc24eadf7b3fadc65b87bb"
+  },
+  {
+    "path": "armors/13340.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "2c49caf9fe47418a27fbfa53985d6796e7260827d2b5a3bf3856fbd51e2c0d46"
+  },
+  {
+    "path": "armors/7196.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "beffe44d511da575c06a19dc5dabe1d9c893884264f9138dacb1886e42b7989f"
+  },
+  {
+    "path": "armors/12276.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "919cabf92d1d50365fa6c7565d267d335bb0862bb3481da8347cfc97a34736fd"
+  },
+  {
+    "path": "armors/11018.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "36f01b4e3c5c548fafc801e2006141c5c30d2025effb96fdca30dd58a758840c"
+  },
+  {
+    "path": "armors/13278.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "49dce8e3dacceb1184aef0714d6932fff1a4634e105d566ea6d8e009c1d043d6"
+  },
+  {
+    "path": "armors/13480.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "2df2b09a856b3f397041f2cfd104fae2b84f56eef33b8f5966fb6df3874a816f"
+  },
+  {
+    "path": "armors/12436.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "a308453c824f72dbd8493ea3e306da7c51faa163558ee6915096aef5e3a97bb4"
+  },
+  {
+    "path": "armors/7291.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "0b8a7d5eaf6504468fb45ac96659ae0a574e659d0ec7def3b4bfc70c8f1b2d4c"
+  },
+  {
+    "path": "armors/13454.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "ec2bab31e7c7e2bd44085def10c3a30ae23465fedc2ad80bd550509aac926e61"
+  },
+  {
+    "path": "armors/12433.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "f952336f680bb09b0af0801116482c2067ab43e77eddb3750fa6d863d4bfed53"
+  },
+  {
+    "path": "armors/11080.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "d77614d4154012bf48152b601f075646d76c5dda0157c9caa8664a2df2ae6aea"
+  },
+  {
+    "path": "armors/15178.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "30558b312b94251c7ebda6340f4132f9ae15d9565d554eead85503a5edaa85c5"
+  },
+  {
+    "path": "armors/11106.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "b747d6cd632c8af1d2bbc0d5475b09ec54de4e516227d54f98e40334b1695289"
+  },
+  {
+    "path": "armors/13378.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "1d18359f1fd36698577129d87b1dc5bc9f6b23df579bbb99010c238f32f44bb3"
+  },
+  {
+    "path": "armors/13368.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "0e4050bbba9ec7c196cdd55e0dd560538ad5ea8d555375c63e0940658c419552"
+  },
+  {
+    "path": "armors/15264.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "419b7f22b13f49069de161639e408e6c70dbfa7f71a6571a8dc5b97870464e15"
+  },
+  {
+    "path": "armors/7278.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "5c6edae4784ce41691ceb1aec4f2feb72495df223b51817385840a3f62985990"
+  },
+  {
+    "path": "armors/12319.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "1496b71ffc346959cedc996de5032865fb029ace0011204ae879ec0d50356d0a"
+  },
+  {
+    "path": "armors/11087.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "09c68cfa4c19f545fbd2150d1295240fb2529a428540c3b93c791ce2da99cc86"
+  },
+  {
+    "path": "armors/15134.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "f53ef227907fc09169fa7a76c90191a7327ed1e26197e0d5b3a32c4ee0c7ab11"
+  },
+  {
+    "path": "armors/13330.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "c37bcc34c148fed17b7ad24aeb7d7adec324b7be21bc88bd0368c958e94fa13d"
+  },
+  {
+    "path": "armors/12270.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "c9ebefbe044ecca832c998dbd80bfd4b6ad3dce39ca29187e72bdb2d618bddda"
+  },
+  {
+    "path": "armors/12386.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "32137262f5d55383b6a577b24e63e91bd8169bb3d29f4e1f675a3744d7daf8ab"
+  },
+  {
+    "path": "armors/13369.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "265ca5d144a07df8cdd8ab2a3ffa2bc3e69e4cfc685ddcb15059e51d36895b6f"
+  },
+  {
+    "path": "armors/12434.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "3923bcf3a0c493f78c3ef087ff498d01b1655db967806d67cf8011c8eefaa84b"
+  },
+  {
+    "path": "armors/12274.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "65e6b7929e2284b54a58c1830fd087da37b581cdfffc607b288105cb52053931"
+  },
+  {
+    "path": "armors/15201.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "b2bb003be0b49d52ddf0fc492b3d54a7a3e01f360082c1e57545cb43f90b6bc1"
+  },
+  {
+    "path": "armors/13434.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "aec023f142022bb2d81c956aabec2320289634507dc89a70fc489574650e33cd"
+  },
+  {
+    "path": "armors/13342.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "a78f58d10af3be2f2f999bfea37406facb844c772f0c5ab6f7c3d2f661732ab5"
+  },
+  {
+    "path": "armors/7262.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "914576d5e0614268e3658916fb1de388ff515e7bbf2ac014d3c9f4c5559909dc"
+  },
+  {
+    "path": "armors/13335.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "9c90b797642b8a30e2349591c4ae32a3896518769fae07424cefe9427c96b380"
+  },
+  {
+    "path": "armors/15174.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "dc0e598e59b0b28092dafdc875f389ea9486657f465660beada0f2670ab42efd"
+  },
+  {
+    "path": "armors/12307.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "ad2cf8ba63fd5749718f1bc5b91817cfd58b620e64ec1e27dc285c7e8a6ec6d5"
+  },
+  {
+    "path": "armors/12327.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "97afa37bd7d7efcb99b17a3208a50f4d9d2c4214ac62f81d6cd8643ce0ba1107"
+  },
+  {
+    "path": "armors/12420.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "3e12bae8a90c9411f043949d8562fa18976f267577f419b70aac753d5940b01c"
+  },
+  {
+    "path": "armors/15185.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "8569922d76c28169dd5e2e8cd2991d856dab053391cefc7b04516b3a934090a5"
+  },
+  {
+    "path": "armors/15208.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "eb533ac04efc7697ac1e27e7115e101374898e8c235749c0f6c9138fcf4dbe78"
+  },
+  {
+    "path": "armors/9736.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "a3e21f5edf8b79e32f65f8154f7d191cc08d6357adc54c2aef2f4fd0adf2a6ff"
+  },
+  {
+    "path": "armors/11005.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "d008a2f5416651f6e28b732d26154a555b817e85405fe023e76cac994800ff02"
+  },
+  {
+    "path": "armors/12340.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "69d30d8de7393c579cc92b4b81d4e3bf2a951e5e22b446fb0f93e4e3860505ff"
+  },
+  {
+    "path": "armors/12066.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "e6d2c65abebce974cfd1541fd7e5b88ac3aff5ce3e4ac99b79f4c1bea405e0ee"
+  },
+  {
+    "path": "armors/13465.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "43768acd6188c1689183fceee4c33c414145207294d4f1b3e5de32666c5f97ec"
+  },
+  {
+    "path": "armors/13386.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "9d532a61fa8596db8b29823086cf18ae1ac99f7c2c7f633c55c77bcfab94759d"
+  },
+  {
+    "path": "armors/7218.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "a7797b77b05dc6e87d0ac6a68c5b9684ed578fb2362d18018b2a597e536c1a39"
+  },
+  {
+    "path": "armors/7290.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "8b52f64665242722d888ce890cfb6c116eb151cebe0b1080621d8c7b630b9784"
+  },
+  {
+    "path": "armors/13415.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "ad9bee50e49cf37a20fbcc1feedc5e81ef48bef0225fc982cb0a5cfd5f2a5776"
+  },
+  {
+    "path": "armors/13356.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "8dfff1a06be3af3cf5373e508c3b76a8f57fff5634b0c845f2760b15fb01ae6d"
+  },
+  {
+    "path": "armors/12157.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "735f2879dd0297eb05c461495b59e0c489647a20f6bc347f2a488454e35703b8"
+  },
+  {
+    "path": "armors/15139.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "f47a6e4742a4961c567cd9b16e3c69194b7126d7a0bd522ba57b5bb574b36d99"
+  },
+  {
+    "path": "armors/7202.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "8e6407c2e25623475051925f8190d3fecbd5716b88cc6cdb69d5c9c630cc33c7"
+  },
+  {
+    "path": "armors/15357.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "6b5616b7d8c472afb5fc6abe212850e479cadd803e0193a4103470a217229956"
+  },
+  {
+    "path": "armors/7236.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "ece110c0c375849f8b749478ca14288ed6b0d3bcb5394782656dde02827e3573"
+  },
+  {
+    "path": "armors/15141.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "944d822283a4001d51f0721f2adf26ab72f966ef1174ada84fd9f8ce7b2b898a"
+  },
+  {
+    "path": "armors/11112.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "f53840e82f6d9c8fcd4369cd1982da3d7c5cca9062628f90943449a25f4506a1"
+  },
+  {
+    "path": "armors/11044.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "1d31b51ea58298bfc7466ef9896a51765101fe973b4dd42b022da7a5e98a1559"
+  },
+  {
+    "path": "armors/12154.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "806a19fa07ee55bb563789b4418de2e7975d8f9198b93a092a42b546eba00aaa"
+  },
+  {
+    "path": "armors/12401.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "c243c44da214661b986c4e335ce18fa94981a0469ea7060e2d25e90f45e2e896"
+  },
+  {
+    "path": "armors/7183.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "9972c8c67454f37ae5ff594546452478b4fabe010014b9ee4c6005f93b3cc625"
+  },
+  {
+    "path": "armors/11142.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "35b23331dc5cb7dd1b2d04aa23da73222a0b153137b69e912633e891f7054bef"
+  },
+  {
+    "path": "armors/13443.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "c81e1762772bf018189dae6edd3ed9366da0aa643392b790f0e69e18f4424487"
+  },
+  {
+    "path": "armors/13440.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "38d6309f3208332875a1d994f893cc21628546d4e5c66c80672d870f3e2a070e"
+  },
+  {
+    "path": "armors/15192.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "66b2a93ae1c454fc1e7c7cbf0328e98aa70b715adaadd15eb551e52b92a75559"
+  },
+  {
+    "path": "armors/15146.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "8622d2210cf927c3fed3009ecb8d5cdf6d7382535f645b35082df7cf6faf1769"
+  },
+  {
+    "path": "armors/15287.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "f811010f491f86d641d9edfdae7f4f6a8dfe9c8e665108772d4c1941aef75d42"
+  },
+  {
+    "path": "armors/15231.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "2bf0b0ca094a89d86d21e3e9a3efc000279f0c2ac0fcdfd86bafc686f596502f"
+  },
+  {
+    "path": "armors/9770.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "157cf63f25f04aef4d65ad918a3b8ec77349ccd02da2f2f72d384afcd6216a55"
+  },
+  {
+    "path": "armors/12247.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "64595c9bede614bfa3be7ee7213afb05b554c4d5506fb1241eba01ac13eff605"
+  },
+  {
+    "path": "armors/13414.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "834077b1f746a06ecce43e15fd7203a94aa7930b7a77a5825852a6c8d9061a55"
+  },
+  {
+    "path": "armors/11012.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "79b4bf200d0d6dedd6af642cbc7a5c354e442b83ca36b41a4a5a75243355bdd9"
+  },
+  {
+    "path": "armors/7175.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "26a25dc93edb47531bbfbb1c7c8077a9a068ccb25f484835e87fdea7f13e653b"
+  },
+  {
+    "path": "armors/11010.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "d81c33d015399dd71d98162d59089d529938923d9f7ee2650ec8a68dc9d3bce5"
+  },
+  {
+    "path": "armors/12267.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "9693ea29ad4e0f1d55b0ff2b96cecf13a61efa85dca96627e992176c29d8cb15"
+  },
+  {
+    "path": "armors/12290.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "85226020bb7f1dcb759109901ce5354dd0c8d4d5aa60285902dd501189a4eadd"
+  },
+  {
+    "path": "armors/9754.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "f9ad6534a0d85fb490455219170ce2efd5edbc147d82e1cf5b39f4b9294c324f"
+  },
+  {
+    "path": "armors/15341.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "9c7e040b73a7a4e4ad453f6525401cc0a0dc36cb823735e6cce1351737162613"
+  },
+  {
+    "path": "armors/13351.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "98f5a26dd3a9fa97e12d3e048011945d43375eadea728a8cb27519305039b8a1"
+  },
+  {
+    "path": "armors/13312.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "ee56ae7d235057fc14a06c75fa648777a92524d4d0aa6bf34309a83ca10a4cde"
+  },
+  {
+    "path": "armors/13346.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "93f3e317a8d5a509102f70b1e35e07f5a1da674c683cc33e8696e16e104c80ce"
+  },
+  {
+    "path": "armors/12411.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "5404e3a1a1170a85eb1e755f7905b1a772a5df45d5b71d1a29092638a7fb29bb"
+  },
+  {
+    "path": "armors/13371.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "83844bfe9258b75b1dfcd476f477a81f217ce393154c5ff6d49ba1e0f67cb8af"
+  },
+  {
+    "path": "armors/15317.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "ca41717fbd461ccf88560afb3908b2bb4a9fa3d37d0cb2c7327f070a0977d5e7"
+  },
+  {
+    "path": "armors/12334.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "1055d0da0b7573a21e4f3e79a34044be597b2aaf070f0c4f305fc62b8ecdd49f"
+  },
+  {
+    "path": "armors/7343.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "3bf7b878ade2a608528ba4fc443af19e51fa84f766491dcb9b2a77b85d4e2b52"
+  },
+  {
+    "path": "armors/15158.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "817a63a32e0a2218d6cea83a67c78c5fee83d335c10282ff80ccef0c95cd22db"
+  },
+  {
+    "path": "armors/15258.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "3ecd13299bd3a7cf17e15da44c9b5ef0ec81063d2edd27b3272cb35758bf1e4e"
+  },
+  {
+    "path": "armors/12260.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "b50a6a71c374e10b69bafb44f69155ea18cd4ca599f0e50eff8d4b2720e5c72d"
+  },
+  {
+    "path": "armors/13283.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "b783fbca1716bc16985785f4bb0ddc1b07e61a61a2e5a59e997331c265928617"
+  },
+  {
+    "path": "armors/13290.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "dedaaeb3938a45c89e62e4aa6a8369981844c5374a81669d610134c01bc70371"
+  },
+  {
+    "path": "armors/11154.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "52209d7c419433cc3cceabe2c9c91be8c9691dec1823e1075492d3cccda8f7b1"
+  },
+  {
+    "path": "armors/15179.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "4efc0525edb2cb4096638b78e8e1671e1c104aef815c621a00245a6e9ce51811"
+  },
+  {
+    "path": "armors/11126.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "9bf84f12042c06b8846d77d809cfefea8c5beeec093d2e3d4d07aa38b472df4e"
+  },
+  {
+    "path": "armors/15119.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "937af4ec0a49e6dae9cf569a2d3aca722d24a7cd9c6a0c428d0ab9fb9a899b7d"
+  },
+  {
+    "path": "armors/7320.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "27079995ab329b853f492bc2bc5717445289213659b43bfbf92db28943357f40"
+  },
+  {
+    "path": "armors/15315.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "ce445c8dc7693be492a2fd1f8d4665b356901e13d24f8f25cc805305b209bc7f"
+  },
+  {
+    "path": "armors/11007.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "3a962116b5029c6ad1cbaeef000155bc9969581d397886faca5e78a4d2a38a8c"
+  },
+  {
+    "path": "armors/12437.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "b460b83a3e616f988c71bf9fbfbb791c6743da3909f3ab6d23e0a49fe26a8d27"
+  },
+  {
+    "path": "armors/15305.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "9174259bebd342dc6ec092ea32fe2f43ff7730c1f3017c10a72c26ce44f566f8"
+  },
+  {
+    "path": "armors/12234.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "49294f0159ff312dfc19b0038bfb4293437cd38ed666e2d6b7214e63dbd190b2"
+  },
+  {
+    "path": "armors/12438.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "bdb6209351ae9adb1352c801ee1beed3c6d49f725b1b3b9f0c35a61a1bbcacea"
+  },
+  {
+    "path": "armors/12240.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "67a5cbf9f8797ae5f4b4b4ed9aa1b3151df79a1caa970df3637cf0572180a601"
+  },
+  {
+    "path": "armors/15242.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "283962fc3b44fee451a7472c1efc237952a8480b253f89a3493a3d3d14d1a802"
+  },
+  {
+    "path": "armors/11088.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "7655aaed8db0f1482b7507666e7766083e8528c494ce14a65ac168acced6df21"
+  },
+  {
+    "path": "armors/7340.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "cd7c738adbba23ee0e73c38f9b59735434474e54ced1b064cbb9cee69eeef9b9"
+  },
+  {
+    "path": "armors/12329.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "9c7d09b213526a83a3096abd28115e822ced6732b0171bced443d2742536cd81"
+  },
+  {
+    "path": "armors/15129.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "ec6909832b66e3d12247b0da909e826828f0649fbb8ab3e37fb6396e7f7b8968"
+  },
+  {
+    "path": "armors/12394.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "24691c33a8535c223e08a346d8061b3869ac72d36d9f9e00426966276174124e"
+  },
+  {
+    "path": "armors/15147.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "eb7a20c600ab5b30bd68bab985dbc52e514e555ca084b4cab5309e9a2d66a135"
+  },
+  {
+    "path": "armors/9738.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "5fcbd836dcea8b76a8595eb2dcc261c2b1fe9b055f427e4ef7c3726f9bfa3a6e"
+  },
+  {
+    "path": "armors/13322.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "eceb822d4c35094137806d3a66168a2c847a1b10a1729af8b00814b0c0dec96c"
+  },
+  {
+    "path": "armors/7233.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "383c9de0990a0d20b884151287851f50b7f3cd797fde25946c9b2f33225b2405"
+  },
+  {
+    "path": "armors/13304.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "a07e911fb18c63dc3e32b66f71157e11b8eed118376c0248d5804df7c75e5145"
+  },
+  {
+    "path": "armors/7332.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "e1ed12814b50625012adda4f876e63f2ba4f810dbc4a2bd21ef003d5c37ffcd2"
+  },
+  {
+    "path": "armors/11095.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "c06ccb05d1d6c1fdaf46750d8ee24671e0e5cd2853a095db1f095bc45fe5ca30"
+  },
+  {
+    "path": "armors/12236.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "2f574fce7a85880ac2e92edeadec15c20be6dc56c4d44d7568f8ddc2e39bac4d"
+  },
+  {
+    "path": "armors/13299.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "ed165792be102cb1f250d0968e26b3d6e17094d16ca839637929f714baceb1c0"
+  },
+  {
+    "path": "armors/15144.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "3f6afb2f68f4c5fba7671f193cb6b577501e47f96c516f23175d5b42d6662e63"
+  },
+  {
+    "path": "armors/12231.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "1477f6b3f3387f4e667ad585529f4f6e518eb79bd92a99173de7346b3a3890c0"
+  },
+  {
+    "path": "armors/7206.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "e29a631486f3ddfd85fbe705d39482e7a997f6ff032d74b8c695c3742af2e58f"
+  },
+  {
+    "path": "armors/13303.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "9311d0f9838ce9395c314166795fe879dfb95e8c12734378566b547c50d99b65"
+  },
+  {
+    "path": "armors/13444.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "0550818e8076f738f80c3ea6d5e92aaf60522d737c3ae42274bb7597de232f14"
+  },
+  {
+    "path": "armors/15325.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "de7487205fd6508f5ea9b3b47753fa07dc3f990061383f0ec84b7e70ce864747"
+  },
+  {
+    "path": "armors/7249.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "c7eb7618e9d3f98caca63bd8bc44addae97ddb7fa017c49029c1d3fa23a8d253"
+  },
+  {
+    "path": "armors/13432.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "459a3d2dedaf44142d77581ef356adcb9aacbcd6d63edc3bbbc9fe67ac64565f"
+  },
+  {
+    "path": "armors/12279.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "064fdaf1f40031eabea4c56a96001279061f446d4b57e7795971bdfcd70c446b"
+  },
+  {
+    "path": "armors/12370.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "84c7a699a1c217207f360742fc7df95d87e1d22d9815b67f084d0e6f318c8863"
+  },
+  {
+    "path": "armors/11073.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "db5788df274f93479f5f6d5e56954c39b29730eadb01809fad91a3c2e881dd23"
+  },
+  {
+    "path": "armors/11097.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "a9d43afdbfd7ebfd7c81a87b2d0650a7e3dc921d157290e795ade6c11d83783a"
+  },
+  {
+    "path": "armors/12360.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "0d76ccf10a129235b0f9f53e5f1bc6134d21dec2d85d6635164048e42dd8443e"
+  },
+  {
+    "path": "armors/13318.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "c92bdc102add78a7282c0cc90c339714d096768ecdef5485c3fb471767d59250"
+  },
+  {
+    "path": "armors/13336.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "037909495a6d79496d9a9feebc5e05aaf7fb54c82fe64a21753a05e9b8a31f50"
+  },
+  {
+    "path": "armors/12162.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "e76d7febf15f88cfb377ce6873600d1af147b607d70453648e372742dd5148d2"
+  },
+  {
+    "path": "armors/7170.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "a2021a73a9224bea08f5d6e957ad8cc640c225ceb3068f98b7be0080271411a9"
+  },
+  {
+    "path": "armors/13385.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "4558dfd6da61cb77a2ec2c5ea924e243e2561a49ecc2650534fffdebf19c0a00"
+  },
+  {
+    "path": "armors/11128.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "6f193877a9321f0cd9de744b45e95f8865f46a3ef376783c7925ad748112a1ac"
+  },
+  {
+    "path": "armors/13297.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "a7791fe8a156233a501c719c9221e61f756a524f3411937c02c4bca54d5f3b94"
+  },
+  {
+    "path": "armors/7337.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "e3a53385c24dd7ce7b8546486c0d20181f529927d41032d7aa7d6ddcf5ecf22e"
+  },
+  {
+    "path": "armors/15151.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "9d47305edd24ddb2ad4058603deaa1e496f99d18697c731aae5b28d74966d405"
+  },
+  {
+    "path": "armors/11059.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "17998c3d687a2159a04308f930e877a34e8de21470fa3a51f4e44b0d121e9619"
+  },
+  {
+    "path": "armors/12349.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "fa71a5919b5c7f4aebec85a13e074380a15d42f363a2ae04bc5056d98fd5fbda"
+  },
+  {
+    "path": "armors/12068.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "fca4215a54870e4201ee72f1425e82409e3f1b4e64b876040059b3fab4e3f283"
+  },
+  {
+    "path": "armors/7310.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "464af17c3c8cca047bbf80d97376c955dc2c84da5d8651668561076861016b45"
+  },
+  {
+    "path": "armors/11121.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "d7dd5c022d251587238f6e6a81ca865b8ea3bd195d4bec411863fc80a153c264"
+  },
+  {
+    "path": "armors/7281.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "60c201d50696d91a9e4e5c6e43788a16087e44251e96e09d287f1bf1f6eb78cb"
+  },
+  {
+    "path": "armors/13316.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "2b7c8e5b655b83aa4b753c0f40127ac89e2dd025e4e26f6cc330410f0c05bb77"
+  },
+  {
+    "path": "armors/15133.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "07e644d37594cdf1d2e963b7b84eaed9b1b000eeb2878e4e38247ae955e9f698"
+  },
+  {
+    "path": "armors/7237.jpg",
+    "label": 0,
+    "digit": "1",
+    "sha256_pixels": "4eb9d28fefec201f2b6b778ab552028b3eef6329d110b7f19b936baa04c563a9"
+  },
+  {
+    "path": "armors/7815.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "685c53497a2582dadc638c3f21dcef3f788b3f89e0ed2ab955ab3489e20186aa"
+  },
+  {
+    "path": "armors/11500.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "871db5026f5748cdd4aabb42d2ecf0659a07db451d9eb05424d396ded4f74717"
+  },
+  {
+    "path": "armors/11284.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "7d1e9900b203c29eecc4a8eabb19ec1976bc33ecc369a5a6931db70e177c8385"
+  },
+  {
+    "path": "armors/8074.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "9fdf1d34187ff66357cf04555a16224854138a4c2038f37eb9ce7a7bdb756ea5"
+  },
+  {
+    "path": "armors/8155.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "b17b8208b0678202d81efbdddf4ad9d396cdfdf377efe05ecb790c41a46678bf"
+  },
+  {
+    "path": "armors/12561.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "d0cca634a3d7b1aa51e401ec9469bc588774f5e249f83a536641f00bca15a6ec"
+  },
+  {
+    "path": "armors/7809.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "27103ea5815093c1067da848005e0ba93b738f67568fca49cb3d146da289ad79"
+  },
+  {
+    "path": "armors/12548.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f230eb8452fefbe45d34a6362eb79693ca8a45b0e3158d201ce958c6aca60f61"
+  },
+  {
+    "path": "armors/8178.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a3f67a0f8aaaf13657ccd7f868dadbb1b115567ba73387dab5de80308ae5dad8"
+  },
+  {
+    "path": "armors/7425.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "bcfe5c2587afe49404b500965838f0968a97fd4a2518fbb4c6a18ddee90ea2b5"
+  },
+  {
+    "path": "armors/12475.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "afe1e502d940f722e3a452bc0d56b4773246cb5a08b06569c8553348d9fa161d"
+  },
+  {
+    "path": "armors/11259.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "ed14abbfa3096be6d0ae0608c8dd05ca32ac6d56287a169472d4f66311c76d7d"
+  },
+  {
+    "path": "armors/11509.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "e1d5b4f63b0d5c45607313c988b6773557047c68bd6fba7f0e685ddbe5f849ed"
+  },
+  {
+    "path": "armors/11207.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "eebe442e8f87e85f17db294e7868133e432cf205ec61864d741b3426b9ce94a3"
+  },
+  {
+    "path": "armors/7347.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "41e496f75baf82a11626878fe863f0ce204e5ec2c3a462ec212a89c4acaca004"
+  },
+  {
+    "path": "armors/11211.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "44835222e33ed3d8930fb7632f3d3c048087111ed72e3d32386977ad9eba8dd2"
+  },
+  {
+    "path": "armors/12509.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "66e2ddc95f1b3ec80c16dbc130b88dbc107ecaa75f2bf51236ed9499e711c375"
+  },
+  {
+    "path": "armors/7505.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "2282230814aa871d8f6670aacd8dd14836b10f05c13a2f52e8a0b0e9aa7aebcb"
+  },
+  {
+    "path": "armors/7785.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "710ae91f12dcaaa28b9ee58de49327bfe3638852d9826b7f128ed8a53acee2b7"
+  },
+  {
+    "path": "armors/7638.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f125923990e1a8f1026425a47363b014e28ac41548c3c6d95e34083cfd1ef513"
+  },
+  {
+    "path": "armors/12595.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "69698f2059a887bb2f81bc37c435aa4d6ce5c4c7c9fcd971baf5f5c40ea4a732"
+  },
+  {
+    "path": "armors/11261.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "cf11bff96c69a7e81dd67caaadf6c66e73e92cad446eae6c2a7d677e88012c56"
+  },
+  {
+    "path": "armors/8164.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "3b8a4311d633c0a16511f68c24c87c5164769db2b6e872af838a0f796748325b"
+  },
+  {
+    "path": "armors/7980.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f7de65f373947682298b9873e65981ec7a09c034d14e7c5eaceee16aaddc6424"
+  },
+  {
+    "path": "armors/11193.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "e4e0d7c65c706035711e62020ce6de990b671b68bb7b2c31122c7b66a707af6b"
+  },
+  {
+    "path": "armors/11503.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "60afe825d679883e8a081e2b7280db1377e34a7ff568bfe6e4bc6793385a5560"
+  },
+  {
+    "path": "armors/11396.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "ae16d48e18d113e43916c9fb001f234db30dd412f7e8b930e33310bf9424203c"
+  },
+  {
+    "path": "armors/7973.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c932280e5405a83f1f8ab128ed02f2e59340d2a46d931685d7bc19a508e5b7d3"
+  },
+  {
+    "path": "armors/8284.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a8ea7a8f9aaf9a0878c5337e001b860eb4ac85735b32ec4875eaefb6f18ffdd0"
+  },
+  {
+    "path": "armors/8188.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "195b36d440d08bd0e4d45f08988ae334e423af30c0c0e8f5b87bc6f94941ff21"
+  },
+  {
+    "path": "armors/11220.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "8d7c32d8f7e2e00f69b5c06dfa94ada4cc513119e71869036b131b008f0b3386"
+  },
+  {
+    "path": "armors/7406.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "304e06e6dc5370304c0e888f51b2f525cf7fd84502211ce952940de7e25b36b9"
+  },
+  {
+    "path": "armors/11482.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "51f77485a30443ad9d23f4cc529244e6397d4d277386b03bddc73635a7185cc4"
+  },
+  {
+    "path": "armors/13497.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c9fe3485c8292ba40aabe16db375523871ddf2ab57a94812a11f54729cda4a2e"
+  },
+  {
+    "path": "armors/7541.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "2ec2e4a87e8b65cd323de0f161362600a00e455022b7d3cee0e95a961baac0d4"
+  },
+  {
+    "path": "armors/7842.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6f544e31a53fc0627525cdbbd8b7c3f37169c354c193570332dc5ae0794a28fe"
+  },
+  {
+    "path": "armors/13542.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "d16b0701a4fc7285c5f309fc63340c0f93d3b76774503fe7406920bcca4ad0dd"
+  },
+  {
+    "path": "armors/7464.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "76dd6b7ad850393bcf2ae6e9d0363bcfba55c5b90ca5f838ac27afa21c6c6057"
+  },
+  {
+    "path": "armors/12621.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "e84629847dafca98c18d982d3f657a3c9cddfa773eaffae6c82856567b2cecf0"
+  },
+  {
+    "path": "armors/13500.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c1f932da3ffaa9580bed2f9faa5b5bfb1c6c4d5db568eea35a2d00a05da7f7f5"
+  },
+  {
+    "path": "armors/11389.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "8c60525138483d99bf0123fc25184b46788e627c27942f72d611d1798689b6b7"
+  },
+  {
+    "path": "armors/12514.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "e46f50b7798ce8ebe665216ac67af7324cd1be95893f8a63ec2f1207700f5dfe"
+  },
+  {
+    "path": "armors/7904.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "d98abf94d8338a3a9df5c8f2f55285b0e0cf942b61f52f396caf51101f395a08"
+  },
+  {
+    "path": "armors/7837.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "cbbf4ba89331017e84f0c6ec5df67a29f8d8566a8c04112021d88e05fa29bc16"
+  },
+  {
+    "path": "armors/8129.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c857e2fb78f3b3beaaf1553aa9b9a490b653c9b379954ab52df5a240eb48c798"
+  },
+  {
+    "path": "armors/7997.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a55c42b5d20fe8241af2d31cd89a0764f6a44e1a80080523955409b2ea693987"
+  },
+  {
+    "path": "armors/7950.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "47c43e2468455727e283cee352f61f24a3e8f4f5dad940e847a2c7ed231fe69a"
+  },
+  {
+    "path": "armors/11474.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "26e43f7e173910935df00cdea17315d6480bea6bbe15e6750826081e6cf306be"
+  },
+  {
+    "path": "armors/13543.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "b74342ec22fd37f2caf4e26ab876fa32a2809af79be5f0bb95cb7bb9e3c9d06e"
+  },
+  {
+    "path": "armors/8280.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "abcbb323fec841d37f5304d5e4162bc20a63d55b1330ff4c4ad38307efd7cba0"
+  },
+  {
+    "path": "armors/7632.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "1424800f419bb2831cbb3821c0262bec86c255eb759f4a0943bce305cdf53aaf"
+  },
+  {
+    "path": "armors/11435.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "df42eaae3210fd9b70472e7aa42be42496cb5137a884f0db24b5f4f7796dbe21"
+  },
+  {
+    "path": "armors/11449.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "0e6f9f340a1674ba7b12c16969531a02ded4f84ea6b1c307b3cccb42ce63bb3f"
+  },
+  {
+    "path": "armors/8144.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "68a2c3b847a2f5b56bdc3399923c93e4d13d64d7e7f693b5f2a4cb834171b67c"
+  },
+  {
+    "path": "armors/7556.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "0bb8da801cd6ea1e4dd9b273d9645a34cad7aac6f5abf55d355f93789f3d08ad"
+  },
+  {
+    "path": "armors/11366.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "dea62049664194e4b1116ceba8b0f307b1ead6563b1397bee98b8aeff8b4f7ae"
+  },
+  {
+    "path": "armors/11264.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "5aacea1698d10c805b29450c2d513ded73c8ab7b819ce29d64a37988d25104ee"
+  },
+  {
+    "path": "armors/13514.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "1a3ed6c35058584b2eea9691b7c8f17ae228337dc016f63d741fb60cbbcc87b9"
+  },
+  {
+    "path": "armors/7650.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "4efe2a6c4d7053249bf43fd0dc35145130e448475574b1a5a58c7abc6afbcdfb"
+  },
+  {
+    "path": "armors/12629.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "29c43589117c04f2f480c6cc36f82fe59a31f5021611a351d3a4fa49cff088dd"
+  },
+  {
+    "path": "armors/7553.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "ec0a300d96c0bdeac474bf0e3de7fae6f3a63f111f27a2e49479853cb74a44a5"
+  },
+  {
+    "path": "armors/12447.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "e4bfa5e770d2712b49742a07498d39790cf6e543964fc3e358ef6971f906cf7e"
+  },
+  {
+    "path": "armors/8261.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f6a237fd2d164621909a7425461266f29173b7ab1dd549fb16cd3ba9fea5bbc5"
+  },
+  {
+    "path": "armors/8114.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f97614cc9fbe2e9918bdcae27dbd126e78435efd73f20b3e0f49fbc1aa0fa6a1"
+  },
+  {
+    "path": "armors/12080.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "02e501a88a9fd98c50cd917059e1eb98d34c9204a92de0b68144daad05d94c9e"
+  },
+  {
+    "path": "armors/8292.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "18aabc8270383aa2105d71bdbcece41ae7f70f69ee1dcfca3ad6b264fe6f5569"
+  },
+  {
+    "path": "armors/7856.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f7cccf1c9376a6814c3c7cc074f6cfc3b6968448ba21201764f36d5519585732"
+  },
+  {
+    "path": "armors/8191.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "fa959a6c1c240b73145fe46b70bd2adcfb9084f0cfc49e4b38a7a2a9115ef80f"
+  },
+  {
+    "path": "armors/11321.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "85b2d8d58c1a637b52f39551a31abb61b212dc5aceb0aba53875a8f0674e87ee"
+  },
+  {
+    "path": "armors/7455.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "acb6900b32bcad3a9e94070dc5db9a82a3a401c7613d1d3224cdf18810c88570"
+  },
+  {
+    "path": "armors/8100.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "15fc21171c6962cef6430f582c3ff5c3e4d9f4f7db8adbaa9de6dc0ef5ea68b2"
+  },
+  {
+    "path": "armors/11344.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6678cc4a6c24be1d26c254d9877afee6254b3dcfea57734ac7c34a388f16779d"
+  },
+  {
+    "path": "armors/13528.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "3216e7c0e81d59ec82d695f4ac7e956850f003e625a6ef9be57c9571de708cd3"
+  },
+  {
+    "path": "armors/15497.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "0b2b5ecb938a26ef9cb1257737ddc2bac65d23f509c3711bf96069bae208601d"
+  },
+  {
+    "path": "armors/15439.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "badccce21d1f3a6ad42015889ad8515774d7a61f604f81306ca6d0a18f45347e"
+  },
+  {
+    "path": "armors/7537.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6e47129410dd369ea9167b54535e5ee9f818d46d50c52a1212f86a027f498c89"
+  },
+  {
+    "path": "armors/11519.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "9d423659cf3742f89ffec941f4c293390710e72888f5825d3f6a05048e53a56e"
+  },
+  {
+    "path": "armors/11260.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "837a2b43eac4f7cba6905ad2c09b32379efb6e1b8dcbe2d69543c8c814bc3491"
+  },
+  {
+    "path": "armors/11158.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "893a3b88341c8e99d6c80778143294a48cd30ae6ff95083ef801669fc374ecbc"
+  },
+  {
+    "path": "armors/7813.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "e1c8b3ddd668c48d3f27c92cb9cee788f4372bd21c021f4982214172ea6b2134"
+  },
+  {
+    "path": "armors/11515.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f989997cd975d11c57d621843c825661689380039cef6b0ae71520d218656767"
+  },
+  {
+    "path": "armors/7368.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "2c7b2952424edccd6ff930202406d1d67782d6ccef987741cfd5ab262581659a"
+  },
+  {
+    "path": "armors/11162.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "bdc4985455d6ba336a18021400acd5a032b5755d87b4f7e2ad15454dc214ce60"
+  },
+  {
+    "path": "armors/8119.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "d0e0f136e745a1a38450f1efb91778647d31b62950005efe9056cd059ffae6c7"
+  },
+  {
+    "path": "armors/7795.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "401d1e3e9f2066c7e8732d3c68e77c204dcbd076c9297d799f951f5e002ec362"
+  },
+  {
+    "path": "armors/8267.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6e62fff7f7a5ca3d4ebb88982defa85e7a94eb46bec7f3fb6f19832f22874658"
+  },
+  {
+    "path": "armors/11564.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "72655bff4275d1dfc76aae39d96bf902d36a67b3d4b093e58e5fb7a6bc90d627"
+  },
+  {
+    "path": "armors/8017.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "b13475855a98849e616afb72484fc6709acb5152c94e95253e3d5f45ea59a40d"
+  },
+  {
+    "path": "armors/7682.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "23b7a095424ad043c1e3357228c149617c6889629452f694a599b5be01af4067"
+  },
+  {
+    "path": "armors/7618.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "9ce2f9ebb4345a067d73ec865ae8d3946ec1123df5435de978dc0b7b7e91d554"
+  },
+  {
+    "path": "armors/8146.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "427df98bece962cb3d9f91fe3494e02261ae8aea22feb9a774ce03bca1b7d186"
+  },
+  {
+    "path": "armors/8040.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "001088a759050fb539c6d18d753ae423a678cfea53dde6665d463be15b6955de"
+  },
+  {
+    "path": "armors/7808.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "3f9e7912e4fbff5acba9505eaee777eee27ad6fc1b821a703a5e17d2808f41ac"
+  },
+  {
+    "path": "armors/11245.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "0cb3d7267d6416b129faaff71706af11255bff36e0be3744bc6b53fc215f0a97"
+  },
+  {
+    "path": "armors/13548.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "29b72e4721ae13c5e0afbdbd9b738d8c05e92c7f5ebd1dce91e8e62620906fbe"
+  },
+  {
+    "path": "armors/7569.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "77518f9ca952782b7b1e16e18be7da1470decaee8cad05c7d980ce40e508d7dc"
+  },
+  {
+    "path": "armors/7864.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "dbdd3c6767063f639e5628a7d78cc8cdc51f1243860ce7acdc9fa5e2b434b35b"
+  },
+  {
+    "path": "armors/11514.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "87d2aa07b15680facfdcc8b1facfbc8076af5974c61ac4300eca2a8c5eba2f55"
+  },
+  {
+    "path": "armors/11362.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "628fe4c1b6b2c8288977a90ef8ec728f27b08c14d096e1b056a228aabc3247d0"
+  },
+  {
+    "path": "armors/7907.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "309da6ce9e773aaa29322ec5f41203db0a9f82336f5e16d4d2f160c212ee96e6"
+  },
+  {
+    "path": "armors/8067.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "00e799adddb020f1975325e6acb01c4bc08a285b7cc25b5c3934ab7526cc4224"
+  },
+  {
+    "path": "armors/8136.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "ee869c4ac1b4e0c11f161321b944815f5c342ca9b549e55c58f9d0c39f82a784"
+  },
+  {
+    "path": "armors/11323.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "1fa9dec8002e91f9df81d15e377c0d5c18197aa600c87cfb5f57b6383dd3f86e"
+  },
+  {
+    "path": "armors/8228.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a6669540f4c1002d05332d4ff65fe2e6f3f1bcad1c9dbe93bec55576dc5b741a"
+  },
+  {
+    "path": "armors/7941.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "7c9b6ba82718d072ca18a841dc2996cc4fcecb656784be6f668e7d513bb954e9"
+  },
+  {
+    "path": "armors/8255.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "213d27c85ee53ab418a36ece7f472b0693ac46c9e14a7af9f65ace4b6e0560d8"
+  },
+  {
+    "path": "armors/13487.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "253b8d0ed484431a4f2cba9d6acb16f332f7ae7117c1faf56196b43e15e5a298"
+  },
+  {
+    "path": "armors/15515.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "4bf6ea0470833d6184280313edf0af3ba50a4988d9bab60d0eaf0896bc284dfd"
+  },
+  {
+    "path": "armors/12443.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "7cfca10407a746e9bfaf7556095aef9bbab12790e81fff04c4be711260ab267e"
+  },
+  {
+    "path": "armors/7519.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "dd22313b60e742cd7a724358f71ca2ba80ec15374734af4a881183b295d6cee7"
+  },
+  {
+    "path": "armors/11511.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6d3ba1de20fdb9b6427150a196720519d3c48d3d74dae80020bd92d81c94ad63"
+  },
+  {
+    "path": "armors/7615.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "1780f31ab81e66c0c9435d1bddc11d52e66212ea1428c634d0431e288c25054c"
+  },
+  {
+    "path": "armors/11240.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "cfcf4732493a46e5041d6377f1297463d85858a610513a61fce9a3a20488a95b"
+  },
+  {
+    "path": "armors/7672.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "ef4ac12e9ae1750852eb9b1b2ba1049b614be17b8625e3bbe18ae0a4736f9630"
+  },
+  {
+    "path": "armors/7671.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a1da651637e4145f8f5e74256066fbb14a1133110603ddddbd78175c403b05e4"
+  },
+  {
+    "path": "armors/7880.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "9a8e884fa40a5d6c34038246240383f6caf20bdfaba26bdfff37433d943ebf41"
+  },
+  {
+    "path": "armors/11172.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "ab7c49c73a40e717f9c3203367810b7acd9aae3914535de92442baa5f34b099d"
+  },
+  {
+    "path": "armors/11242.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "814e65e73999dd81edbb266d4741a1955541b9fd40956827307582644f3f85a1"
+  },
+  {
+    "path": "armors/11350.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6a0d48dab096fc4ce61df1ab258ab1195e2c3134bf5d7021e7e46a83be4d99b3"
+  },
+  {
+    "path": "armors/12483.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c33c7218eacdf0add880685e4590b0e7096d7816bcd28287c61b3bc697a97634"
+  },
+  {
+    "path": "armors/7614.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6df8995d5049bf8fbaeaf1af218b2786f3f001b7923d668fdba12085948010e5"
+  },
+  {
+    "path": "armors/7981.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "452e991d3a03c299e4fc43312309db475c8d4fe79cb18780fa42ff93c25037e1"
+  },
+  {
+    "path": "armors/13538.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "01e70950533c652652aa6d8ff5ae64e2a59c3b983181aec1f540855bfe27360a"
+  },
+  {
+    "path": "armors/8276.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a2ed55f10d71431bd15bdbd86b3718c93fdae44b2eda5690e80926a7c84c7a86"
+  },
+  {
+    "path": "armors/7752.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "9e532d2b9e815c11b66e84813999e8a0eac5417f24fcda4d6df9da5d82f6f475"
+  },
+  {
+    "path": "armors/8124.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a54f3bb90c98af15efd2bd539323c6bb73a1fb5da112c3bd2a3e1e4b121d3fb8"
+  },
+  {
+    "path": "armors/7928.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "4a7dab81e48c1f6d8905e40dca8bd2e807c39c00aa55ead687e6562c3ebfd083"
+  },
+  {
+    "path": "armors/7623.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "fd6c034fd94f45bd0f408598eef50efd202f62cc65308dbf79aa28304b968e4f"
+  },
+  {
+    "path": "armors/15453.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "10f386c0a55ade20e952616435a86721d8aca29f0e9be3b5a7072d1be7fcf605"
+  },
+  {
+    "path": "armors/7552.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "8bb4a2301bf74a962c3dd2e3db66eaa891d8d3654c7f12afedf2638ae21687fa"
+  },
+  {
+    "path": "armors/8175.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "fb5b34d2050bb9e4855fe265cfb52bab72cc86e8fa740033e90295756df506b2"
+  },
+  {
+    "path": "armors/8008.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "7d1f413a18adcae07af94ca8edb3c82b9bec770db3f59d8aa612023d09bc2c8f"
+  },
+  {
+    "path": "armors/8018.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c20d352db4498bae2526d1ad8d32dceed549cbb7c665a059f302b1c23a5b8bb2"
+  },
+  {
+    "path": "armors/7935.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "2ce248e13e457ba4ee43ffd367f92e8bbdd8d8c2962a5799589b47296381f0e7"
+  },
+  {
+    "path": "armors/8195.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "154466a9934794837636027e744807f594e93d1ba71ba20349f6745a42a37034"
+  },
+  {
+    "path": "armors/15374.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "ddc7ba9fa6111f49b15af3f33369244d9572c1190cd79df660d9e297c9014efd"
+  },
+  {
+    "path": "armors/8093.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f5d18a8b3606a3f9c233dcdfeec5990d6999604ab4f02e494f52c1a6279295df"
+  },
+  {
+    "path": "armors/15516.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "5d270e904301e171c6ef393781d480a968060f44c99b447d151f1abb92ce6e8c"
+  },
+  {
+    "path": "armors/7686.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "71df4155e81ae869d43739863dd5f98bb548ba4f9ac6764aca55a21b862b9398"
+  },
+  {
+    "path": "armors/7943.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "1f9de426968d07a1d94b6e80bab965ce9d39f6b2b31f7da35ba139c3f8a7d0f3"
+  },
+  {
+    "path": "armors/15456.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "994db26289dca54c3527faad6da57ee571a9f35d750bf6e08ca15826dd27f94d"
+  },
+  {
+    "path": "armors/7374.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "d19b56e3c42d8974f08cbb48116c3fccc0f4fc2e4d9aa7aa6cc1ddf7362cd755"
+  },
+  {
+    "path": "armors/8171.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "09fa15b43bf5667c4009a108e23cfbb3169f8339fc90f85d39db5f843dbeffee"
+  },
+  {
+    "path": "armors/8289.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "07d343c72928b5987dff0865f898e0f79b80fee5bc13a350be202a8593cf4b22"
+  },
+  {
+    "path": "armors/13518.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a569b6f80d54bc1df709f69b6bf2d6d1d70f350688e20e217f22c43eac30565c"
+  },
+  {
+    "path": "armors/13533.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c4590bb43b0fa8e19b00e128b67d1433b503a4c9185c9e80dda0725c78bf32e4"
+  },
+  {
+    "path": "armors/7431.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6408cded7926c07c92197169f33ec39a917b0b9c91f537491d37502769320493"
+  },
+  {
+    "path": "armors/11327.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "b289c64aa4fd406e95260975f2b8bdf0462cb5b0bc07533655d7023c4be5a9de"
+  },
+  {
+    "path": "armors/7628.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "902afec1725c8cf59e6ac55ec4a39dbff7e5f3477a4e0afa0e7a4b5751cfec56"
+  },
+  {
+    "path": "armors/8071.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "e4de6c51534830ea13b8d034869995d85cb47d0196d90840145d8b9c8cd912a2"
+  },
+  {
+    "path": "armors/11159.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f4744e0afb8a4c31dce42f481145bf510b1e869571f63e450d12ffe032a53d03"
+  },
+  {
+    "path": "armors/7897.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "42ac00fc6e309f58f205a18ad7229fcdb5c68cf5300fc29cb3cfc4837af57523"
+  },
+  {
+    "path": "armors/11309.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "b2ad41a125919d411b320eb971eed0c6584eda826ad3b32cd72e2fa2cfb20499"
+  },
+  {
+    "path": "armors/13506.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "e77da3a087792a0b297473ba8f3010ef8978c84bf0fdecccc6808bd430a0a661"
+  },
+  {
+    "path": "armors/7593.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "7ebd5c6249efd5eb3a0bf4c6dc2e50c7f14fa1eb330e34d69bab577f1556e0b3"
+  },
+  {
+    "path": "armors/7931.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "0045429020c6bfa1c5deb154f17942fa495eb406c8c8de7fb253f370efa1a05a"
+  },
+  {
+    "path": "armors/8258.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6300a79abf59d615d4f0e4aa697a3680bc2c2aeaea93956d47d47fc7d4161bf1"
+  },
+  {
+    "path": "armors/8248.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "febe79439770d23e1d9bbf6e3a7a78cc839e30115d29da3ac5477a48e89ab97d"
+  },
+  {
+    "path": "armors/11189.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "9cc7033dec589d6dace2ee1e91ce9951bc754595e6619f3ba6572ff492cbc227"
+  },
+  {
+    "path": "armors/7436.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "fd37f2c3ee90367bff6db559c5965155aa502c0babead9577dc9625854de6668"
+  },
+  {
+    "path": "armors/8022.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "469277e8d60f65a4ef9e08c3f380b48d8def780cf3e4d983adb983913fca520c"
+  },
+  {
+    "path": "armors/7645.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "fc9c116a01aeda660d520fb6e61807d7a0fbff5243651c509477311d65b3def3"
+  },
+  {
+    "path": "armors/7606.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "12d64ed62cf3a620a47a21d3a338ac1177d5c98e497f360b2893a2ad067e7986"
+  },
+  {
+    "path": "armors/7558.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "4d52e7f85b07c1cdb48567aa47efc38889d5be696caaac2c7c4fde2c9b616e29"
+  },
+  {
+    "path": "armors/7968.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "37923eec4813e83be4782025af7dd995b74077e50a0fdaf8d33c43746d8727b8"
+  },
+  {
+    "path": "armors/7451.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "d7599e94fa6bffe1d7696e2ab590b67473a7960965f56ca02200ca71aa9dea5c"
+  },
+  {
+    "path": "armors/7369.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a31d35d470dcb01fbf491eea835a94a00faa36e45c08c8a7729e5f4d3a5320a2"
+  },
+  {
+    "path": "armors/11351.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "308cb916313387f387db159adbe91228b76b3dc3f872aebaf8a34b98f413fd8a"
+  },
+  {
+    "path": "armors/12588.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "4f6b68d4b474319fc24a30b8ea44b44dc1c3095d608fb6bfe10164157749abf4"
+  },
+  {
+    "path": "armors/8062.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "5b45eef0dfd4e7b93b95b29cdaa063ef187383ff1affa187afc98bbbe945c155"
+  },
+  {
+    "path": "armors/8215.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "de41c2ae75db996ebebeeb445fc243934167951cdd2c8a353c15b66e50621d16"
+  },
+  {
+    "path": "armors/15393.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "993984b9e0abe4a55c3ccadade651674015033c3bec1cc4147688c80f871f2fd"
+  },
+  {
+    "path": "armors/8263.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a01d377c02586b82a5efe8d9cbdacf24ec0ae4f1ee1c9a57e47bb84b398c14c7"
+  },
+  {
+    "path": "armors/8140.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a4873aaca58d71330fdf9e91e309faae9b7998c1876a2db5d7c53cdf051658e3"
+  },
+  {
+    "path": "armors/12539.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "ba7b0e5082d180406ea795cd7c06912c4f9dae06add2e6e7834850a4fdb6fcc7"
+  },
+  {
+    "path": "armors/8051.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f7e3900d9b579e2646e87c0b78ee0030c66a4450c3f4b68510b7826d9d791b5b"
+  },
+  {
+    "path": "armors/12592.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "df2f063eb2d134777805a68812ac356e6b1ab7ff1b7c07be9c6ac1edbf4de48f"
+  },
+  {
+    "path": "armors/8282.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "d772385ce8121ce9115623d84b2adc88853a03b309286b16b57c51b917e4de4a"
+  },
+  {
+    "path": "armors/7379.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "3e1227cc0bfa71926c24b1bd7011b6dc34e1050e0fa9d9ad91e961ebe0108248"
+  },
+  {
+    "path": "armors/8193.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "0f35a9717344ce8c404b088beee04b9b7a938c66e2cdacb476fe2e1eb6f277af"
+  },
+  {
+    "path": "armors/11420.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "adf52921657bfb1692063dcf5abaa2c5489f200de2a977ba0adc5fcf4cead460"
+  },
+  {
+    "path": "armors/13517.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "81510b8e442a6f2556a781f8dcc14f90f7de8e4b4d08d246a365e9bf63fde721"
+  },
+  {
+    "path": "armors/15457.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a9e0c45ff31772a28af2564663fc5013aafded785f9cd51203e44cb4e0889a21"
+  },
+  {
+    "path": "armors/7429.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "3a90e03972fc6dd55303f8ab0386824a16e892a8e2ac23971d172f1a86a3f1f2"
+  },
+  {
+    "path": "armors/15509.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a81c796bfd1d852854ae89eb45bdb4dd8dbff62dd1e51dc7146d9e2552cf6887"
+  },
+  {
+    "path": "armors/11541.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c5ba5dff1dd8145e325a5bc5802167b0e4731883cc04f1ec06d2ed3d07e96662"
+  },
+  {
+    "path": "armors/7974.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "e35acdd83b46c783006c0c169c56cc80902339eb51a0f692887f7499d1a75e70"
+  },
+  {
+    "path": "armors/7727.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "1ff99e9c38a8027a1c493060f5628952bb64bf03b41b940ea52b62aa1f0be411"
+  },
+  {
+    "path": "armors/12485.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c692acdd11fd4a9aff06b6e619d08e80fa8c3a3366ff1dc4cb50a9cc2e4a993b"
+  },
+  {
+    "path": "armors/8264.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "abcb7b631de9fb0f1e42523c8cf953ecbb3f2ae8b592f669cceac23f96fbcbe1"
+  },
+  {
+    "path": "armors/8027.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "129e26bf028eff9d547d78f3d7cabad02888229ab0f90577d336c1587943bb6f"
+  },
+  {
+    "path": "armors/13540.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "ba576818562fbbe81d0e1fe2494bd14e55637905fe9ce6280c6be7ab1ec5d83b"
+  },
+  {
+    "path": "armors/12516.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "59783f9110c72a8afb30e8297a15ea43c8659ee03c6ac736fa30153fdffaef88"
+  },
+  {
+    "path": "armors/11441.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "0197a1ec72590a6fb171392b3c2904ddc8bcd1de93d2d95520394e4d5ff3cfc7"
+  },
+  {
+    "path": "armors/7388.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "21a3ab80952ded64507f0bfc41f224f7574c4b37dd1842281e287f2af1f52cf0"
+  },
+  {
+    "path": "armors/7362.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "94259a4a33131637fe09e81f80c2b6bb40b04e722f058cadbf587b24c38a34a9"
+  },
+  {
+    "path": "armors/12590.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "b87ed05e2b8563a7760a7bfb8750341a1bf8989ffaeff309645fb2d6462ca59d"
+  },
+  {
+    "path": "armors/8054.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "2f854fbd184c92aa025c04be39d3831f5b7ea564ee3a502fc0ce1bb9060f5ab8"
+  },
+  {
+    "path": "armors/8021.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "e2d78a497e4646d4aa56567696924f48cfe62545c67afc52c228122e1cbfd4b0"
+  },
+  {
+    "path": "armors/8006.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "85c707451bd38e7c20d6530ebf122aa6a73b8c21bd9a11913c3de6c9962891b8"
+  },
+  {
+    "path": "armors/7481.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "0235d2a5399c8b5a4dfafbb3b2ccdbcafc2fa7821f398ea7ea2842a7e4299ace"
+  },
+  {
+    "path": "armors/11224.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "cf2e029a0aaf6ba0ea80f7c837721754b05efe3f98fd0da1d88cb1db82e53261"
+  },
+  {
+    "path": "armors/11190.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "5effa1401dfe7ec43792fc853ba86de0bc45eede176a7b68d3199b4309aed8f1"
+  },
+  {
+    "path": "armors/7469.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "8cfe8af6c44074b3b0a913c72f3f7e9af7747098ccf225e6d6f52f052a4e86dd"
+  },
+  {
+    "path": "armors/7717.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "2fabb950d82c90eaf0e8ce271915fc71e52181f83845200bfbf16082b0891396"
+  },
+  {
+    "path": "armors/7801.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "89e9f2935f61d9bd8d3eda0e15c6944825d692b400b42d375d0303fd0ae0a221"
+  },
+  {
+    "path": "armors/15480.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a6dfeb84e87b4dc324b29364a2e818504936ef03b19137f2154dd1585e62692a"
+  },
+  {
+    "path": "armors/8177.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f46eaad0d41cf9d2cb1030a55664a55d6d963daf0afdca0d7d9ab01e5b06d82d"
+  },
+  {
+    "path": "armors/15365.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "95ce230452eaf6d7f20b1be9b09d9aa463fff447fd702068704355e3377fb495"
+  },
+  {
+    "path": "armors/7539.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "83ff957abc7601d85cbf2d57f481eba3117c964b666f0502156223cfa7d37a98"
+  },
+  {
+    "path": "armors/8038.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "42806241a58846877ba7ae95d52fdaba0efded079b4874ad9779e281159c034f"
+  },
+  {
+    "path": "armors/11179.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "42101ac728862d5e7bb7717a6d441ca7918760a9ab22fd40de411f30ebac5466"
+  },
+  {
+    "path": "armors/11531.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "51424abbaf873a6c94e7b391fbba6e1eef31eef4e17648201a5755418885a0c4"
+  },
+  {
+    "path": "armors/7677.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f249a3faa8a4423896c9386621859aad112dfa9406818c0da55d567b4b00dfc3"
+  },
+  {
+    "path": "armors/11532.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "0e25a7bc6d02072bacaede634c2d180ee0ea7bfc08f905c16564ad97a642b35d"
+  },
+  {
+    "path": "armors/8012.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "0b9ef0dee53d64e319f1b23fd009f0a5308d87645d95d6eb8437ef22f714c88b"
+  },
+  {
+    "path": "armors/15426.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "5643dbc67c15780cabf961f18d294f472b69366fafbe3f57da27d719cb003037"
+  },
+  {
+    "path": "armors/11561.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f66c40682f20ba0ce7592ae8956c0b1a9e3beabae005aabda0b3dfcd7c3085d4"
+  },
+  {
+    "path": "armors/12633.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "12e3ba20b099afcfeb8611ac67bea6c826200231e164685df84486a0131d239e"
+  },
+  {
+    "path": "armors/12499.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "84e899c89091260794df2bad892a081461555733c2ff09d2b83a34514362153f"
+  },
+  {
+    "path": "armors/7738.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "968e10b3199630e934028916b8b33e433d4031457652cf76cb3a76ab5e90bb6b"
+  },
+  {
+    "path": "armors/11258.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c6e6a2afea6dc270ba8fc51852b9c5e4889d30f9913bd9688ca5526af5e7fe4d"
+  },
+  {
+    "path": "armors/8271.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "11a604feca043417acf4679907d223bf77ce3119588c70be9dbef4542fcd9c15"
+  },
+  {
+    "path": "armors/7546.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "1eb5d58952f0428721d280f6f4729f54ac3a8689d3a5da822d71794a6fa6421d"
+  },
+  {
+    "path": "armors/8047.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "9744995b942f6ac6afa6dfda80050dd1080b00333a211a17e92d6848e01a307e"
+  },
+  {
+    "path": "armors/11303.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "b121cb514c31e946cfc5eecd43b287e5b129abdb33617d926ecb10349a003e0f"
+  },
+  {
+    "path": "armors/15411.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6c28fbdd5366a53b8dc195d248fb8fa9a35774b0e053ba510a1e34c1c8ce409a"
+  },
+  {
+    "path": "armors/15466.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "53fd541916a289064b7fc87af9beb039262b86bca4068fecb73fae92a072f23a"
+  },
+  {
+    "path": "armors/11540.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c8f67b4600c4f07d2190530827074ba612babc03eb64b6f980e1cb2a47fc9c31"
+  },
+  {
+    "path": "armors/7967.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "80310fa5291c96da892ba756eaf597e730ea5a22c8810c054134e704b1c27ce2"
+  },
+  {
+    "path": "armors/7937.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "7be9a025f5999347c1d978b6cf5f9767d9ff1171c80b2061c11bc68799afcc57"
+  },
+  {
+    "path": "armors/7467.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "33bd9ca09787bb432f50e098cbc63577aa37825d5f307c317cb3dea9af828769"
+  },
+  {
+    "path": "armors/7946.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "3c90897bce88d7fe4f85056bb5182ef5855771f478d52418f63db44874f179fd"
+  },
+  {
+    "path": "armors/12564.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f4d8130ddade923654a68dd3178ce3420a13307540d087691481678d6125c849"
+  },
+  {
+    "path": "armors/7633.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "521b8bb7cc3e81153c0b8919b5da552d46f701173b147e0264bcc05c48649b8d"
+  },
+  {
+    "path": "armors/11454.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6105601feaf7da645937c9ab07c76eb0c3f2851a6b2fe05bcdb105896fee0abe"
+  },
+  {
+    "path": "armors/11237.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "668d2f86c51fab9beaa91e84126c34ae51c2b72aec372c2b91acaccaf0d60a29"
+  },
+  {
+    "path": "armors/11374.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "f725d8489d8f769336b4838f1b095483fc2e5131c5a58ae9e31457fdbe0a686c"
+  },
+  {
+    "path": "armors/15490.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "912a1b545946a5d7c0a8a362c803423cf738e9be404198728174cd41c4480be4"
+  },
+  {
+    "path": "armors/7803.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6328f792a43853c5245e4a32620e86d29c31f48c7fd913c82d3654cc99a49607"
+  },
+  {
+    "path": "armors/12615.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a78bacb51ea7e066e3e415499899c4149cb0ec23ae4fcdfb2f1487a802a54ae2"
+  },
+  {
+    "path": "armors/11243.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "691b636cf3483f3834c5771f1498748fb26b7c62e11ca9bca44054dcddc69b69"
+  },
+  {
+    "path": "armors/7401.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "ec1c7ef54edc2f15c92b4489f2ad05bc54f0c24783d244f95d564013ee125e49"
+  },
+  {
+    "path": "armors/12608.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "401424d71fc4e3c4e46031c9e12277d1c404a0b88d50c161cced59c8023ddd83"
+  },
+  {
+    "path": "armors/15512.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "55a5c81336fc86110e948b615d8abd1e0b85320611b139708e03808077f89316"
+  },
+  {
+    "path": "armors/7715.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "fd11bafb97c7b1b529562610b9bb2562bb1a20b678b75a5a6700df2bdae2607e"
+  },
+  {
+    "path": "armors/11291.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "334fb9b880a17f3d380e7f5f6451a4b94918ba0275193c2a91009f924efa16e7"
+  },
+  {
+    "path": "armors/11400.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "d17d5491ae265caa94bcd8a9496d5b48f1dd6f11dc69600a992403be96f01ed5"
+  },
+  {
+    "path": "armors/7952.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "9534b23844161089f577661eb0342f832361ae980fc3596ef6b417fd3217f9b8"
+  },
+  {
+    "path": "armors/7529.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "6c689fb8b47adfa86bc16d1b2c202c64f9a6fa5227d0a280ed70e924a7167ec7"
+  },
+  {
+    "path": "armors/12500.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "b3d62d329ebb3e052678ab479565b91fa5b6998e94c18a7c67349328a711a56c"
+  },
+  {
+    "path": "armors/8234.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "b9241d4db2b95292a993ad7558c7354cbd6921dbd3d91d9766a56a5f7196b724"
+  },
+  {
+    "path": "armors/11402.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "daaaf36f9a68453cd6113a98592a1571567c5472a9146806b31da716c70b3815"
+  },
+  {
+    "path": "armors/11210.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "dbab42c079d5bcc73efa8aabcd8849efb5cd5851c4e701e12bc1b0f6dccf90bc"
+  },
+  {
+    "path": "armors/7823.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "836b79d97b10a9466c6b238d94aa3f01c8427b810186f54a282689e046cb0eee"
+  },
+  {
+    "path": "armors/12542.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "a4e51b6ab25917d7cae3c0843cac168162d22123f08b30ddd43b4d593bad511f"
+  },
+  {
+    "path": "armors/7348.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c5ceee447c55d9e9a428e4c95a620b028aa8c889ea1faf89183a922a46cfc32c"
+  },
+  {
+    "path": "armors/11312.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "87a7eee2a5613104905c2d35f5c68e92206cea661c40844b3bcfdd78c348be7c"
+  },
+  {
+    "path": "armors/8187.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "dfe0fd723dc2cf82ba112d625401b3b9e0d9ee850ae55dfe92e7f2dbea01616a"
+  },
+  {
+    "path": "armors/7913.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "94e58078dff2f67142a1884d0e151c4f8a2a10dac14f632ced12612f88f13c50"
+  },
+  {
+    "path": "armors/11508.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c2535bbd17fa29a4851849149b6a04f1cb4b60e6a720e3e2cea9354e68112991"
+  },
+  {
+    "path": "armors/7742.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "0e1c578b426ad94250399cbc71c96894dc980bca99bc65d1884c94571fcb0018"
+  },
+  {
+    "path": "armors/8028.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "e2d3304270bfb0cccb74b0160b97b8e5112844e403040ea09f154e6b407c6974"
+  },
+  {
+    "path": "armors/7780.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "c6214a5e8c07c15972b0ea251afe273a4d4249ca599245f37d68964f4a7f7752"
+  },
+  {
+    "path": "armors/7462.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "2dc1420fc6d1cd11f9b02c655d2cbf9385784616323ee32c7f732e21e23a3220"
+  },
+  {
+    "path": "armors/15402.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "e165eb9cad0ed2f1c41dab39265d982b8b7698d78ed99c0970fb6d87e3d1c011"
+  },
+  {
+    "path": "armors/12617.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "7db4ee27b6663553353fe9bfa0c60d025e85e413addb351f9d9aa32057fea20a"
+  },
+  {
+    "path": "armors/11549.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "4be8c9e00ba33258b0ea3081a4bfe4dce81e5df2de8c21ce6f12929ddba76458"
+  },
+  {
+    "path": "armors/8009.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "b85f1979cab3214466f8d4fc7923e7336373995dfe4e050deaa4aa7f329ce6d6"
+  },
+  {
+    "path": "armors/7448.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "d691119c1a07cbdd90666995709a3c300b09f7202d8101bae15b25e9f7cdc312"
+  },
+  {
+    "path": "armors/8227.jpg",
+    "label": 1,
+    "digit": "2",
+    "sha256_pixels": "d3ec5f1eb013739d02cfb2dc998ef04183320ec65cb145ab57ed109fab2e6cd5"
+  },
+  {
+    "path": "armors/8397.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "e7c1c96c336753c6f50c8c8d5a3b4330eb91c5b558363e6a222137993081a8a0"
+  },
+  {
+    "path": "armors/8558.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "033b3e0ba69acc3fca3d883006bb28ba76c41beb51d8d23055d70e93c057d909"
+  },
+  {
+    "path": "armors/15534.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "ef32d803421c3ef93f27e5e8473ba92a1d44a54132a6f290cc6c1c925772987d"
+  },
+  {
+    "path": "armors/8644.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "826faf1e1c3d61b1765c38fe89f875906cab467e75921fc9a59d41f3e49089ad"
+  },
+  {
+    "path": "armors/8710.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "9f270d1946e9b267838a1bf840a71c3f7995c85cb5d51ab54e4b4bce19a0fb2d"
+  },
+  {
+    "path": "armors/12128.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "6a45e5609d336a8ad0256fdf1a76b088dc030bc3526325d6a35f91db0e840031"
+  },
+  {
+    "path": "armors/8363.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "787d281aba171dbae6d81933f9f9952e93d9fba2bb82f690e4536446cff97fb3"
+  },
+  {
+    "path": "armors/12725.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "e521fb62e7bfbbcb1a63d14e9de0b8fa7de13aea200caca453f561a16ea6d9d5"
+  },
+  {
+    "path": "armors/11616.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "4c1d3ebab918bb97ae4ed9ae23bdc888ab44f1f7ae0d6075264fb20b38016f61"
+  },
+  {
+    "path": "armors/15667.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "a6fbab72e714d7341c97837eb6e542162e25a8a2b21369ff578b0a58d7ff6f49"
+  },
+  {
+    "path": "armors/15728.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "ae21a5762779d0be1c6f2cbc908b8c379d9adff18eb9843bc1586bf93206e550"
+  },
+  {
+    "path": "armors/17944.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "400c6bd894dd5a8e8da9749ae2f3a49c01e9ba425e23365f995ff1ca3177f2d2"
+  },
+  {
+    "path": "armors/12659.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "7662f236faddd0c94d79724344996385f5749403db1bffd168f539da19a74e93"
+  },
+  {
+    "path": "armors/8508.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "1b2bc31debf6ef1eb6865b74b8d796ac6777d7a69ba51ab37c6ec8236a0e0e7e"
+  },
+  {
+    "path": "armors/8948.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "03447c6b3c31e1326f1650cfc298e791c3a2671e42c7b9bc6137bfb4f84cc883"
+  },
+  {
+    "path": "armors/12743.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "32495e4b1a3e27f42b5040ae92468db7fc22c1e9d9d7d3688bd0d615cad325e0"
+  },
+  {
+    "path": "armors/8529.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "4d3f83bf733ee66cd26f8a98bd1a1a464d77b9aa98b7a2821d3bda324b4dad11"
+  },
+  {
+    "path": "armors/15601.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "ce5e9d1943b7d131b304030811e84d4567685d3664bd2f2b97140b7a3ab3934a"
+  },
+  {
+    "path": "armors/12789.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "d48f45eb54eabff96967fe1948d8a7661a8bafe569cf4c23a764295c61052276"
+  },
+  {
+    "path": "armors/17946.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "1393cbb6070664cbeabaf2bf5dcf801fc72dfd91e5f12cc0b8a11a7ccd6b2beb"
+  },
+  {
+    "path": "armors/15646.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "90dcb342e7d1be732e9b5aa02a31cf5f3a8e00175047b3af150940deb105f059"
+  },
+  {
+    "path": "armors/8469.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "84e525ff6375fcbbc25a0947973dbfcb1e1dd92cf225f31a910711432e70fa54"
+  },
+  {
+    "path": "armors/8612.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "66441fd8c630397700b8bf6a7b4e39947d79710d0057e16ec19cf6979c40f651"
+  },
+  {
+    "path": "armors/17928.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "7e6489320163de71e292f2ed975dd4acf049b6392c05f52b67f23f4cce5a2d49"
+  },
+  {
+    "path": "armors/12119.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "92812f3b66302d9d9b3f11f7a1ce1e6f27d250e57b5cc284355fc81cca54a456"
+  },
+  {
+    "path": "armors/12734.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c08f062e6959677dbfe854286146d3d6d90f0f349da192c56a1ac1701c069b1e"
+  },
+  {
+    "path": "armors/15666.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "f85faf61940d057fa62d5274363f551a8c3418f7575cd346c4d6ed5f903b6486"
+  },
+  {
+    "path": "armors/15689.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "b14b5e5f6f90d47ea436b233d4d2f652051186402e0f8c946e1c017d7ba36b24"
+  },
+  {
+    "path": "armors/8315.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "0b70103ee322f2e8d400f65ac58bdc3e55ca5c9a50e21e90e7feaa42b5a9e4dd"
+  },
+  {
+    "path": "armors/8334.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "d186d55b21db2d1a0c49e4453941ed8f712734089c136bfbbf3f72af2bc5c678"
+  },
+  {
+    "path": "armors/11608.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "f85a0e5f7a682936fd97a4b25692d4bb3fbdcbda6be48c380e0c11de47c6e5f5"
+  },
+  {
+    "path": "armors/12702.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "70e817d50c2b41ff8284a4ad82ca5414f29369ee50a240cbc12fa60042234b86"
+  },
+  {
+    "path": "armors/8753.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "a131d2cd0ab82b18ad68934489afd1a6fa13bb2711149e75480c8e08d8072bae"
+  },
+  {
+    "path": "armors/12216.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "126b9c7171d223a88b83f0ef49fc397d6958b4c6470e0979f7f8a3ab31c9e918"
+  },
+  {
+    "path": "armors/8765.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c87d0a9060c67915b3db5a85b32701aeff7ca0b54f916467dfae0079527d1004"
+  },
+  {
+    "path": "armors/8402.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "4e420d9f15749a4eeca53154d967306cb1610626864f83ffc978106d2b00cdfe"
+  },
+  {
+    "path": "armors/8360.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "49f7cb03ec3898b97d90550ce8db3c7264aa3c2f3bb732b4e7bde920c4d68d25"
+  },
+  {
+    "path": "armors/17907.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "e68d27945d02815c0bb2a6bfd846d5bc08f3ace6198166ab3c6d9789e909c786"
+  },
+  {
+    "path": "armors/8737.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "d117871c96b7ae6e9e840b84f966ec7788daa5f6da94691308e015401f7329d3"
+  },
+  {
+    "path": "armors/15722.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "f2df8c609558c6d6f85f7fb067c158c41cba82a4ae77029c7e0927ab6d92bffd"
+  },
+  {
+    "path": "armors/12637.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "79b7ed16b1a511567667a378f7bab1b8a2d69a2b0a2f32681fe3e1c1595acee9"
+  },
+  {
+    "path": "armors/12781.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "420bfd99935f3d4fd9421bbe3fb57a91e802f64062369784f8b204b1c3eb08c6"
+  },
+  {
+    "path": "armors/13588.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "3d2672878cbe1d645ef6c8b3c7789de87004ed26b15797ec7b80a10d5ed73f7c"
+  },
+  {
+    "path": "armors/8474.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "57499cd4921772db8a6fa44e0fabd8ec4da132fa2472f39e5380d9acdcdf3756"
+  },
+  {
+    "path": "armors/8349.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "e92147e86985d99a6d0adc4df4f76da8febca437f0f9c74e5fce4b23a76c669f"
+  },
+  {
+    "path": "armors/8850.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "8fbe7550529fe7b7b114d3f0da281b765811a294f676700b3d1f57334a244431"
+  },
+  {
+    "path": "armors/8375.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "11ff0b2d2ec512bd3eb8515af3875c062d979aad27f492f7123d3dc62dc3d0a8"
+  },
+  {
+    "path": "armors/15566.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "1e48f468d5dc5ee5b8a7b1a7a793513f079d21e649475d86f407ec013acfc17e"
+  },
+  {
+    "path": "armors/8540.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "2b46eaaebe4d3ab9719b6344d3e08ab6d190c1914c29612816cec6073ca28d65"
+  },
+  {
+    "path": "armors/8709.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "7154e10e3350501ecc8808564bb3409718ddadac4ac6dbef49883d8443b9e2ee"
+  },
+  {
+    "path": "armors/15688.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "4183a9a3cbe98f3937fd00b326ff6b7bcc61ff03c1a944bde90e924126b9b0e8"
+  },
+  {
+    "path": "armors/12783.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "ff2e129e4edbe3cc14e307cdb65d9393e1bbb521097e8c283254f5122b232c78"
+  },
+  {
+    "path": "armors/15655.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "febb487625d13cc8281bc7db6656d43c370d5de1ca0e32ae5927f3897c2d2a7c"
+  },
+  {
+    "path": "armors/8667.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "8de64c29d70b5a7922d261b855f83ac96e25663847d10c8464265705fe7b0fb8"
+  },
+  {
+    "path": "armors/8678.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "d83fc3bfe6ad07969094adaf0d8752d70d1c125427d75b6f610cd6429b16184d"
+  },
+  {
+    "path": "armors/12635.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "a01e0bcf30c9baf081682acaf3dfaa4d521795deaaefa381806609ce1808ab28"
+  },
+  {
+    "path": "armors/15693.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "64757440161384895ddba4afd9a4765f47eaff37992714a2cd2bbc0bd6026b51"
+  },
+  {
+    "path": "armors/8890.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "fd3f59abc1f10a434eb57619dc7a471150366868cb4bd77ce2aba45233ad5b3f"
+  },
+  {
+    "path": "armors/8574.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "efd00104dcc2d05cd22e71d5ec5383d58ed28669c7bf45dde4f1614105438d52"
+  },
+  {
+    "path": "armors/8522.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "f7312064159a9797af381f9dd27d4253da9e418cfa4a8381028ae7c55850e253"
+  },
+  {
+    "path": "armors/8371.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "06792ea2438e8213cb7e857a1a87fa12310564040f7ed217683b1ed5a1b2eb72"
+  },
+  {
+    "path": "armors/8960.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "2c121d1ea577a16a8e4d1ca2abedf3ad44b009461836c63ff1fd8360644466d6"
+  },
+  {
+    "path": "armors/8718.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "de8cf318d1898ca4d1000b0610c81db1a358ba45ca9aca61cde8d58faf7f439c"
+  },
+  {
+    "path": "armors/12859.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "37d7979424a6b854bc9e385ada7e9b51e7ac80cdb63679c2fc5ebc3fc4fd31aa"
+  },
+  {
+    "path": "armors/11565.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "5cc7f30ceba84ac4d4b8fa4be0d984e88e142f72ef305ed387c5cbf8ffb4e062"
+  },
+  {
+    "path": "armors/11596.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "8545a83a92a72fd76af1abbbdfed69c52f34fefbcf30220c149d4ab7153dda49"
+  },
+  {
+    "path": "armors/8910.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "bb8d093fcf149882c47f71c09d37fa0bbb49299a561c99db27e39438beb7a7ff"
+  },
+  {
+    "path": "armors/8356.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "2a73d2e4581701800276da521e3397e98061cb986fbde2c773b524a7668c1c15"
+  },
+  {
+    "path": "armors/12675.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "6c09c79877d27a6c6e352d6a26e4f161d7c3929fe3b062649eb4318d3bdcb49b"
+  },
+  {
+    "path": "armors/15626.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "80c4e11d467f6924c307ddc01d0fce8a952fa822d92b5b80787a151781bafb66"
+  },
+  {
+    "path": "armors/8871.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "24d7776647926aa1fe5f408e016743105151ff718680e36c05b3d45358d7eabe"
+  },
+  {
+    "path": "armors/12669.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "3564effc99b515c876322af3b993f15d8990a32e7af87d2f7f48a333034c0462"
+  },
+  {
+    "path": "armors/11650.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "2ca4aa760caf2c33eef18deba5094390637729549bda5ae1cb5de89798395132"
+  },
+  {
+    "path": "armors/12798.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "1a58b35ae721a422d9da1546de948a91f4489d1ebf9ec45822e45fbb478f46bd"
+  },
+  {
+    "path": "armors/8549.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "4b9e239039ac632542cbe543948dfe81688866990fff5f9a1c28edcab4c99fe8"
+  },
+  {
+    "path": "armors/8441.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "77d1d08838f68965bc501a7d8d4b64599e8542fc8525b73ff0db15d454b8cd29"
+  },
+  {
+    "path": "armors/12677.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "af321536c942e6bbafbb6da1f68cedb7f23c9b67b4877f5db0063ffdf084b6c7"
+  },
+  {
+    "path": "armors/12664.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c622e742916a1ad5b58be031a164905cdd4ad6775b80abe75b58af8267a30336"
+  },
+  {
+    "path": "armors/8692.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "b360f69e549055a6ed178b38e1fc2dc1ca3c23c2dd86e75832231f03214563cd"
+  },
+  {
+    "path": "armors/8621.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "1e10603c8d1e9a1f5840a3361af418fcfa6776648b27ef7561cf80f135b08a6d"
+  },
+  {
+    "path": "armors/15731.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "bbcb6057a0697e1943803190114d06285a29e1afde45737bbf4bab1de18e2225"
+  },
+  {
+    "path": "armors/12829.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "310c4a74f9e4f660cdad35a0708e160b67e9f8e226060427db1f8a2e68ddf581"
+  },
+  {
+    "path": "armors/11661.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "ce96b83ad42893efbe187b4916eb2c477f9ee3504e614492cfc0c78e1474fe1c"
+  },
+  {
+    "path": "armors/11659.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "e57ff0bfc530d47ee184ab25e5610a4f78d412a6e3ad901c8b96857bce689936"
+  },
+  {
+    "path": "armors/17900.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "ee9fd4008028d419b5f5827be61fd8e4a41eda9de8f3ff58200bf43a293f02ff"
+  },
+  {
+    "path": "armors/17807.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c5100b8071a84e339d95338fbf27c9939a7db24c3f167eb0bd713a118cbf029d"
+  },
+  {
+    "path": "armors/12762.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "576b8204f0b8f172ee5a84d631e2b2cc6c6ae45e4844bcefca702e245b4b12e7"
+  },
+  {
+    "path": "armors/8814.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "0ba95fcd4bfc4364e8123d883a3f98aef264b19002a6ef9db99a8d6792443684"
+  },
+  {
+    "path": "armors/15702.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "6ac73243a109d026bdf46bcaac398fe9208bc3a88348d061bd29269dc4c3513d"
+  },
+  {
+    "path": "armors/12860.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "3a6cb0dbb53c4fc017f52a9449d9458903778f8a587d14eaaeeca285a854e0ab"
+  },
+  {
+    "path": "armors/15647.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "687b96b1500bc7dd76b05ec10028d07b1184397c9104bfbca720b1dad3c773c5"
+  },
+  {
+    "path": "armors/12694.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "bd4a1a086f216c41550d31a8bd4c7aa5ee8b5f4c6449e01726d0e5a937675d9c"
+  },
+  {
+    "path": "armors/12808.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "2ee69ed0c297f474f08e514921c2bc15d2e70f105eec5182763e7e94126086e8"
+  },
+  {
+    "path": "armors/8511.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "10ebe2b423c439830be30ef08b6c260c35febe925dc83db72037c8d09c064d4e"
+  },
+  {
+    "path": "armors/15622.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "9f287e9f5a9235da8a1486a2c8286dfbfd26187651321a4d5a339904759cc62e"
+  },
+  {
+    "path": "armors/15651.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "9f9783efc87597d7594047f64f0462aba878732daaf391f4c32d7d25b14dbd2b"
+  },
+  {
+    "path": "armors/8485.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "871622ad89890ccc4ac7d4af04c385a4541d181961fde80a7c12902351f4a946"
+  },
+  {
+    "path": "armors/12746.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "66186a5566a5e0cb4dedd32de3f9771f44da12d74e577fdcdb316f26beba2014"
+  },
+  {
+    "path": "armors/8988.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "512fc9eea4e5cc6f5a332b0cee882320c03b50f58f3732999b8b377c1e62a1cd"
+  },
+  {
+    "path": "armors/15552.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "300d9f7038d6b96fb5e8c7dad544c146d4b19940ba781d28b253c9aeacbefd53"
+  },
+  {
+    "path": "armors/8731.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "2b7edda147cbec8e40feb91bfa7e97f1f463fe2e69a200019f9d85ba761e2f53"
+  },
+  {
+    "path": "armors/15564.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "e959700fb9a0bfa0ced74e4a6f56c2d49b1680a0791498d96169cf89dee75e26"
+  },
+  {
+    "path": "armors/15520.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "8becac44c6e07b763fa5c944711e9506e172c0484c7f226d702962282017593d"
+  },
+  {
+    "path": "armors/13645.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "354abbecb12f2026c1f0e52a2ec998afbc4447ac6ce39bf994500704151d29ea"
+  },
+  {
+    "path": "armors/8572.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "979a421937f4d54a849bcb04314f4d1d522b840d226dc82dd61537dca19633f6"
+  },
+  {
+    "path": "armors/15616.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "8eaf1c111cde2456345fd9bd5c65b92455350e9164d138c508c2bfdd5e17328c"
+  },
+  {
+    "path": "armors/15637.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "f71f02567d79c0c3c1873959b876e1da5e34b5b64ddb1115dec3590a4054c5f5"
+  },
+  {
+    "path": "armors/12086.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "4b6ec4cc7b7b1ed01e559ea6eae934dd71ccf747dd953949c7ed84fa32260f09"
+  },
+  {
+    "path": "armors/13579.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "3679f8783765e852e210762d3b382d24ca8f634d5a2d8bae5109818538bd9353"
+  },
+  {
+    "path": "armors/8752.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "1a34553a301a65d1eae36e2229c631522dd74c19fc07245dbb475a81f6c9286a"
+  },
+  {
+    "path": "armors/8453.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "3e1bbf982fdbb34f58e125b4c6569b9bd008c125b287bc256c168108b9358878"
+  },
+  {
+    "path": "armors/8641.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "42fe1c2f9d862d2e5db88ed60092fea7b77bddbb45aeff23cc46e604cef7e684"
+  },
+  {
+    "path": "armors/8783.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "5ecfcffe59aefd9ea12e771ef6902111784c4bdd6e71ba37e736b81b4bf16868"
+  },
+  {
+    "path": "armors/8778.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c3f05fb5414be84be6311955dc64b219563b592aa9a0ec5471051c6abe4e597a"
+  },
+  {
+    "path": "armors/8300.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "07e64c29e6b8139417456603b86b17f47703a45c3e78a7fadacbb30c417fd690"
+  },
+  {
+    "path": "armors/8388.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c3b6d377c1b6cf48e5e63fdb87b57b00e6acc7e217b3c918b0c92687619c843a"
+  },
+  {
+    "path": "armors/9003.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "aed3a544fdb3a2340e5ca87f98405c2d2743090a0ca3e42c7d9e47780b3fb459"
+  },
+  {
+    "path": "armors/15695.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "dd7cfa97db942d4663d3776ec91995b8de1eb2841fa61e5314ee6c4948096372"
+  },
+  {
+    "path": "armors/17962.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "72555b57197fef3eddadf0bef91fb06f82e8dbf1bb4b9f492159a7a6106bca32"
+  },
+  {
+    "path": "armors/8660.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "92530a6eb5853cb71b661da240774dea7652e357ccccdc15c435273aa5b2d4b7"
+  },
+  {
+    "path": "armors/17844.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "f0acfe472890d9b544cc7b88e8f823b15cf01361cb285614070b0e453d621539"
+  },
+  {
+    "path": "armors/15535.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "5c73be85cc5936fdbd58f28e2b7c840c6a2afefaaf9826050efad0855c452a9a"
+  },
+  {
+    "path": "armors/12874.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "ff96afccbd70edeed6af01a0d12d1023d76b48b2fd996cbd2d86587f38072bd5"
+  },
+  {
+    "path": "armors/15744.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "cd28f18ac7510f536414139955e9eef9385fd4e937a9719d1ee15a4053a6dcc0"
+  },
+  {
+    "path": "armors/11588.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "5ed225e475142a484acf90c1f2aaa4880b7f19d2911e1740f86cb10d98dd415e"
+  },
+  {
+    "path": "armors/15582.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "6c89574f429e870c8729ca0ef64d7dd6a69e3b4f78ebda9ad9bf60ffa4951f7b"
+  },
+  {
+    "path": "armors/8762.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "4f81c9fdaa6bfa87ad4cd499fe26f122fc23b7f13db9f796ae4173badb52fa29"
+  },
+  {
+    "path": "armors/15578.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "071bfc2808d4200aafc6c1b49a6105cede2d9f656a8a23e8900309a83aff18d0"
+  },
+  {
+    "path": "armors/17855.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "2eed74fa3176986b95d21a5fa9a1c47aa894293de333906e7b428d759c40fc86"
+  },
+  {
+    "path": "armors/8932.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "3ae27e80840d713634873ee703ca673341206f4746e9b1c5edb8b274186703fb"
+  },
+  {
+    "path": "armors/8911.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c747ebae688de0a10b3887a32e10ef555571c38bbde043187f53c99ef5899da7"
+  },
+  {
+    "path": "armors/12221.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "661d25a056f885af7e4dda0f65caa10816a1b7783502d5c8b6a0e849b9321868"
+  },
+  {
+    "path": "armors/8797.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "413a453cbb5fcd6e2e5728d7f7a11cb0bb76a0e11649945ec8881777c6cb9bcb"
+  },
+  {
+    "path": "armors/8630.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "1b1fe1a81e37e4473495017c82d3b11a91cc472f47b8aa0eb94db5b046520d3a"
+  },
+  {
+    "path": "armors/17886.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "35eb79b1172934d319a6a5885013dad168c9e76701eba606b272b169c36b5aa6"
+  },
+  {
+    "path": "armors/15529.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "8cc3fd6e92b59d3e0886540f7138aee7fc4ec08ef694f4b2659345d62fe5a544"
+  },
+  {
+    "path": "armors/8714.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "10c3eb556c653ca6ce62daf490e6e0f931f671d04cd1a6495e082738506e5c18"
+  },
+  {
+    "path": "armors/12747.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "418183ef10655ecebb7734a6968bb67585093b2f1c66236b869267637702bf8d"
+  },
+  {
+    "path": "armors/8971.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "eacba793a78af794ed9a252a0c12060e899d29eab15c5cd24e109720f7a75403"
+  },
+  {
+    "path": "armors/15558.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "8036a5d97b751e580656e93c4e5d3aa7dbd48cdc43af0bed4872ece8d3fa8c64"
+  },
+  {
+    "path": "armors/8991.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "186e25717e9403f4ea0bbab4a5aa6529a9ba8f4fdcc1cdffdb17167dbcb2bc89"
+  },
+  {
+    "path": "armors/17845.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "a66c5cc0ad20f4d72b5e9cacabcd3136d7adf29e5344bbf27e949c6d36164d4d"
+  },
+  {
+    "path": "armors/8757.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "e2e7124f563fc22d2fe3788b9536848d2ff1a3ff45db2e2b9dcc792ed4a0d721"
+  },
+  {
+    "path": "armors/13692.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "ccb5512379ad7bce3acb055d07ca6831579487f198684194e56d6a6faa09a3e8"
+  },
+  {
+    "path": "armors/12801.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "49b16e68776b8dc399f543d3657aef76a66bcbd4c9c2b822047c637a0d67c077"
+  },
+  {
+    "path": "armors/13611.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "327cb0a5295f6c0565ba4c53a21c021485e518cd71d02c211746d9a81b8455bd"
+  },
+  {
+    "path": "armors/8633.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "a7f645089cd9aa6072a3813b832de86834a7f9808d3f38dc99052dcdcdffa757"
+  },
+  {
+    "path": "armors/8547.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "d99061b7abf6d4da63b6bf87836fa1a046b2e01ce2f3f82bef85b82c52468f4b"
+  },
+  {
+    "path": "armors/12212.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "4c7cc5935eeaaf5a5324bb3ce51a5e4d2fc486da4582e76fbc715a372a4e90f0"
+  },
+  {
+    "path": "armors/12879.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "5fa73ccddc3d84735332c70fd2a3ea238c8cdc59205ae902b763e620f207198a"
+  },
+  {
+    "path": "armors/11603.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "ed8aa29ffac20731292ff838bea1547d9f87002641c9962adc6596624692a905"
+  },
+  {
+    "path": "armors/15532.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "8937b122741c67099c9362d5b8306582de2ca24030a6f1827a0cdfca2d612b0b"
+  },
+  {
+    "path": "armors/12741.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "64badead5349a13eee799536d76185c7285247d7ffcd7e1d60696046bf5f0e8b"
+  },
+  {
+    "path": "armors/13606.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "6e5301a99fb0eb05b6ec5c5f4f4d27192b2ad9366cbab86d77dafcb457780ebf"
+  },
+  {
+    "path": "armors/12846.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "6bcf79d7d4200ff3a617b7fd250ca2bb9e6277b16d06e1f97a8c7da539cb1da8"
+  },
+  {
+    "path": "armors/8608.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "7922d517efbb8c03e1da4560d17dd1cdc19e9c466996d9298e63e6e5928ea4bf"
+  },
+  {
+    "path": "armors/15658.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "023756862e144024648aa40143b97ad9ae6bbc7f23a86b0424b08d8588de1074"
+  },
+  {
+    "path": "armors/13690.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "f2e7caee2b915f6dfcb9ad47ba735e58f9a5ea142d8748692d5cb3fbd4db2cf2"
+  },
+  {
+    "path": "armors/12644.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "9d894d90ba61f2efdaa6d6269c8b8513fac906224a9a89a742c425a85efd0325"
+  },
+  {
+    "path": "armors/8687.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "961bd418c618d0955ea2979c2768226afb936860b0ea10baadc9ce291b4d392d"
+  },
+  {
+    "path": "armors/8302.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "66aec6501b4f552bfd237dd50a583efb345c2ccc2249825e3404f356d6e3af05"
+  },
+  {
+    "path": "armors/17880.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c1844ee3afed7e8ed1106aecd16798ef7b6bdfbde016a636bb349120a0c2995b"
+  },
+  {
+    "path": "armors/12639.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "b496d0b6773bf388ddcf25d48742aac951f4518ec0135f0fa9479dfd9bd04b12"
+  },
+  {
+    "path": "armors/8553.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "b323cae60357631b3826729297e0f9d1fc261b0e4f6cd87db84cbc02d46d05c4"
+  },
+  {
+    "path": "armors/17829.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "bc6d62695dc93454ae52c10aa7cf44540e6e3d2d4266219023c1d8d3ec4e1d12"
+  },
+  {
+    "path": "armors/8352.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "6f0c7f086dde9ed466b2f1a1aed14e5dc3010a82ca0380f2b8f3e2dd22261900"
+  },
+  {
+    "path": "armors/15675.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "a90a6a639f98d55b65f0000764a03b0c52336b63383e7ebb4ee54e494ccf96f4"
+  },
+  {
+    "path": "armors/12793.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "4060c29d028d58785139e0eee0ab8ec5b8d1ff5e377b83d05e211d9a999536f9"
+  },
+  {
+    "path": "armors/12636.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "644f9a3d5f398db82953dbe6fd97a859d9cdfadd0ee22b8c755a4bade0319b47"
+  },
+  {
+    "path": "armors/15652.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c87ea2fe54bdc68bbc42780fe6967ccb95432fea21996f5204a0b745a37e6692"
+  },
+  {
+    "path": "armors/12749.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "eb52670d709ef629f7ef9ce05bffe5649e8006696300836e01b3dfb70dae6aa8"
+  },
+  {
+    "path": "armors/13669.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "44c2a9e919e61877b07ce344748ee672d016991860a748102cb9e6aa01b817c9"
+  },
+  {
+    "path": "armors/15543.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "7ec911a50b85034f2fe919e523dcda8d464c4cf9527aa90f7ab57ce6261ec1e2"
+  },
+  {
+    "path": "armors/8444.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "2d9b2945c9ccbc65c2ee087bd53f0534779ae778c2cc75f716aa8a331e84252b"
+  },
+  {
+    "path": "armors/8929.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "cc6b8ef1d1ce5fa44de962ab76bbd537f8f5b8a48e5d301f4d1b22357a975375"
+  },
+  {
+    "path": "armors/12093.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "78e8911e0a28ed108e7d1ad04492a6c31ff6406c3e4a03ffff6cf3d4dd55987a"
+  },
+  {
+    "path": "armors/9001.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "5b63b0205bc03bb6b59a0738392a0619812aaedf6c532e40a4ac2b4961a17845"
+  },
+  {
+    "path": "armors/8806.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "44c61d5bb68a45d16e06358d603ee46ba423753bcc7154617cf73fe4f6d1116d"
+  },
+  {
+    "path": "armors/8496.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c9d19d8afdb18f7af88efd4c838bbd8367af0db677c45c989610a892b4894605"
+  },
+  {
+    "path": "armors/12094.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "8168375b73a44d7016a627e8211b156407691f3f810c2f4ea5b022404cd02486"
+  },
+  {
+    "path": "armors/12720.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "e4314b4378f650614044c710ef94941a045b187ae3fdc191d3316a6cc8dcec9e"
+  },
+  {
+    "path": "armors/13582.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "f58e0c4379a6d44df8ca0e6e73755f8aea36291f25d2a629d0f6285c264ea862"
+  },
+  {
+    "path": "armors/8994.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "a0eb9e16ac466424bc90d7d64c9bed89af387232dff43782445872df21146219"
+  },
+  {
+    "path": "armors/13661.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "469de145d2057d2d6ece5b07db2fd87dd9bc05efcd88c938561baf8a166bc2fd"
+  },
+  {
+    "path": "armors/12742.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "f583cd45c31b84c6c68eaf42fa93a21cf06e14c404e28a482a87b2373a58f01b"
+  },
+  {
+    "path": "armors/8445.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "eaf7e8eabff6256b1a0fb8af5e300a8cbbc7c1d402766754b80a7a006235134f"
+  },
+  {
+    "path": "armors/8347.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "957db56e7368ae8d3bce0717c381834caab4f194e1203bc7c68179405b0425be"
+  },
+  {
+    "path": "armors/13656.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "4185ca79a8224c95823cd61181301ff29646bd5578d784ceba4687c07799768b"
+  },
+  {
+    "path": "armors/8842.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "7e0750161f93a53ee4ae3b133f7d062bd4d243ff475ea02fcd76d1d77aecd8e3"
+  },
+  {
+    "path": "armors/12672.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "f76a8991f2d4e77fdb712625cf68d72f6f002f40aaf0508b7efaeb2e0c1138cd"
+  },
+  {
+    "path": "armors/8463.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "74ff6b84c9f9a838e8a37cffaae48486af8e9d90297fbe48ba38acc14ec0c174"
+  },
+  {
+    "path": "armors/8839.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "b0fef9ee9e01a65e36b68f9274d9d15fc477a31f4650039e96573aec8a5f0a63"
+  },
+  {
+    "path": "armors/8581.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "8238a5ca802768925bf8dc3177824e93051212a047e3eeb077c6642c58f3b0b9"
+  },
+  {
+    "path": "armors/8875.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "245957f8264db7a86a5774bda3bc422846d6a9c3fa778afa1801b17e573d3bfd"
+  },
+  {
+    "path": "armors/17904.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "17faf612f30c682ddb1a5b3ac91aaa192896be1b4727f70377aa7ac4edaa329f"
+  },
+  {
+    "path": "armors/17938.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "76c02928afe1317c2ecc04a01d72b7db1d2c018d92b1bf51ca0e3faf5533b8da"
+  },
+  {
+    "path": "armors/12868.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "542fa79297bc4bd32da644be8b557f4b0ffd02fcd6ad691aee1e35072b126946"
+  },
+  {
+    "path": "armors/8995.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "2c719b4f52604119e73da924f1d0787b72d936da5111b3d091ab59c112b8ef71"
+  },
+  {
+    "path": "armors/12774.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "62e7d687fba754983384b7fd8a95d6f3297fb0738b4748e8e841f34ee7ab6d5b"
+  },
+  {
+    "path": "armors/17867.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "1bac4c379fb9e79b7f304ed43dea3e231df971e3e3c886ba2cd98690510a8a62"
+  },
+  {
+    "path": "armors/13649.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "f3f32186d6678d2b700e49e49c5fc861fa730a64181d36d8d68f9823827f7e3c"
+  },
+  {
+    "path": "armors/8517.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "69dfc43286b60eb984fcf7499594b5ac9c756cc051b7539d8627bc7463230027"
+  },
+  {
+    "path": "armors/11628.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "7458fae4643fdb2f1f558e48d6006bb445e5a527cef34ae12159474543b22b5c"
+  },
+  {
+    "path": "armors/13581.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "b8a7f91bf2f53b48334815ce1b0b7e3ef3f74c3fb5ca2427f8f2d3187ea8daa0"
+  },
+  {
+    "path": "armors/8555.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "0bd3b0ca68388eb1463fdfa92f0003aa1218c8c3de71adf48b6ea51b4d6068e7"
+  },
+  {
+    "path": "armors/8638.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "5a37fa03e659f74dea7657f42d6167ddb5a0beb5e1659d8c0772329155645138"
+  },
+  {
+    "path": "armors/8823.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "a3b7163a73dbc40c7cf0022525c1534f9d8cf0b6e49c3e6cfa9795bb871c292a"
+  },
+  {
+    "path": "armors/17866.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c49d4dab68adf86cb3ca02a0570e2d5b6ab7a51767c9e6663dab363390fc5173"
+  },
+  {
+    "path": "armors/15662.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "1fd01c1074c41d8d86111e78200c39c497b2be7e51be59775425d5a4f78c72d4"
+  },
+  {
+    "path": "armors/8874.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "9db2978376387ef633c6c9eabcb4e8f954229c27b432db94cbde2876a3b14edb"
+  },
+  {
+    "path": "armors/15709.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c551152baca74e119183cb636faf343410db0cf223c6cd4867ce489f32c60735"
+  },
+  {
+    "path": "armors/8661.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "1dffc21f61a0c123334284d12438d84154c5f4f00b541d553d2256b12e37db38"
+  },
+  {
+    "path": "armors/8548.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "5e6def7b8e73dec0ab64114f4843ace10dc9f8e0ed7bc0f202b8692b224bf3ac"
+  },
+  {
+    "path": "armors/15526.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "13a7736e18158c6f3185e5dc07ea1d1546196ad4b03f204604b3cee2065a8a46"
+  },
+  {
+    "path": "armors/8643.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "4b6894b35246be5f507a676259a0cb0e7403d8f245f9f823c3234d61c434e0cf"
+  },
+  {
+    "path": "armors/12833.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "d2c7ed7e0ab4674a9d56e3cd91ff5db1f0ead7cb650de53cd2b04359bc8da7b7"
+  },
+  {
+    "path": "armors/13654.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "fb23145ba46c25a84a93f7ce2c726155880f604fca6aded156f8a291e5e0814e"
+  },
+  {
+    "path": "armors/8707.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "96aa922bd8950d159e5091c5a69fb9b153215dbd6c7a19482c6ba25ce9ae4eef"
+  },
+  {
+    "path": "armors/15732.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "3a0e2eca37ec9ef86942af307f7103ca17d76729ca1e0aac363c5f90b0ca1c69"
+  },
+  {
+    "path": "armors/17889.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "97dc9ca5e5efebe711ddc88299ad25e8d44f922f7846d8b99a7a8cff7a0eb25b"
+  },
+  {
+    "path": "armors/12220.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "c0e75c0f30c7035376d82db6280af522a4ee8fef3c693b9df01421137b489e6f"
+  },
+  {
+    "path": "armors/17948.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "bde14dc8358f32684f45b094fc60b543ea533c9dd74796f4b8f2a2df76b9e6bc"
+  },
+  {
+    "path": "armors/11592.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "d15ef2a9e7f8333d887dac330820925c705afa4eedbdd03d4b104e236896c7ff"
+  },
+  {
+    "path": "armors/15619.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "69db45a64e97383a01c0ea402a07eef53bf15c22687326d62b78b586af50fe71"
+  },
+  {
+    "path": "armors/8458.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "e2a06e572b3f296757ead3ffe9d7583ac1ef786e787a5917819c844e21befd4e"
+  },
+  {
+    "path": "armors/15593.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "56b15ad34e364a870ee491a7bed12779040ad104b2fde99a87b8ce82d77ab26f"
+  },
+  {
+    "path": "armors/17949.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "861642d70576a4a9c17ebde77d2bb45b8da0537f0eb3162c19ac1bf4f5dd8e1e"
+  },
+  {
+    "path": "armors/13714.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "476aa9fd3e26322a704de1f9ea5b4f5d63845f76d5c301750987e43f2da351f9"
+  },
+  {
+    "path": "armors/8428.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "1cf979b3aecaa70ee3c0ac9b8492b7a618a572ee448ff1407debd98a715c4101"
+  },
+  {
+    "path": "armors/15642.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "b80e2eaf7137c0fb2c9eb1e6b09c602a225a06fb84043e7a3d1b5dbc61faeb63"
+  },
+  {
+    "path": "armors/8980.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "f19f3f674709c3b81cf767abbec5263dc909d357ac56c8d3edfd5c5ad482318e"
+  },
+  {
+    "path": "armors/12850.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "99b03585acd8e33c490417a589debeb5109bb99293262c329d7cd827d387ccbe"
+  },
+  {
+    "path": "armors/8435.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "6aabf775a7cbf41056326f4e64463a796b6c7f442e233b431431d6c30075c03c"
+  },
+  {
+    "path": "armors/8640.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "411ffbf4a35adaa7e8635ce40978f74e3b2436ffe172b18595e59107205395d2"
+  },
+  {
+    "path": "armors/15561.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "cec84752c33d938c1fe18818ffcc9fbdc84c312d8f222fdf7fcf32eb885d4f9c"
+  },
+  {
+    "path": "armors/12754.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "cf2fa74fc4735abd5d2d0f463d8aff42e61302dba9e61969afefc3eb12b045f3"
+  },
+  {
+    "path": "armors/17878.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "684a9534f323df64c0285186f1f0e8cb8e46e6bc631023035c4a2cfc97672b2f"
+  },
+  {
+    "path": "armors/8888.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "6907352dadb70dfbc1d4e12b5140bda6ad5ad79291ece6441ab614ec8f158b8f"
+  },
+  {
+    "path": "armors/12796.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "0ed95f295a36efbdfd01a3d7477b69114b332d9d40911f0296dc7c2d2cdf2c45"
+  },
+  {
+    "path": "armors/8858.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "4aa38c65fb033cc793b8be08bea7f8c6e08226a221d0617d9a943a408542d80c"
+  },
+  {
+    "path": "armors/8442.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "a6ec053a2544a666e29376058d6e3b47fe7787b95a78d3c8fff86e8b897856de"
+  },
+  {
+    "path": "armors/12213.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "08d931a303cecc2c04c9a5cee8066b2af7e193377d914b815fbeeebed99b3b52"
+  },
+  {
+    "path": "armors/12776.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "2dc9bd539e8aba6094e3953e2bd8bb19d536f876d1aa893968d47069a9ec2e20"
+  },
+  {
+    "path": "armors/17924.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "b66661159175f26b3ab3b41a949f02cdf101d979ea05ad6e706d11ade8523908"
+  },
+  {
+    "path": "armors/17820.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "7bb69dd7d2c2c7b8032be4d9c87e707d17afb0992c89cbf0d081d72a0c66046e"
+  },
+  {
+    "path": "armors/12869.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "60adcfeecde595fb092053dc3562cdf72efaa2cdcf5c2351bd8468e446b98097"
+  },
+  {
+    "path": "armors/8931.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "0673c9e99a7f35f67e3cb2d322a45024e3f79646fdc68b4cae0fdab0f5f6b6e8"
+  },
+  {
+    "path": "armors/13640.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "755ed8a0d535f2de618a2cc5ab2b45a22da90c3943bdf855bc12f36305dbe739"
+  },
+  {
+    "path": "armors/8479.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "3161fcc55639d8fef2c9f3f63771f986903712151c41eac5809067e3058b516e"
+  },
+  {
+    "path": "armors/8513.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "e6bc018bebb7db2c9e3c20a2b897864950c9706ce38cb65aa9a4ab14a38db382"
+  },
+  {
+    "path": "armors/11566.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "44ce7e3a6b9833375c99687edca58c35128e62e7254d8b28cd9b359fdcd7afa3"
+  },
+  {
+    "path": "armors/15623.jpg",
+    "label": 2,
+    "digit": "3",
+    "sha256_pixels": "e8c281c56b793b8f6a1d7c7bc45f93e55fcadb1bb35d56a32ce7489915d3fcde"
+  },
+  {
+    "path": "armors/12996.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "89da04c881e615c9962198b085ed9672f5ee6e984289ce4bb79cc7d668fe7031"
+  },
+  {
+    "path": "armors/10003.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "a7bd35efe0d1065aeaac9698ba412c57a7fa4206e6db0edc8fb06980aa23a245"
+  },
+  {
+    "path": "armors/10117.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "2924cd17f76c7094a0982cfaff3a44eaca6fc517572efaa949327e81ab1125fa"
+  },
+  {
+    "path": "armors/10091.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "deb9b78072161a1168c96a19461024e0d6e90dfbadf96e4330c941f066eb2b78"
+  },
+  {
+    "path": "armors/10247.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "90fbb2e94347df95bc565cf73fd7cbcbd0e842a8c38ebb26e647a73b18cad7bd"
+  },
+  {
+    "path": "armors/13747.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "985ee083056d9b241b1ec82c24ec2dfecf5d47a865a3739752b120f50c2c928e"
+  },
+  {
+    "path": "armors/12135.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "9ccedf2f5e942c939684cfdcb605d17e5e9c27b59aa7cf1dbb0b344c76c1b388"
+  },
+  {
+    "path": "armors/15843.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "efaef0590a7cd45426de3e0bb02bf60d39b5301410ef83d762894a93ecdc2692"
+  },
+  {
+    "path": "armors/13043.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "6ff90b23f3ec1093af771e8bdca3b52fe48d7f0b65d13dd60b615456c67f8d0a"
+  },
+  {
+    "path": "armors/11720.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "4b3846cd43e202a03c553ae98e690af72db503e2eb91919dbd137472ecce54e9"
+  },
+  {
+    "path": "armors/9949.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "31c2d62885805274969e478afaa3598fe8eceb133e4f5ec9621495b732c1e064"
+  },
+  {
+    "path": "armors/11757.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "9f3cd86f33eb3b7c06dd2e9af3d2c0a8a25c64b3293cf1c6b1ce1f040b0f89ff"
+  },
+  {
+    "path": "armors/18072.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "adebe271a9319b89146ce1685e158ac13be810b5540db6f9fc861986748ac64f"
+  },
+  {
+    "path": "armors/10208.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d5353497fda5bde19672f660ebc2350d2cd51d54071647515a79d95d78e037cd"
+  },
+  {
+    "path": "armors/13726.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "9d1842ffd7e0b7696861c5f9718e08d57f59d8abb7610b24f27e54f0d6f89dee"
+  },
+  {
+    "path": "armors/18101.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d55aa4e3f36d25013ee36403faf63b795b69acf5523b73c3a0526163d4376463"
+  },
+  {
+    "path": "armors/10149.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "951b83d37bf8a5cc00a0feb447da7f0bf386bff0c198212761aecf1ad35b64ac"
+  },
+  {
+    "path": "armors/13061.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "30924e9ec6cdea821955477b32d58c9944af89b73790d827d41be60098534935"
+  },
+  {
+    "path": "armors/10365.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "72f69d6741b124f5f685b76bb296c192e3042cfcfb2e573e81748358493e2e75"
+  },
+  {
+    "path": "armors/9929.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "6dffe8a233cf7053ba74b406cc75da87ca3c3feb38a0bf8192ce5b6fc5caca55"
+  },
+  {
+    "path": "armors/15778.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "07aff0df87560b7932a91089131e949b854b42b0f4fdabd2604eff0830296679"
+  },
+  {
+    "path": "armors/17993.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "caef128904a7bc36b9fbc0096fbe352c181e2b194b3bdab3d457999401bbab7f"
+  },
+  {
+    "path": "armors/13739.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3c21017352621056357ae06e0bca68da6c19092d2144073c6ad5dc6c0ca9b450"
+  },
+  {
+    "path": "armors/10083.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3a350ec3276b698b29e88033b9a6367820c304a55e43d0c53a3cfdd88a068534"
+  },
+  {
+    "path": "armors/13115.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "247d4565916229b3f9baa415ca8d27ee41f5131cb42bb15c98e73f6bf4412851"
+  },
+  {
+    "path": "armors/10129.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3de74c400598de9edea203ce1f85c5e45920b66b25dabf717bab5e045365e3d7"
+  },
+  {
+    "path": "armors/10222.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "e882c6142e14ff18f8cf863be4212fdcf0a95fe16de26f78b78f96edf5829447"
+  },
+  {
+    "path": "armors/14544.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "135fd161cc5cc9e723fb3701b072425b8f6e46201aa0bffbfd03e8478e757fae"
+  },
+  {
+    "path": "armors/9858.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d1c7c76adcbfe2d12cf02461770a816f5d7b472e15d4204b160f3f51ba736a00"
+  },
+  {
+    "path": "armors/15903.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "afb2ea9faddde5edaa64e88ed16eb33585348914304b75eb5096196ca72baddd"
+  },
+  {
+    "path": "armors/10472.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "0ec02e513a52231d9a39b2ff095017849ee30eb5413642d63ed8c6dc92856bd2"
+  },
+  {
+    "path": "armors/10383.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "b67ac4bd41775ef9f54198d24d7cd04894c08fdb661f11456b6e7d86fddfe994"
+  },
+  {
+    "path": "armors/13055.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "728f28b4e09308832b6deccea6dd3d92462f804257b40382514dbc2058fb1daf"
+  },
+  {
+    "path": "armors/11953.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "421ca5418739715c998e665fc9a2edfe9a38dd6b4f5fb9a412ce5893790fd63c"
+  },
+  {
+    "path": "armors/13162.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "5534400b4881f68a3e8d667bcf940719c97e3486b351a777ff95875a829e995f"
+  },
+  {
+    "path": "armors/11920.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "914e14c0ee53485b9dd78f04be60fb7763e02628bf17eb7df2a42b8ad90b573b"
+  },
+  {
+    "path": "armors/12136.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "489d8452c7769a4ab895b0b8efb1c47cc86c4408f3a402cea3da67018d495ff2"
+  },
+  {
+    "path": "armors/13103.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "923a01794148c56e2b14863e9f565b5fcdb901d82c2596ff156f4df146390d82"
+  },
+  {
+    "path": "armors/10505.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "12887b845dfa84d6d0f1085bb22bd508a7cd9f2faf2e7acd1800702aa2fb836e"
+  },
+  {
+    "path": "armors/18046.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "98f926dcdbabbf0dc3e025f965dd5222247d76e7cdbbcad446f34c2aa5f4b15c"
+  },
+  {
+    "path": "armors/11673.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "1ef2d1a56efcaaee906a0247bfedf36dab6cad5866ab3db101eae12533393869"
+  },
+  {
+    "path": "armors/17980.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "ea4c1fdca8f840c9efabb4bc727d3620f70e701ada5e2ce6e70591b976a87c50"
+  },
+  {
+    "path": "armors/12978.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "c79cbc07542ff7bdc9f029cb08bcf334b4ee99c8bc1ef6e91ac814180db11b9b"
+  },
+  {
+    "path": "armors/13165.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "e96562c77c5e61d41132ad6a7070df187906869d3ef1c70a9bcd677bbdf1c9a3"
+  },
+  {
+    "path": "armors/15874.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "8788de0808a32d31f7028bb86e37fca55080b96e1b78a04ac18dce276e3d35ac"
+  },
+  {
+    "path": "armors/18027.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "7f1d121862d260b0a16bf0a226f66d3651a9dc6f8fce6160a4c732fd07644c41"
+  },
+  {
+    "path": "armors/10502.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "db2536ccf45ba60bff81dc72bc85f5d247c416aa152ca88be898688dd609da34"
+  },
+  {
+    "path": "armors/12994.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "b1c35c87a008e7b9a3cbef9fe51a8af5cfc19ea453135aaa04dcac362f67d814"
+  },
+  {
+    "path": "armors/12933.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "2b1176766aa9880d8697a93262005727bdfe5e0ac3e586b4fa3309cbb6b210ad"
+  },
+  {
+    "path": "armors/10187.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "94e8ca209a49c64c00a7914a3e41b64df9077e9d731fea7344adc4d90ff51beb"
+  },
+  {
+    "path": "armors/10220.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "a08208dbe74499981d1f871c05c2687bb52ec5d89db9569b36404ff1ca6ced22"
+  },
+  {
+    "path": "armors/10010.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "72fcd799052f7b4056ec2c7fac1b08b0d28bfb286c2a3a24186c7ac805fc41de"
+  },
+  {
+    "path": "armors/15793.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "b90b6ec64fa390bb295178d2bc05a09a8099d08acc0214dfe44b3094940ef941"
+  },
+  {
+    "path": "armors/18129.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "77f88176f3153ea5c8156f52cd2cac3a5a531fdfcbb556cd3f40aa2a494de4d0"
+  },
+  {
+    "path": "armors/10202.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "f39eabc73f8bd1250b3f9c093c88aec2de96bae26181f26cb118a51ecdbbb2fa"
+  },
+  {
+    "path": "armors/10192.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3bd508d8351da720ad63b5327cc8620166ecf7b5271430e1adf9779d8ec984ac"
+  },
+  {
+    "path": "armors/11918.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3bdfee0818575f9286df827917dc759a8732b06d911a9004ef7849728b3ca46d"
+  },
+  {
+    "path": "armors/10306.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "f01382d8d70f1330b4b85c026d96492689ff29864caedf10253786f7612aeda7"
+  },
+  {
+    "path": "armors/12954.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "f48e7eab9e6539b0611aa9dfabbef4a8c3e370d80f49945ce8929f6d4045a283"
+  },
+  {
+    "path": "armors/10107.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "427d9363519aa9ac357641328022ae6bedc986b1c3a2012cacf4122427eb2076"
+  },
+  {
+    "path": "armors/18004.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "f5668f39d284f180c545dea0bb9fa8b645995544299e82a82297a025b6cb876c"
+  },
+  {
+    "path": "armors/10161.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "f758c1815e64f9496efd0f03bd07235c3c86bc0052f08405fd57b5448ca17a94"
+  },
+  {
+    "path": "armors/18042.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "c517d4f73a02c345ae862159e786fd1a020b6f26fe014f57732236f9a1cfdcfe"
+  },
+  {
+    "path": "armors/10407.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "41f035b832f4408e34610d99f9d0e9be871e99392f0b8a428aba70b72d4bd681"
+  },
+  {
+    "path": "armors/15764.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "38ac0ddf67f59a692bca259b818b6b88bb799dbc3f5ae66780e3d7d7822d4b41"
+  },
+  {
+    "path": "armors/11694.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3766d963dd606290573442af82a7efc8965fa930347a17fec311b78e5aae2f9e"
+  },
+  {
+    "path": "armors/14587.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "1f476eb8b2fd0626d0bb1eecc3199e684674e86fbd2180a35e0811e1c23f4ad5"
+  },
+  {
+    "path": "armors/12968.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "b686433f7f003d012b07e0650d2e526ece777eab16963bcffb9f6453aab29cc7"
+  },
+  {
+    "path": "armors/10422.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "26691865441e0a9eace3d71a05fc8285a6416649d0215872b978635bb60bb203"
+  },
+  {
+    "path": "armors/10204.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "0da1055650f5511e9b87151dd93cd12edb2dd77c809f2486bf6afbff9efb0bab"
+  },
+  {
+    "path": "armors/15781.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "08168112ae443e2136c21d5428466c4813dfc93e9d9f40cad24107a46deac4d4"
+  },
+  {
+    "path": "armors/15784.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d703124e7487596aaad37ced2600ffe4bb68f466d84b84f4afa938f890aa35b7"
+  },
+  {
+    "path": "armors/9995.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3bd70b1eaa6c723debfb2f924b00688016fd659da62e7c78c207d16cdc8b46a0"
+  },
+  {
+    "path": "armors/12952.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "dcb694c788b34adffa5fdd5911ee931a98cd64e56462408ef9b85507b6b8e6d8"
+  },
+  {
+    "path": "armors/18120.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "e655813c97dfefbe9c9c5d06110113aa5c0fa83c300e3ea88b52b2a35ea19195"
+  },
+  {
+    "path": "armors/13011.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "53bdf89a6c2f3dfbad62ccb595ab6fdaaa3bb62951bed2923f0b6eb8f9f0688c"
+  },
+  {
+    "path": "armors/15889.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "35bbff10fd391fbd113dff7db431244c0dfa5b20e9e26f0bfc20aea50af1d388"
+  },
+  {
+    "path": "armors/13030.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "1e13e4d36a3fe01ede1623b65e2fcc8582d650f33a0f8fb1cc3bbfcea1ceb87f"
+  },
+  {
+    "path": "armors/10274.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "ae46d07dbd5b3054fb4dd89b6924600929816b14d1622ef448e100418143241f"
+  },
+  {
+    "path": "armors/9919.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "73d1d65eed8c02c7b7d8960249a6be3421dafd97f10040f96239ce40234d0cd9"
+  },
+  {
+    "path": "armors/15837.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d7d4be4f66d0b7786171a04eb5d0e8dfb6b46590903ccf3ca64a691c4001f36d"
+  },
+  {
+    "path": "armors/13050.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "ca21bc2ff4c8aafba20e85b72a11820310f168e40995e6f056b58acf857b2d54"
+  },
+  {
+    "path": "armors/10382.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "cd775022d5c03d7a7a2e224773bf84727334ce59a53650ed53d839d6974b4822"
+  },
+  {
+    "path": "armors/10254.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "e2a1e47b9d0e194a90d32d4035a4d5ce7f953643ae385fa3b89e35bb23a30891"
+  },
+  {
+    "path": "armors/15780.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "359b64ca0d3332fe15ea504d05e8f052f233f439917b5587ea27d7fdd66c52f8"
+  },
+  {
+    "path": "armors/14542.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "64b62d6b455f87b9a820f91b6445ef47eb3f55f36a6ddeb5dd1f5f30f1382287"
+  },
+  {
+    "path": "armors/10255.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "84cdf795b73533daf6cf3e20b57a4b0b82c9415747005e803e7caa9e5db893c1"
+  },
+  {
+    "path": "armors/13006.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "6b995da14d64969ecb7995bfcd38e9308fe46c17381cb7d0bee9d823e9127b0f"
+  },
+  {
+    "path": "armors/15864.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "962627b7306d3141b49ff25f5a5e3558b15ca13a19eaed3cdb66e2b3463ae9ab"
+  },
+  {
+    "path": "armors/10088.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "1ba76f241b8082363a7aeff80ce574b3ebb5a098110aa99d5448d6986c8f77ec"
+  },
+  {
+    "path": "armors/9791.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "a1058fec0160b1216169b431b712489857e425d38ba5bdef7e6f6aad3db82f58"
+  },
+  {
+    "path": "armors/9889.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "9c672206b1adbd233439330c277452b6c4bfbf87c7c73c0e0c21640508b50929"
+  },
+  {
+    "path": "armors/15862.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "2d68272a571a8e70c9076a79d1a2cdc139c8db7330e53f182058c0dec2a42595"
+  },
+  {
+    "path": "armors/13100.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "1bfc3bdf31fda4c1be299969c527f15926d00143a3daa8b0757dd43815a9cafd"
+  },
+  {
+    "path": "armors/18132.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "eaf06355973e2847efa8036473fc12c2a877d8227baf69e9a9f035b84fa64c99"
+  },
+  {
+    "path": "armors/10305.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "832f57b82ce44b6aa8a3160a82cd27f8e0664741e5d4ec1dced8ce29d4f04368"
+  },
+  {
+    "path": "armors/18087.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "e5f8f1cbcc404982d0484504f0f4b33409cf664d91e152e613cc050529974c55"
+  },
+  {
+    "path": "armors/10014.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "2274bd4a396cfc38b6f0dff16715b5dadfcc19b02f9220e758a86ef98bd3eb20"
+  },
+  {
+    "path": "armors/15798.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "4bee9cba7e1f9a8e88aaf928344ba9f4b42ce777aa0687e6a06e1be3cfa1aa7d"
+  },
+  {
+    "path": "armors/12987.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "875c45a561c75f99fc3d345c196f1d2e297c7acd029c3060711afb7a4fb02fb6"
+  },
+  {
+    "path": "armors/10029.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "f3e77776535ecbe82a59a135e8445eb58f9298227ea346f1cdf0239c5e6504b6"
+  },
+  {
+    "path": "armors/10474.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3b0a50e2b7d18895d569e12cec95a73e21b7ce3aaba862e2b7dea972a323b3ac"
+  },
+  {
+    "path": "armors/15791.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "a468ed2cea1f551f1fd397b395cd2c8a7fb64cdec753b36c363d4aa2304dea6b"
+  },
+  {
+    "path": "armors/9899.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "f70da7591f5ff5361bcbfb5a218f6dced928489f02cb79e4b30df92de5c06e5c"
+  },
+  {
+    "path": "armors/12957.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "5874d3cc34d7c18ac6188588efb4c90a2cbdc0c82afc7d2edb89e4eed6ffe123"
+  },
+  {
+    "path": "armors/10374.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "baab2628da7d95c03f3818c6331e4d546c6cce744656f5f2d2c0da5078933def"
+  },
+  {
+    "path": "armors/18028.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "eb06095985bb184f18ea66c522bd7c4abceb278bc06df54235dd5e23f24200dc"
+  },
+  {
+    "path": "armors/18066.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "f9bf7ec705e1db87912108f8692f04869e551eb76d79218217e9415348c11ab3"
+  },
+  {
+    "path": "armors/15905.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "70169a2999731b47152df7cee507bb8f8203b762dc009954105b9100de92475f"
+  },
+  {
+    "path": "armors/10205.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "2f039e685075e7e09c4c8f257e525e34cb37ed20c88f1bf3f53149014bd38853"
+  },
+  {
+    "path": "armors/14571.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "28b8971a0b2b7e38162408395d5a98fbde3d40c3da0353d1222d7874323c8f5d"
+  },
+  {
+    "path": "armors/13163.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3a30cebfca195b756e541d86ad6ed7a555a72c3dc2c8aae2bd25790fe6e7a4eb"
+  },
+  {
+    "path": "armors/10140.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "8049450a21c29215e787380d01fe1ad72fa8c63cb3c430eae1687b9c41a0cfe3"
+  },
+  {
+    "path": "armors/11747.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "e5a45b3599a7a812f6d8114821572bb6cd029799736a9db691fe178381ad2f24"
+  },
+  {
+    "path": "armors/14573.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "79fd3c4c84c18fbe8e507d606b0a40dadf230cfe683a801272c90293427b10c5"
+  },
+  {
+    "path": "armors/10077.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "7fa65bfd33fae4276c59a5f16719ebb98b5e369816954caed916d5b2c8fa78e5"
+  },
+  {
+    "path": "armors/13067.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "5466e7ebe55fd793acf6fe88d627a0d81ba7a4b7f14eed2790f0bca75577a227"
+  },
+  {
+    "path": "armors/14600.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "7b9fc669701973ba9e0c81af42ad9d3a02a80137c64de64f1c11326705d9a65d"
+  },
+  {
+    "path": "armors/10027.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "58e2ffb314fc356c2c4ce98c44e196b1fb793e5500a6f17f2d780ff4b4505b13"
+  },
+  {
+    "path": "armors/10267.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "c53603891e77481ecdb4fe5f2bc73131a2fa73ef3007e4896fb56e2f23cff464"
+  },
+  {
+    "path": "armors/11687.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "ccc7890ca5c367795d5bbe4e25b37f60ede8f41e6e40632b5b4f8ba04c420b03"
+  },
+  {
+    "path": "armors/18070.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "b38bd0e23462127583a837871896c39c848ac2c20e566ca733d52db91c44d9f5"
+  },
+  {
+    "path": "armors/11693.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "a555554aabe4afe10b180abd47660640abaa26ded4b22b47b9f73bf8cf27c53d"
+  },
+  {
+    "path": "armors/10482.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "a6c2802fc809d30ca7ea0128dfe1c897d5fb7d0762be6bdd46cb42070e4b491a"
+  },
+  {
+    "path": "armors/12970.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "dea9f8225df0bfe8462e3a1a7d9dfc46a75108480b95e7ae02d15727962fdd06"
+  },
+  {
+    "path": "armors/10164.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3c1c083f80e1205aef02c662d8c2ac2b23cf1bbe5543093d39746bc5c9cdba56"
+  },
+  {
+    "path": "armors/10052.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "87ca927f3a5c2f2e91559277fb95b7a8fb9c85eb1e48210bb2669232f77e4d3f"
+  },
+  {
+    "path": "armors/9817.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "aa57c22749e35b09899a738ada83e94e850fe3da26ca69efa4ff9a991bbd6363"
+  },
+  {
+    "path": "armors/10381.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "17d1f0289dd2cef9cfa3e1f60481d7f85f9997ca7421b573736fbd175f71e25e"
+  },
+  {
+    "path": "armors/9993.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "63225af0d08db62ed829ede0d99e54171409775c7a5df0a8ebdc6e258ecc31dc"
+  },
+  {
+    "path": "armors/15762.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "cdd3f362e6c7fb46414e0d8b99d66fddd4fe40fd7ace59472a05c7f57b52e48a"
+  },
+  {
+    "path": "armors/14532.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "ae5628aba2e3736f08b967f18775d410e948d8b0c38226e228d0cfd84729c473"
+  },
+  {
+    "path": "armors/18082.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "ccef31e304b58ce6e5e6c97c388b1d7eec53063ecc9ee3df8a2655d28b3688d6"
+  },
+  {
+    "path": "armors/18137.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "0fb1b8db68de78bfdeced3ccb47a6824a8823bfc59c36dad35115c61c73ce8e2"
+  },
+  {
+    "path": "armors/13145.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "0dd16fed4c8f582f52d1acefad9b47a833a4df93727f46f233cecb0efd76ae69"
+  },
+  {
+    "path": "armors/10023.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3c2f5963254db59582b525fe1bae00b7a86ba507798a76259e15bd2f865b2a4c"
+  },
+  {
+    "path": "armors/11725.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "c0e3fc31545a608330011e16319cc31ca144c68019f64890b8d57fc2b60fce79"
+  },
+  {
+    "path": "armors/18029.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "b9c12b56360d344644094181c48d4ddbff5dc1e816d23b2e36d44d56a8302809"
+  },
+  {
+    "path": "armors/15906.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "822c1dbb69f10165d6b9c2a6b4e09af4dbefcaeb5ce3f2e3c4ff270565785a1b"
+  },
+  {
+    "path": "armors/10225.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "83c546aac09c8d28a34b778eff171dc348e8e73e99e20df15d9e8ad152601b58"
+  },
+  {
+    "path": "armors/10405.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "f2d9b8d2b6591ae2006970f87fb4f93667a0185253d5cba0b8b4b7816acdc391"
+  },
+  {
+    "path": "armors/15866.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "e100283b0b2d2eabcad5d328735c07a49bba40f75e2b9d0fe07ff5cb8d24b981"
+  },
+  {
+    "path": "armors/15822.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "43bc156a7ed938499d19b7cce87e9072da701019f5e832e307bd2cf9e9c8aa59"
+  },
+  {
+    "path": "armors/18019.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "1d1ebf407eb7b225b6d32b6dd190d18267e9edb2f90512068f6f86c2695dac55"
+  },
+  {
+    "path": "armors/10344.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "ca5f2a3fad096549babc359ac299b54c28ba186929b0a71886c9fe6a4623391a"
+  },
+  {
+    "path": "armors/18056.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "7708858762d726522eb32377ae4d455910976cb8e3640ada6567cf583f77395f"
+  },
+  {
+    "path": "armors/9941.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "ed51cc1b791f1a5614ce4671645677303d14dfb15a3d82212826abe1d49a5420"
+  },
+  {
+    "path": "armors/11666.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "1eb93002b2e838b987ace6e6e0d9f16f8e8e8416a697488c7e70f3f50bf5ae20"
+  },
+  {
+    "path": "armors/10458.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d752b7427cfe1793e74b8a6ea8bf9096cdb1313baf96329745440bea2ed32ca2"
+  },
+  {
+    "path": "armors/10325.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "abfe2f4515f13a89b4db21418c0022b5ae0bb0e60d65c2e957584af19ac8eb99"
+  },
+  {
+    "path": "armors/12133.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "18f97ec2303d4949acedd957e9e36b6d4ef20aee12bb0c5215e25c1d84bf231d"
+  },
+  {
+    "path": "armors/15803.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "be911499dd2025fdcc6b9c332d94a991d7eba13dc43f730b29630d33d7012378"
+  },
+  {
+    "path": "armors/9853.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d404b5be57892ebd00c0d8f072b01d5157ce714e0713f18c3cabea5609a1f2e2"
+  },
+  {
+    "path": "armors/12141.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "7a8c4ab5906ed2fe10fe6a72a83fad3dfc254fd5a7addd16d57c15c147f5de46"
+  },
+  {
+    "path": "armors/10028.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "348dd3576ac04f4cf64b0a8096adcb95647fb0c0f64204c74c0410a351c2ba9c"
+  },
+  {
+    "path": "armors/10078.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "f3abe7a5c761f26ed71e7260b9252204dc87dbf39b22b1c21ad1e332ba270fe7"
+  },
+  {
+    "path": "armors/10273.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d950795fa4779778033204af50b39d787efdc361bb1166fd2b325551c2291860"
+  },
+  {
+    "path": "armors/14553.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "ee9a6f6e596fa8219e0d3bfcd7cc4344a1c35c9c5fb5748fecd725ddb17d767a"
+  },
+  {
+    "path": "armors/12896.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "33e3c7b924cc3e9b228b2261d108845a78b221964d68ce200c32943369121c74"
+  },
+  {
+    "path": "armors/13058.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "bf79a85f35ce726a7db94dc1d992e799b8c738c8ee0ed5172e69e7b3867dbca9"
+  },
+  {
+    "path": "armors/10033.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "bbb63616b1a73691c096c2890cec828eb15946c385b54567ef6b6c29f5a5be9e"
+  },
+  {
+    "path": "armors/13123.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "a4855e0a27708823353cbeb60fa49c25cb376d62e7de2284811cfb5de47bc337"
+  },
+  {
+    "path": "armors/10058.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "2d57728dd552c30dde278164c2064be4ded5f2f2e02bb385ca63a6b6f04ff883"
+  },
+  {
+    "path": "armors/10235.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "954c4fa2f53f9de60cdc6fce1c481bbc04977e1f81e02ee2db1808b55ec45b15"
+  },
+  {
+    "path": "armors/15856.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "59ab300f94dc8887b8e384d0bcabec188563fec2795c6dfe444164d7c5c00099"
+  },
+  {
+    "path": "armors/9951.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "a102d918fd29cbf1f4e4f120ad917054f7a3cccacc6276ee67059ddc90dfe28a"
+  },
+  {
+    "path": "armors/10303.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "fe3ad8256949d18e853914e1a9ec23b8de0dff98a836e0f95d74dc920fb2caef"
+  },
+  {
+    "path": "armors/15869.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d8e40f02f69d63290d5b15d08d3af6982c31e5ec6c83b1bb8bf35e69ee655c2a"
+  },
+  {
+    "path": "armors/10206.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "b457c2feef12ca7207dc50d4126d25ba7a7e363aa9cf344a8d9fc86a28d10643"
+  },
+  {
+    "path": "armors/10316.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "4a358631966b3e266752c612bb39831f5f681b4d789035e34123eacd1c8084da"
+  },
+  {
+    "path": "armors/10188.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "0264c55b1314cd37f538fc23e49620dab14734ab14febcc3fa720d77346d8c6d"
+  },
+  {
+    "path": "armors/13129.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "b0ed09a7ffe530ccbca83ca26c46359bbde488ab6923246533a713c24439b63b"
+  },
+  {
+    "path": "armors/18036.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d86c17c267f9ac595be0992cb2d8816b4750452c37319238eb4ed6a8f485b8d6"
+  },
+  {
+    "path": "armors/9907.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3c470cd4fe149f3491fb25542aa9844f5ee5b38d66a0125281f64bd7fe5edf79"
+  },
+  {
+    "path": "armors/10237.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "09eb2eeed8b5afe7b4894a1222fcfec3f826c0f697e3fff631f7d01313cb3612"
+  },
+  {
+    "path": "armors/10086.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "62242c2f69bfa298a26ccf3ce5b2d33cc00b103d76db1749c0d61dbe8c330124"
+  },
+  {
+    "path": "armors/9983.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "1d73351e592364454e70eb56b65c114893fa34ffc39a2d23090c90316ce0feae"
+  },
+  {
+    "path": "armors/10162.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "eb445afbbdda8a0f453872504acaf546495d54a9bf20d91474b1ace4a24b6598"
+  },
+  {
+    "path": "armors/17995.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d126ab70437783cd756c77a4db9108b9c22e8cad18954569916fec2aa16e188d"
+  },
+  {
+    "path": "armors/18055.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "0e11f1eed8b5af24cf201f97a13d2524c9cb0f2a93c6f25e5d70bdf14ebbc88a"
+  },
+  {
+    "path": "armors/10371.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "356806857a6d3628fd979158d2ea17fe4e7baa345af3eef81611ab3a01f8e9f1"
+  },
+  {
+    "path": "armors/11748.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "abe4d8254e086ea8ab23356ed88399df8b8c9e0c0e0889b55561efdbfcfc1e6b"
+  },
+  {
+    "path": "armors/10082.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "6a846259fd5bf23341052cdf251622b463fe3fbec6357a2eaa86464a13013535"
+  },
+  {
+    "path": "armors/10266.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "289e1d6d6f06d33604911c18ecbe08f3e58555174e2fc2971ea5297e6b230d45"
+  },
+  {
+    "path": "armors/14574.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "b08c7118d229a14050d23c4d4c6fdb012fc671dce500eaeccef3dfb2e94f8c0f"
+  },
+  {
+    "path": "armors/9825.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d2458504ccfc0c7a8779a99929375c96f2ccabfd15222b62ea552b29c9c19399"
+  },
+  {
+    "path": "armors/10063.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "c713c2eb237776076ca62597ac9a05a97089531798f3952cc089df3fe14fb1af"
+  },
+  {
+    "path": "armors/12920.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "0a44dce61a5eb4bc085bb34d1994e3d28592f55e1e36ba1120cea1c10ab08637"
+  },
+  {
+    "path": "armors/18157.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "321ae94feacf8bcd0f6bf8bf2b7380f53cf182579512ac9d7f796c7e3c6a5c77"
+  },
+  {
+    "path": "armors/10166.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "f4ed11a628cda41f5b642e3d2805120260ce7df34b572053ff3403ac46b72fbb"
+  },
+  {
+    "path": "armors/13133.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "e7f93ad56463a558b6f6e66de1ca405ecbe60a2297aab7c4863429788b7735ff"
+  },
+  {
+    "path": "armors/12140.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "a80443614e9153a9d70a035df47ef1d0fe83d4f0089ed6c08ef17bd25f667ce2"
+  },
+  {
+    "path": "armors/9893.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "34e08182f11b896a30b60e7653d29b845bf642783a353e2d51b8be12b7e11f07"
+  },
+  {
+    "path": "armors/14569.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "079b1fdb025c32a908f3ac9868a2a026d3295df827068388ff60fb4b3071d914"
+  },
+  {
+    "path": "armors/15900.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "bded89c9f204a13a00e1f044d50027fccefcc33b164639118c707bd0ef478549"
+  },
+  {
+    "path": "armors/15845.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "0d9a4a1fccb15f113b4274a7b477bfafb7978600903417df2151f71f1931b2d8"
+  },
+  {
+    "path": "armors/13765.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "984cab770416dfbdca8fd98b7a1c71884ae87bf0871dab554cf623cab6322cd1"
+  },
+  {
+    "path": "armors/13114.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "f723306a5782e4fb83a3040a63db08b892aba8f334420676ea0756371929ccf3"
+  },
+  {
+    "path": "armors/10071.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "ff2b530dd674802b93a394b9939751b704401b4be4f93ef910fd026b522302ed"
+  },
+  {
+    "path": "armors/10388.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d606f544b4fc4249efca1e680989a9527ae932689b6322612778751e14c42103"
+  },
+  {
+    "path": "armors/10412.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d1bfc7d75936f60538d1b37834655f1fb5e4ff3b63f8fcd8bd2b7c7038e61218"
+  },
+  {
+    "path": "armors/13110.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "ab84e2d4182f24121279b171566a0a515ef33328f8c26f1d6a0e7367a1351888"
+  },
+  {
+    "path": "armors/9803.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "2f308da4f02633be7d2b6df7328e76d72a008fa4e41b5edd5cc5a935cf4daaed"
+  },
+  {
+    "path": "armors/10479.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "025b7c0bbe414baa29a9605bedff43dad8b78feeee9064463f821acc2923e856"
+  },
+  {
+    "path": "armors/10289.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "83e73d5e0ca30b06601568a67ce4f5cd0b78a7639da578ea7b31614e4ce735c2"
+  },
+  {
+    "path": "armors/12999.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "592cdbca19435674c929b8874fa4bbbbc0668bcceeca95507e72e50218f4a2aa"
+  },
+  {
+    "path": "armors/12132.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "51a0b3f37c25ad1fb935c8f3d08ec38b8f4d5657c78430666b3d1d337e54cb4d"
+  },
+  {
+    "path": "armors/15880.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "50f56bc80a48f44ea8a1f93864a1e5930851e9c698693d1a5a5dc5ba2075dfb4"
+  },
+  {
+    "path": "armors/10410.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "d389ca999f6e44459e1a304787afce7c19a4bd68b9c3ab965ae4eeb23a8f224e"
+  },
+  {
+    "path": "armors/12907.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "9c84307d1fe965a2dded40ef9bdc915f2fc345860be46d36023c43255a5c4969"
+  },
+  {
+    "path": "armors/10393.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "893ee0afb7fc6c1b3660776917da51962a813342c2b422112e51bf9717da0eab"
+  },
+  {
+    "path": "armors/10428.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "934af888c3401a3097d315fb97a9d8b038737bbeaa18ca65c714b77c99ab1b0d"
+  },
+  {
+    "path": "armors/10182.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "7c8bfb8a9bf6f61b05cda6287ff65e312745705dccd35d4c0b90082665069eeb"
+  },
+  {
+    "path": "armors/15768.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "4677a3744e2fa569d71b140c2e581672d4152e712abb1b0abff0baa05141c5ba"
+  },
+  {
+    "path": "armors/13023.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "2ffd5be4be5164a10975706a543eaa279a0e85d707eb5b0d498929e8aa8782d2"
+  },
+  {
+    "path": "armors/18061.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "b14334e7fe9a2892c1d88aed8faafb99052bf7e1e9331280901a993dc146a75d"
+  },
+  {
+    "path": "armors/13742.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3b539ac8d152a36f78c9e6879d0ac96c6da426c93f6437f74c9c1983408ba03a"
+  },
+  {
+    "path": "armors/10064.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "884ac746d93f0cc05bb3b381dc1f86f85bdbf665c920212c7b48f4638e1871bc"
+  },
+  {
+    "path": "armors/18065.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "350a876a70d704bb1f6b92d0fe97b1f024dbfb8453ba71b653bd59f1aa8d1ff2"
+  },
+  {
+    "path": "armors/10043.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "8d2aa202644fa9d4c38c40e5b3a71f6828f2e6a4d3c0fa0bee1d1212d11fd66a"
+  },
+  {
+    "path": "armors/13152.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "a855c260bc16bc9649783073ccb03a96981367d88076b2aab0f1dcff238a44c6"
+  },
+  {
+    "path": "armors/13056.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "e98db033bedc35b5f67348f49fda2fe112fe25485a3230dbcf0d8f0c10e21095"
+  },
+  {
+    "path": "armors/11934.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "fb8c3c668b54937ce5d43d7494e26444e47ec17aa47948f5aea2eb8d5a3ec4b8"
+  },
+  {
+    "path": "armors/10330.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "55482fcda771337e0d90993b9338eda37fcc44d38379fa050fa37dd8b4549452"
+  },
+  {
+    "path": "armors/17972.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "2726b4d0516d19808870f8d9ce4430671c1d92ddfaaa44ffdcdab7d3e43d837a"
+  },
+  {
+    "path": "armors/10343.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "3ffc419176971a28d99e8c303625275c5eced7ca2090729cbc35054527da18da"
+  },
+  {
+    "path": "armors/15804.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "a7736ed067749b69d88a8d02ae6afa67fc9c14d2f60876fe061b091cb9f62eed"
+  },
+  {
+    "path": "armors/18103.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "545554cd5998f40d31c1ae9a0c8796c0ca0e6f73c9b0a20b8a4099e5935372ce"
+  },
+  {
+    "path": "armors/9810.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "7e8757723ae62e7d8cf44eccdce42f47201bdd199a47fb09b8c9f959af527d32"
+  },
+  {
+    "path": "armors/9985.jpg",
+    "label": 3,
+    "digit": "4",
+    "sha256_pixels": "2a1e373a3b66e874f997eb333fd74bee575acd13d5982864843f7e1ccae687c4"
+  },
+  {
+    "path": "armors/17391.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "5107b0e775d6eabd0d1a0b344744ea093e00d9294b123e38eb184081b494a298"
+  },
+  {
+    "path": "armors/15996.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "06ba837005827e1962b84a146053ef1f606ed5df14992ba51e5ea5b5122f3df2"
+  },
+  {
+    "path": "armors/15991.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "ffba299bcc69ce0adc2e4cd0df3cd83f520845b48d756c4bd39d76bfee6acf9a"
+  },
+  {
+    "path": "armors/7104.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "a0297fe44a0f5423ada7a418a715476f441323b294f4eda1240b580ab70558cb"
+  },
+  {
+    "path": "armors/15979.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "1b75f238db512041cb50389d675ab617c907850474236f810a7b68d2aaa4266a"
+  },
+  {
+    "path": "armors/15941.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "80ea22c09086103c7031ffc4d7a17edb9911dfcf81d6b6edafd8eb66d2216115"
+  },
+  {
+    "path": "armors/15967.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "259289b61488870fed042754530000398559ad44b7c3d518ff4349c3ef0cec39"
+  },
+  {
+    "path": "armors/15945.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "a0fd48780517850994cb7e5060c460f996d1b20bcf2c49e3522e7120da70f118"
+  },
+  {
+    "path": "armors/17424.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "1a69c5aab9bd6a706726a8c52b3c445d8e783f9d740ac0037dcb64aaf950a49c"
+  },
+  {
+    "path": "armors/17419.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "5957ddc54ed06065a8a7fe7305f039a8a137799d460f08db5389c4efb0c2d099"
+  },
+  {
+    "path": "armors/15942.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "ad84fb30c02f8c2d3fefe7b576e791419a2fa55e69fece586750911e35f4247d"
+  },
+  {
+    "path": "armors/15940.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "edbf7e72af7e40b42fc633ba0cd0bfc103d5e485c3fffbeeb490705ec1ec9be3"
+  },
+  {
+    "path": "armors/7034.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "61ccc32f062bf4e6ac7169c698863980a35b6e48eba9d67bb551ae72d846f0d7"
+  },
+  {
+    "path": "armors/15935.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "72dd35f22a91f4c68568e8654f049e1606b79796cc98dd51bd2486f05bb5c908"
+  },
+  {
+    "path": "armors/15948.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "1cb365e8cce7d2e2bd850697fc5b0bfd6b33a5ce4108536c8e57975ca8ab702f"
+  },
+  {
+    "path": "armors/7020.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "fb88112dcdfc7bed6e5a93f91e1cecb1e46e083627276092bcdcf91938271dfa"
+  },
+  {
+    "path": "armors/7009.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "f3e4894875dd341aeced39fc211bad20ead9335448a8ef54a1017b7729d4fea9"
+  },
+  {
+    "path": "armors/7071.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "71e3e4f217e1d9ea4afa50536caecb28c40cbea0690c1bd6cd406d379ff0d385"
+  },
+  {
+    "path": "armors/7044.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "8bc1ae4454db24183ab396edc2fdfee97e59e22f3b38d6a7b2032f5927ff0211"
+  },
+  {
+    "path": "armors/7073.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "9e161fd680d3c283191124d85febf8ae0823b205ad3605381caf130dfbd20fd0"
+  },
+  {
+    "path": "armors/15987.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "924ec48919670bebed7145668922aecf54eedcac25b493544098c89f4fbe3030"
+  },
+  {
+    "path": "armors/15969.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "7506e954ea8f4bbe608123075005321bea973c8c8b911241476b08bd39b8efdf"
+  },
+  {
+    "path": "armors/7026.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "f5c8f024792775dfb648e6ebb14dacd704454cc639b2185d3d161b7efae4fc41"
+  },
+  {
+    "path": "armors/17456.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "3ee4bc1d635f0c95d1262d92bbb296a5174d7bc2713747e3bddae870dede3264"
+  },
+  {
+    "path": "armors/15999.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "dff41f5a92a1c3b847614d5f20c090bdfebb8443df0a75ae566327a0aa11e5b7"
+  },
+  {
+    "path": "armors/17400.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "73881a7ee857110f2fa1a24cc02344605495bbacf7585be7ca46c3d885d1b6fa"
+  },
+  {
+    "path": "armors/15965.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "62e3cfed80678e97c9b766af11ad38f212f7f71bff5465d5d50dae6e2262ecab"
+  },
+  {
+    "path": "armors/17399.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "624376e1f005d4a1f4e4714c6ca9b9a773154b2e7e6805ce899cbf927e8f5440"
+  },
+  {
+    "path": "armors/15994.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "5c0869c8f8017cb29bf1af097c29e0896adb4f1dea3f358eea7e3de402bc6071"
+  },
+  {
+    "path": "armors/7039.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "fd4b0ad9f4c2d2f8ca82c06b1293a75862c538818e0c831836ef5fa4eb96d688"
+  },
+  {
+    "path": "armors/17470.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "88580a6bbac939170fbb7d497191589f8ccc0f579b2cd653d34455add20d7f94"
+  },
+  {
+    "path": "armors/17413.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "6022b8d213f749efa5994e85e188153c839fb9649b7bfb4114b438c2823bd285"
+  },
+  {
+    "path": "armors/7089.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "686fe411c4c2e467bfd70d8c4c2e313dbeaa9b7b4e9f93deeff919bc38dce9c5"
+  },
+  {
+    "path": "armors/7017.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "8be8b107239ce0e7f5745ac52e9d6de7d9006d60cae5b49d7014b45b8fc5a58d"
+  },
+  {
+    "path": "armors/17416.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "667c1d932363733ee58fd949e4383c9e199799a57b1354605bb68d5ab02bfc0e"
+  },
+  {
+    "path": "armors/17428.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "7705f3fd4c56cb28a5177e523c9e40b4e559335466afeb47ea6e138650f2a681"
+  },
+  {
+    "path": "armors/15912.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "a99dcadd645cf3f53098ec334a91245d5b726c51a64f5c2eaaab52afa9197c52"
+  },
+  {
+    "path": "armors/7051.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "d6939ef27fd9e560e3cb9730ba4352b7110d20f9949d33ee8e1f28786d97a5ed"
+  },
+  {
+    "path": "armors/15957.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "5af0d145faa8c3357eecc6d62623effb89e93cf32dc389636e2f75ad560ce50b"
+  },
+  {
+    "path": "armors/17442.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "9ecda9b6f5850396e6bb623e30afa8cd70e30c0c60d6a166bf7013b12f81d139"
+  },
+  {
+    "path": "armors/17437.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "4ebd6fff9c9a9f7255e55997c4078b86c3f02532f8016ba8f2b14e0910b885e2"
+  },
+  {
+    "path": "armors/7087.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "eb65e05cfb7183121833ef128bed0b9807e7d0aee2291c142d5ef0073e64d98f"
+  },
+  {
+    "path": "armors/17412.jpg",
+    "label": 4,
+    "digit": "5",
+    "sha256_pixels": "e6f53be901f70411ad256422f2af5db58ef42738c94b7c71f80a2baf3671a11e"
+  }
+]

@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-20 12:59:32",
+  "python": "3.11.17 (main, Oct  1 2026, 20:09:52) [Clang 20.1.8 ]",
+  "torch": "2.5.1",
+  "numpy": "1.26.4",
+  "platform": "macOS-26.2-arm64-arm-64bit",
+  "architecture": "arm64",
+  "cpu": "Unavailable; architecture arm64",
+  "logical_cpus": 8,
+  "training_device": "CPU",
+  "training_threads": 4,
+  "seed": 20261020,
+  "epochs": 15,
+  "best_epoch": 15,
+  "parameters": 26533,
+  "training_seconds": 16.318729959020857,
+  "test": {
+    "loss": 0.04393094100594148,
+    "accuracy": 0.9906152241918665,
+    "macro_f1": 0.9860665178932301,
+    "recall_per_class": [
+      0.9754601226993865,
+      1.0,
+      0.9841269841269841,
+      0.9956521739130435,
+      1.0
+    ],
+    "confusion_matrix": [
+      [
+        159,
+        1,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        271,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        248,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        229,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        43
+      ]
+    ],
+    "n": 959
+  },
+  "classes": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "class_weights": [
+    1.1808764934539795,
+    0.7062748074531555,
+    0.7593509554862976,
+    0.8333645462989807,
+    4.536734580993652
+  ],
+  "dataset": {
+    "source": "https://github.com/baiyeweiguang/Number-Classifier-for-RoboMaster",
+    "source_zip_sha256": "457d2697dffe45767999165a6a71b6cc96e10ec2c1acd25915428ccff18ce167",
+    "raw_label_counts": {
+      "4": 1784,
+      "0": 6256,
+      "1": 1109,
+      "2": 1799,
+      "3": 1721,
+      "7": 776,
+      "5": 281,
+      "6": 182,
+      "8": 234,
+      "9": 685
+    },
+    "excluded": {
+      "non_digit_or_negative": 8133
+    },
+    "exact_duplicates_removed": 338,
+    "classes": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "split_seed": 20261020,
+    "split_method": "stratified image split 70/15/15 after exact pixel deduplication",
+    "limitation": "No capture-session metadata. Near-duplicate adjacent frames may remain; this is an in-dataset test, not an independent-scene generalization claim.",
+    "counts": {
+      "train": {
+        "1": 753,
+        "2": 1259,
+        "3": 1171,
+        "4": 1067,
+        "5": 196
+      },
+      "val": {
+        "1": 161,
+        "2": 269,
+        "3": 251,
+        "4": 228,
+        "5": 42
+      },
+      "test": {
+        "1": 163,
+        "2": 271,
+        "3": 252,
+        "4": 230,
+        "5": 43
+      }
+    }
+  },
+  "benchmark": {
+    "threads": 1,
+    "providers": [
+      "CPUExecutionProvider"
+    ],
+    "warmup": 100,
+    "rounds": 5,
+    "iterations_per_round": 1000,
+    "precision": "FP32",
+    "scope": "Python API invocation to output; preloaded inputs, no disk I/O, preprocessing, model loading, or postprocessing",
+    "pytorch_mode": "eager eval inference_mode; no torch.compile",
+    "max_absolute_logit_error": 2.09808349609375e-05,
+    "top1_agreement": 1.0,
+    "onnx_test_accuracy": 0.9906152241918665,
+    "onnx_version": "1.17.0",
+    "onnxruntime_version": "1.20.1",
+    "benchmarks": {
+      "1": {
+        "pytorch": {
+          "mean_ms": 0.1055393346,
+          "median_ms": 0.100542,
+          "p95_ms": 0.1180851,
+          "throughput_images_s": 9475.140276277618
+        },
+        "onnxruntime": {
+          "mean_ms": 0.026538535000000002,
+          "median_ms": 0.024583,
+          "p95_ms": 0.030292,
+          "throughput_images_s": 37681.05511476048
+        },
+        "speedup_median": 4.089899524061344,
+        "rounds": [
+          {
+            "round": 1,
+            "pytorch_median_ms": 0.101875,
+            "onnxruntime_median_ms": 0.023583
+          },
+          {
+            "round": 2,
+            "onnxruntime_median_ms": 0.023333,
+            "pytorch_median_ms": 0.098416
+          },
+          {
+            "round": 3,
+            "pytorch_median_ms": 0.099708,
+            "onnxruntime_median_ms": 0.024917
+          },
+          {
+            "round": 4,
+            "onnxruntime_median_ms": 0.024917,
+            "pytorch_median_ms": 0.10975
+          },
+          {
+            "round": 5,
+            "pytorch_median_ms": 0.10175,
+            "onnxruntime_median_ms": 0.024667
+          }
+        ]
+      },
+      "32": {
+        "pytorch": {
+          "mean_ms": 1.8190185254,
+          "median_ms": 1.7062914999999998,
+          "p95_ms": 2.2820256000000003,
+          "throughput_images_s": 17591.904399633993
+        },
+        "onnxruntime": {
+          "mean_ms": 0.5514174145999999,
+          "median_ms": 0.52375,
+          "p95_ms": 0.60391605,
+          "throughput_images_s": 58032.26222590904
+        },
+        "speedup_median": 3.2578357995226725,
+        "rounds": [
+          {
+            "round": 1,
+            "pytorch_median_ms": 1.703312,
+            "onnxruntime_median_ms": 0.513958
+          },
+          {
+            "round": 2,
+            "onnxruntime_median_ms": 0.5161665,
+            "pytorch_median_ms": 1.6909375
+          },
+          {
+            "round": 3,
+            "pytorch_median_ms": 1.6795209999999998,
+            "onnxruntime_median_ms": 0.520583
+          },
+          {
+            "round": 4,
+            "onnxruntime_median_ms": 0.5539995,
+            "pytorch_median_ms": 1.7086665
+          },
+          {
+            "round": 5,
+            "pytorch_median_ms": 1.7952080000000001,
+            "onnxruntime_median_ms": 0.5399585
+          }
+        ]
+      }
+    }
+  }
+}

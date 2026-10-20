@@ -1,0 +1,103 @@
+{
+  "threads": 1,
+  "providers": [
+    "CPUExecutionProvider"
+  ],
+  "warmup": 100,
+  "rounds": 5,
+  "iterations_per_round": 1000,
+  "precision": "FP32",
+  "scope": "Python API invocation to output; preloaded inputs, no disk I/O, preprocessing, model loading, or postprocessing",
+  "pytorch_mode": "eager eval inference_mode; no torch.compile",
+  "max_absolute_logit_error": 2.09808349609375e-05,
+  "top1_agreement": 1.0,
+  "onnx_test_accuracy": 0.9906152241918665,
+  "onnx_version": "1.17.0",
+  "onnxruntime_version": "1.20.1",
+  "benchmarks": {
+    "1": {
+      "pytorch": {
+        "mean_ms": 0.1055393346,
+        "median_ms": 0.100542,
+        "p95_ms": 0.1180851,
+        "throughput_images_s": 9475.140276277618
+      },
+      "onnxruntime": {
+        "mean_ms": 0.026538535000000002,
+        "median_ms": 0.024583,
+        "p95_ms": 0.030292,
+        "throughput_images_s": 37681.05511476048
+      },
+      "speedup_median": 4.089899524061344,
+      "rounds": [
+        {
+          "round": 1,
+          "pytorch_median_ms": 0.101875,
+          "onnxruntime_median_ms": 0.023583
+        },
+        {
+          "round": 2,
+          "onnxruntime_median_ms": 0.023333,
+          "pytorch_median_ms": 0.098416
+        },
+        {
+          "round": 3,
+          "pytorch_median_ms": 0.099708,
+          "onnxruntime_median_ms": 0.024917
+        },
+        {
+          "round": 4,
+          "onnxruntime_median_ms": 0.024917,
+          "pytorch_median_ms": 0.10975
+        },
+        {
+          "round": 5,
+          "pytorch_median_ms": 0.10175,
+          "onnxruntime_median_ms": 0.024667
+        }
+      ]
+    },
+    "32": {
+      "pytorch": {
+        "mean_ms": 1.8190185254,
+        "median_ms": 1.7062914999999998,
+        "p95_ms": 2.2820256000000003,
+        "throughput_images_s": 17591.904399633993
+      },
+      "onnxruntime": {
+        "mean_ms": 0.5514174145999999,
+        "median_ms": 0.52375,
+        "p95_ms": 0.60391605,
+        "throughput_images_s": 58032.26222590904
+      },
+      "speedup_median": 3.2578357995226725,
+      "rounds": [
+        {
+          "round": 1,
+          "pytorch_median_ms": 1.703312,
+          "onnxruntime_median_ms": 0.513958
+        },
+        {
+          "round": 2,
+          "onnxruntime_median_ms": 0.5161665,
+          "pytorch_median_ms": 1.6909375
+        },
+        {
+          "round": 3,
+          "pytorch_median_ms": 1.6795209999999998,
+          "onnxruntime_median_ms": 0.520583
+        },
+        {
+          "round": 4,
+          "onnxruntime_median_ms": 0.5539995,
+          "pytorch_median_ms": 1.7086665
+        },
+        {
+          "round": 5,
+          "pytorch_median_ms": 1.7952080000000001,
+          "onnxruntime_median_ms": 0.5399585
+        }
+      ]
+    }
+  }
+}
