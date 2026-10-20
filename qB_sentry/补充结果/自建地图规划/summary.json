@@ -1,0 +1,495 @@
+{
+  "map_file": "地图/cloud_map.yaml",
+  "queries": [
+    {
+      "query": 1,
+      "start": {
+        "world": [
+          -2.26,
+          -1.36
+        ],
+        "row": 162,
+        "col": 26,
+        "inside_map": true,
+        "cell_center": [
+          -2.255,
+          -1.3649999999999984
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 0.65,
+        "boundary_clearance_m": 1.3250000000000002,
+        "component4": 1,
+        "safe": true,
+        "reason": "格子中心符合离散安全条件"
+      },
+      "goal": {
+        "world": [
+          11.0,
+          -5.82
+        ],
+        "row": 251,
+        "col": 291,
+        "inside_map": true,
+        "cell_center": [
+          10.995000000000001,
+          -5.8149999999999995
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 0.32015621187164245,
+        "boundary_clearance_m": 3.625,
+        "component4": 1,
+        "safe": true,
+        "reason": "格子中心符合离散安全条件"
+      },
+      "algorithms": {
+        "astar": {
+          "path_file": "补充结果/自建地图规划/paths/astar_path1.csv",
+          "length_m": 20.835819612930194,
+          "grid_cost_m": 20.82167747730657,
+          "expanded": 29193,
+          "elapsed_ms": 79.66679098899476,
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 366,
+            "length_m": 20.835819612930194,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.2999999999999998,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.3200000000000003
+          }
+        },
+        "dijkstra": {
+          "path_file": "补充结果/自建地图规划/paths/dijkstra_path1.csv",
+          "length_m": 20.835819612930194,
+          "grid_cost_m": 20.82167747730657,
+          "expanded": 36422,
+          "elapsed_ms": 86.10337498248555,
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 366,
+            "length_m": 20.835819612930194,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.2999999999999998,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.3200000000000003
+          }
+        }
+      },
+      "reference_status": "路径通过检查",
+      "reference_length_m": 20.952976900455575,
+      "status": "路径通过检查",
+      "reason": ""
+    },
+    {
+      "query": 2,
+      "start": {
+        "world": [
+          17.4,
+          4.84
+        ],
+        "row": 38,
+        "col": 419,
+        "inside_map": true,
+        "cell_center": [
+          17.395000000000003,
+          4.835000000000001
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 0.6670832032063168,
+        "boundary_clearance_m": 1.925,
+        "component4": 1,
+        "safe": true,
+        "reason": "格子中心符合离散安全条件"
+      },
+      "goal": {
+        "world": [
+          3.35,
+          -4.11
+        ],
+        "row": 217,
+        "col": 138,
+        "inside_map": true,
+        "cell_center": [
+          3.3450000000000006,
+          -4.114999999999999
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 1.4534441853748634,
+        "boundary_clearance_m": 5.325,
+        "component4": 1,
+        "safe": true,
+        "reason": "格子中心符合离散安全条件"
+      },
+      "algorithms": {
+        "astar": {
+          "path_file": "补充结果/自建地图规划/paths/astar_path2.csv",
+          "length_m": 29.94414572499872,
+          "grid_cost_m": 29.930003589375126,
+          "expanded": 46546,
+          "elapsed_ms": 133.88212499557994,
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 520,
+            "length_m": 29.94414572499872,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999893,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.92
+          }
+        },
+        "dijkstra": {
+          "path_file": "补充结果/自建地图规划/paths/dijkstra_path2.csv",
+          "length_m": 29.944145724998712,
+          "grid_cost_m": 29.930003589375126,
+          "expanded": 61277,
+          "elapsed_ms": 151.04658299242146,
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 520,
+            "length_m": 29.944145724998712,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999893,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.92
+          }
+        }
+      },
+      "reference_status": "路径通过检查",
+      "reference_length_m": 27.368409793710644,
+      "status": "路径通过检查",
+      "reason": ""
+    },
+    {
+      "query": 3,
+      "start": {
+        "world": [
+          19.65,
+          -1.36
+        ],
+        "row": 162,
+        "col": 464,
+        "inside_map": true,
+        "cell_center": [
+          19.645000000000003,
+          -1.3649999999999984
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 0.32015621187164245,
+        "boundary_clearance_m": 5.925000000000001,
+        "component4": 1,
+        "safe": true,
+        "reason": "格子中心符合离散安全条件"
+      },
+      "goal": {
+        "world": [
+          5.25,
+          4.99
+        ],
+        "row": 35,
+        "col": 176,
+        "inside_map": true,
+        "cell_center": [
+          5.245000000000001,
+          4.985000000000001
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 0.38078865529319544,
+        "boundary_clearance_m": 1.7750000000000001,
+        "component4": 1,
+        "safe": true,
+        "reason": "格子中心符合离散安全条件"
+      },
+      "algorithms": {
+        "astar": {
+          "path_file": "补充结果/自建地图规划/paths/astar_path3.csv",
+          "length_m": 52.03592421498284,
+          "grid_cost_m": 52.02178207935876,
+          "expanded": 75097,
+          "elapsed_ms": 211.88433302449994,
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 920,
+            "length_m": 52.03592421498284,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999716,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.7699999999999996
+          }
+        },
+        "dijkstra": {
+          "path_file": "补充结果/自建地图规划/paths/dijkstra_path3.csv",
+          "length_m": 52.03592421498284,
+          "grid_cost_m": 52.02178207935877,
+          "expanded": 87451,
+          "elapsed_ms": 212.45304099284112,
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 920,
+            "length_m": 52.03592421498284,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999716,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.7699999999999996
+          }
+        }
+      },
+      "reference_status": "路径通过检查",
+      "reference_length_m": 50.58359015527155,
+      "status": "路径通过检查",
+      "reason": ""
+    },
+    {
+      "query": 4,
+      "start": {
+        "world": [
+          12.24,
+          3.59
+        ],
+        "row": 63,
+        "col": 316,
+        "inside_map": true,
+        "cell_center": [
+          12.245000000000001,
+          3.585000000000001
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 0.15000000000000002,
+        "boundary_clearance_m": 3.1750000000000003,
+        "component4": 0,
+        "safe": false,
+        "reason": "障碍距离 0.1500 m 小于半径 0.30 m"
+      },
+      "goal": {
+        "world": [
+          0.1,
+          -4.21
+        ],
+        "row": 219,
+        "col": 73,
+        "inside_map": true,
+        "cell_center": [
+          0.0950000000000002,
+          -4.214999999999999
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 0.8746427842267951,
+        "boundary_clearance_m": 3.6750000000000003,
+        "component4": 1,
+        "safe": true,
+        "reason": "格子中心符合离散安全条件"
+      },
+      "algorithms": {},
+      "reference_status": "路径通过检查",
+      "reference_length_m": 25.758611819065983,
+      "status": "无法到达",
+      "reason": "起点距最近未知格（点云支撑不足） 0.150m，小于0.30m半径"
+    },
+    {
+      "query": 5,
+      "start": {
+        "world": [
+          17.15,
+          -7.26
+        ],
+        "row": 280,
+        "col": 414,
+        "inside_map": true,
+        "cell_center": [
+          17.145000000000003,
+          -7.264999999999999
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 0.8,
+        "boundary_clearance_m": 2.1750000000000003,
+        "component4": 1,
+        "safe": true,
+        "reason": "格子中心符合离散安全条件"
+      },
+      "goal": {
+        "world": [
+          1.4,
+          4.74
+        ],
+        "row": 40,
+        "col": 99,
+        "inside_map": true,
+        "cell_center": [
+          1.3950000000000005,
+          4.735000000000001
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 1.2589678312014172,
+        "boundary_clearance_m": 2.025,
+        "component4": 1,
+        "safe": true,
+        "reason": "格子中心符合离散安全条件"
+      },
+      "algorithms": {
+        "astar": {
+          "path_file": "补充结果/自建地图规划/paths/astar_path5.csv",
+          "length_m": 59.8844523524067,
+          "grid_cost_m": 59.87031021678253,
+          "expanded": 65355,
+          "elapsed_ms": 174.63058300199918,
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 1072,
+            "length_m": 59.8844523524067,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999716,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.9749999999999996
+          }
+        },
+        "dijkstra": {
+          "path_file": "补充结果/自建地图规划/paths/dijkstra_path5.csv",
+          "length_m": 59.8844523524067,
+          "grid_cost_m": 59.8703102167827,
+          "expanded": 85314,
+          "elapsed_ms": 205.41779199265875,
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 1072,
+            "length_m": 59.8844523524067,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999716,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.9749999999999996
+          }
+        }
+      },
+      "reference_status": "路径通过检查",
+      "reference_length_m": 56.71079794913577,
+      "status": "路径通过检查",
+      "reason": ""
+    },
+    {
+      "query": 6,
+      "start": {
+        "world": [
+          -2.26,
+          -1.36
+        ],
+        "row": 162,
+        "col": 26,
+        "inside_map": true,
+        "cell_center": [
+          -2.255,
+          -1.3649999999999984
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 0.65,
+        "boundary_clearance_m": 1.3250000000000002,
+        "component4": 1,
+        "safe": true,
+        "reason": "格子中心符合离散安全条件"
+      },
+      "goal": {
+        "world": [
+          15.0,
+          1.54
+        ],
+        "row": 104,
+        "col": 371,
+        "inside_map": true,
+        "cell_center": [
+          14.995,
+          1.535000000000002
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 0.15000000000000002,
+        "boundary_clearance_m": 5.2250000000000005,
+        "component4": 0,
+        "safe": false,
+        "reason": "障碍距离 0.1500 m 小于半径 0.30 m"
+      },
+      "algorithms": {},
+      "reference_status": "无法到达",
+      "reference_length_m": null,
+      "status": "无法到达",
+      "reason": "终点距最近障碍格（地形或车身净空限制） 0.150m，小于0.30m半径"
+    },
+    {
+      "query": 7,
+      "start": {
+        "world": [
+          17.4,
+          4.84
+        ],
+        "row": 38,
+        "col": 419,
+        "inside_map": true,
+        "cell_center": [
+          17.395000000000003,
+          4.835000000000001
+        ],
+        "gray": 254,
+        "occupancy": 0.00392156862745098,
+        "cell_class": "空闲",
+        "obstacle_clearance_m": 0.6670832032063168,
+        "boundary_clearance_m": 1.925,
+        "component4": 1,
+        "safe": true,
+        "reason": "格子中心符合离散安全条件"
+      },
+      "goal": {
+        "world": [
+          30.0,
+          3.0
+        ],
+        "row": 75,
+        "col": 671,
+        "inside_map": false,
+        "safe": false,
+        "reason": "坐标在地图外"
+      },
+      "algorithms": {},
+      "reference_status": "无法到达",
+      "reference_length_m": null,
+      "status": "无法到达",
+      "reason": "无法到达：终点坐标在地图外"
+    }
+  ],
+  "timing": "每种算法单次测量，供自建地图实验记录，不作为稳定性能排名",
+  "limitation": "可达性与路径仅针对自建离散地图；参考图不是地形真值，自建未知区较保守，不能移动原始端点来凑通过数"
+}

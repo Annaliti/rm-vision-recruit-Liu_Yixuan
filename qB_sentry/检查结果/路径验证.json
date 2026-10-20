@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "known_answer_cases": 7,
+  "bellman_ford_crosschecks": 25,
+  "algorithms_checked_per_case": 2,
+  "segment_collision_counterexample_detected": true,
+  "actual_saved_paths_checked": 10,
+  "maximum_csv_step_m": 0.07071067811865654,
+  "unreachable_queries": [
+    6,
+    7
+  ],
+  "note": "原检查器由run_planning.py实际执行；本脚本复核日志、文件哈希和完整几何条件"
+}

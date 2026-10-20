@@ -1,0 +1,258 @@
+{
+  "kind": "确定性二维教学仿真；没有接入实机或比赛系统",
+  "random": "无随机数；全部情景显式定义",
+  "parameters": {
+    "dt_s": 0.1,
+    "hp_max": 200.0,
+    "ammo_max": 100,
+    "low_hp": 60.0,
+    "recovered_hp": 140.0,
+    "low_ammo": 8,
+    "recovered_ammo": 60,
+    "enemy_enter_m": 4.0,
+    "enemy_leave_m": 5.0,
+    "fire_range_m": 3.5,
+    "fire_interval_s": 0.5,
+    "endgame_s": 30.0,
+    "heal_per_s": 25.0,
+    "reload_per_s": 20.0,
+    "incoming_damage_per_s": 2.0,
+    "radius_m": 0.3
+  },
+  "map": "代码/input/map/rmuc_2025.yaml",
+  "motion": "每 0.1 s 沿 A* 路径移动至下一个安全格中心；最大约 0.707 m/s",
+  "anchors": {
+    "home": {
+      "cell": [
+        162,
+        26
+      ],
+      "xy": [
+        -2.255,
+        -1.3649999999999984
+      ]
+    },
+    "patrol": {
+      "cell": [
+        175,
+        111
+      ],
+      "xy": [
+        1.995,
+        -2.014999999999999
+      ]
+    },
+    "defend": {
+      "cell": [
+        95,
+        79
+      ],
+      "xy": [
+        0.395,
+        1.9850000000000012
+      ]
+    },
+    "endgame": {
+      "cell": [
+        215,
+        171
+      ],
+      "xy": [
+        4.995000000000001,
+        -4.014999999999999
+      ]
+    },
+    "enemy": {
+      "cell": [
+        149,
+        77
+      ],
+      "xy": [
+        0.29499999999999993,
+        -0.7149999999999999
+      ]
+    }
+  },
+  "states_seen": [
+    "ATTACK",
+    "DEFEND",
+    "ENDGAME",
+    "PATROL",
+    "RESUPPLY",
+    "RETREAT",
+    "STOP"
+  ],
+  "runs": [
+    {
+      "id": "01_patrol_enemy",
+      "name": "巡逻与敌方位置变化",
+      "steps": 451,
+      "states": [
+        "ATTACK",
+        "PATROL"
+      ],
+      "transitions": [
+        {
+          "time_s": 0.0,
+          "source": "PATROL",
+          "target": "PATROL",
+          "reason": "没有更高优先级条件，继续巡逻"
+        },
+        {
+          "time_s": 8.0,
+          "source": "PATROL",
+          "target": "ATTACK",
+          "reason": "敌方位置进入接敌阈值；接敌状态采用较大退出阈值"
+        },
+        {
+          "time_s": 22.0,
+          "source": "ATTACK",
+          "target": "PATROL",
+          "reason": "没有更高优先级条件，继续巡逻"
+        }
+      ],
+      "verified_routes": 6
+    },
+    {
+      "id": "02_low_hp",
+      "name": "低血量撤退及恢复滞回",
+      "steps": 601,
+      "states": [
+        "PATROL",
+        "RETREAT"
+      ],
+      "transitions": [
+        {
+          "time_s": 0.0,
+          "source": "PATROL",
+          "target": "RETREAT",
+          "reason": "低血量或撤退恢复尚未达到退出阈值"
+        },
+        {
+          "time_s": 12.4,
+          "source": "RETREAT",
+          "target": "PATROL",
+          "reason": "没有更高优先级条件，继续巡逻"
+        }
+      ],
+      "verified_routes": 7
+    },
+    {
+      "id": "03_low_ammo",
+      "name": "低弹量补给及退出阈值",
+      "steps": 601,
+      "states": [
+        "PATROL",
+        "RESUPPLY"
+      ],
+      "transitions": [
+        {
+          "time_s": 0.0,
+          "source": "PATROL",
+          "target": "RESUPPLY",
+          "reason": "低弹量或补弹尚未达到退出阈值"
+        },
+        {
+          "time_s": 11.4,
+          "source": "RESUPPLY",
+          "target": "PATROL",
+          "reason": "没有更高优先级条件，继续巡逻"
+        }
+      ],
+      "verified_routes": 7
+    },
+    {
+      "id": "04_outpost",
+      "name": "前哨站被毁触发防守",
+      "steps": 501,
+      "states": [
+        "DEFEND",
+        "PATROL"
+      ],
+      "transitions": [
+        {
+          "time_s": 0.0,
+          "source": "PATROL",
+          "target": "PATROL",
+          "reason": "没有更高优先级条件，继续巡逻"
+        },
+        {
+          "time_s": 8.0,
+          "source": "PATROL",
+          "target": "DEFEND",
+          "reason": "己方前哨站被毁，转入保守防守"
+        }
+      ],
+      "verified_routes": 2
+    },
+    {
+      "id": "05_endgame",
+      "name": "剩余时间触发末段集结及结束",
+      "steps": 451,
+      "states": [
+        "ENDGAME",
+        "PATROL",
+        "STOP"
+      ],
+      "transitions": [
+        {
+          "time_s": 0.0,
+          "source": "PATROL",
+          "target": "PATROL",
+          "reason": "没有更高优先级条件，继续巡逻"
+        },
+        {
+          "time_s": 15.0,
+          "source": "PATROL",
+          "target": "ENDGAME",
+          "reason": "进入教学设定的最后 30 秒，前往集结点"
+        },
+        {
+          "time_s": 45.0,
+          "source": "ENDGAME",
+          "target": "STOP",
+          "reason": "比赛时间耗尽；结束状态保持"
+        }
+      ],
+      "verified_routes": 4
+    },
+    {
+      "id": "06_priorities",
+      "name": "血量弹量前哨站同时告急",
+      "steps": 451,
+      "states": [
+        "DEFEND",
+        "RESUPPLY",
+        "RETREAT",
+        "STOP"
+      ],
+      "transitions": [
+        {
+          "time_s": 0.0,
+          "source": "PATROL",
+          "target": "RETREAT",
+          "reason": "低血量或撤退恢复尚未达到退出阈值"
+        },
+        {
+          "time_s": 3.8,
+          "source": "RETREAT",
+          "target": "RESUPPLY",
+          "reason": "低弹量或补弹尚未达到退出阈值"
+        },
+        {
+          "time_s": 6.6,
+          "source": "RESUPPLY",
+          "target": "DEFEND",
+          "reason": "己方前哨站被毁，转入保守防守"
+        },
+        {
+          "time_s": 45.0,
+          "source": "DEFEND",
+          "target": "STOP",
+          "reason": "比赛时间耗尽；结束状态保持"
+        }
+      ],
+      "verified_routes": 4
+    }
+  ]
+}

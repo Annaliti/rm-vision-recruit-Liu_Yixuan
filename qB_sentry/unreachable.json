@@ -1,0 +1,32 @@
+[
+  {
+    "query": 6,
+    "start": [
+      -2.26,
+      -1.36
+    ],
+    "goal": [
+      15.0,
+      1.54
+    ],
+    "algorithms": {},
+    "status": "无法到达",
+    "reason": "无法到达：终点障碍距离 0.2500 m 小于半径 0.30 m",
+    "searched": false
+  },
+  {
+    "query": 7,
+    "start": [
+      17.4,
+      4.84
+    ],
+    "goal": [
+      30.0,
+      3.0
+    ],
+    "algorithms": {},
+    "status": "无法到达",
+    "reason": "无法到达：终点坐标在地图外",
+    "searched": false
+  }
+]

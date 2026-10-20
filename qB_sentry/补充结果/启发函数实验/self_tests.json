@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "fixed_cases": 15,
+  "random_maps": 35,
+  "total_scenarios": 50,
+  "random_variant_runs": 105,
+  "runs_exercising_reopen": 9,
+  "oracle": "已知空地图最优值 + 原手写 Dijkstra；邻接合法性逐段复核"
+}

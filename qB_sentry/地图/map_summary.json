@@ -1,0 +1,24 @@
+{
+  "resolution_m": 0.05,
+  "shape": [
+    324,
+    583
+  ],
+  "traversable_cells": 135764,
+  "unknown_cells": 16159,
+  "blocked_cells": 36969,
+  "ramp_cells": 26495,
+  "step_edge_cells": 12071,
+  "body_obstacle_cells": 11497,
+  "gap_filled_cells": 63581,
+  "max_step_m": 0.12,
+  "chassis_height_m": 0.6,
+  "max_slope_deg": 25,
+  "nearest_gap_fill_m": 0.15,
+  "planar_enclosed_gap_fill_m": 0.3,
+  "planar_fill_cells": 23024,
+  "slope_is_assumption": true,
+  "agreement_with_reference": 0.8713021197297927,
+  "free_iou": 0.8357432432432432,
+  "comparison_note": "参考地图非标注真值，IoU仅描述差异；自建图的占据标签全部由点云计算"
+}

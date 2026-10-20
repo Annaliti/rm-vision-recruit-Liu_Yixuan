@@ -1,0 +1,664 @@
+{
+  "repeats": 3,
+  "tests": {
+    "passed": true,
+    "fixed_cases": 15,
+    "random_maps": 35,
+    "total_scenarios": 50,
+    "random_variant_runs": 105,
+    "runs_exercising_reopen": 9,
+    "oracle": "已知空地图最优值 + 原手写 Dijkstra；邻接合法性逐段复核"
+  },
+  "queries": [
+    {
+      "query": 1,
+      "start": [
+        -2.26,
+        -1.36
+      ],
+      "goal": [
+        11.0,
+        -5.82
+      ],
+      "algorithms": {
+        "dijkstra": {
+          "grid_cost_m": 20.93883476483196,
+          "length_m": 20.952976900455575,
+          "optimal_ratio": 1.0,
+          "expanded": 44861,
+          "unique_expanded": 44861,
+          "reopened_expansions": 0,
+          "elapsed_ms_runs": [
+            108.39054099051282,
+            107.26245900150388,
+            110.86120898835361
+          ],
+          "median_ms": 108.39054099051282,
+          "path_file": "补充结果/启发函数实验/paths/dijkstra_path1.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/dijkstra_q1.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 370,
+            "length_m": 20.952976900455575,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.2999999999999998,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.3200000000000003
+          }
+        },
+        "euclidean": {
+          "grid_cost_m": 20.93883476483196,
+          "length_m": 20.952976900455575,
+          "optimal_ratio": 1.0,
+          "expanded": 31902,
+          "unique_expanded": 31902,
+          "reopened_expansions": 0,
+          "elapsed_ms_runs": [
+            103.31387500627898,
+            102.38766600377858,
+            106.1210409970954
+          ],
+          "median_ms": 103.31387500627898,
+          "path_file": "补充结果/启发函数实验/paths/euclidean_path1.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/euclidean_q1.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 370,
+            "length_m": 20.952976900455575,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.2999999999999998,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.3200000000000003
+          }
+        },
+        "manhattan": {
+          "grid_cost_m": 20.93883476483196,
+          "length_m": 20.952976900455575,
+          "optimal_ratio": 1.0,
+          "expanded": 26475,
+          "unique_expanded": 25606,
+          "reopened_expansions": 869,
+          "elapsed_ms_runs": [
+            86.58812497742474,
+            85.77691699611023,
+            85.8690419991035
+          ],
+          "median_ms": 85.8690419991035,
+          "path_file": "补充结果/启发函数实验/paths/manhattan_path1.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/manhattan_q1.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 370,
+            "length_m": 20.952976900455575,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999893,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.3200000000000003
+          }
+        },
+        "weighted2": {
+          "grid_cost_m": 20.93883476483196,
+          "length_m": 20.952976900455575,
+          "optimal_ratio": 1.0,
+          "expanded": 257548,
+          "unique_expanded": 23335,
+          "reopened_expansions": 234213,
+          "elapsed_ms_runs": [
+            872.748583991779,
+            877.6362920179963,
+            877.3759579926264
+          ],
+          "median_ms": 877.3759579926264,
+          "path_file": "补充结果/启发函数实验/paths/weighted2_path1.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/weighted2_q1.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 370,
+            "length_m": 20.952976900455575,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.2999999999999998,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.3200000000000003
+          }
+        }
+      },
+      "status": "全部路径通过检查",
+      "euclidean_matches_existing_astar": true
+    },
+    {
+      "query": 2,
+      "start": [
+        17.4,
+        4.84
+      ],
+      "goal": [
+        3.35,
+        -4.11
+      ],
+      "algorithms": {
+        "dijkstra": {
+          "grid_cost_m": 27.354267658087007,
+          "length_m": 27.368409793710644,
+          "optimal_ratio": 1.0,
+          "expanded": 72408,
+          "unique_expanded": 72408,
+          "reopened_expansions": 0,
+          "elapsed_ms_runs": [
+            182.02108301920816,
+            185.5037499917671,
+            178.81666700122878
+          ],
+          "median_ms": 182.02108301920816,
+          "path_file": "补充结果/启发函数实验/paths/dijkstra_path2.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/dijkstra_q2.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 466,
+            "length_m": 27.368409793710644,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.2999999999999998,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.92
+          }
+        },
+        "euclidean": {
+          "grid_cost_m": 27.354267658087046,
+          "length_m": 27.368409793710644,
+          "optimal_ratio": 1.0000000000000013,
+          "expanded": 46062,
+          "unique_expanded": 46062,
+          "reopened_expansions": 0,
+          "elapsed_ms_runs": [
+            161.75533400382847,
+            169.02299999492243,
+            158.1767080060672
+          ],
+          "median_ms": 161.75533400382847,
+          "path_file": "补充结果/启发函数实验/paths/euclidean_path2.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/euclidean_q2.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 466,
+            "length_m": 27.368409793710644,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999893,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.92
+          }
+        },
+        "manhattan": {
+          "grid_cost_m": 27.354267658087046,
+          "length_m": 27.368409793710644,
+          "optimal_ratio": 1.0000000000000013,
+          "expanded": 34463,
+          "unique_expanded": 33744,
+          "reopened_expansions": 719,
+          "elapsed_ms_runs": [
+            114.59433299023658,
+            117.11449999711476,
+            115.46141598955728
+          ],
+          "median_ms": 115.46141598955728,
+          "path_file": "补充结果/启发函数实验/paths/manhattan_path2.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/manhattan_q2.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 466,
+            "length_m": 27.368409793710644,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999893,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.92
+          }
+        },
+        "weighted2": {
+          "grid_cost_m": 27.354267658087046,
+          "length_m": 27.368409793710644,
+          "optimal_ratio": 1.0000000000000013,
+          "expanded": 91385,
+          "unique_expanded": 18586,
+          "reopened_expansions": 72799,
+          "elapsed_ms_runs": [
+            334.4987080199644,
+            337.5434170011431,
+            329.71900000120513
+          ],
+          "median_ms": 334.4987080199644,
+          "path_file": "补充结果/启发函数实验/paths/weighted2_path2.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/weighted2_q2.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 466,
+            "length_m": 27.368409793710644,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999893,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.92
+          }
+        }
+      },
+      "status": "全部路径通过检查",
+      "euclidean_matches_existing_astar": true
+    },
+    {
+      "query": 3,
+      "start": [
+        19.65,
+        -1.36
+      ],
+      "goal": [
+        5.25,
+        4.99
+      ],
+      "algorithms": {
+        "dijkstra": {
+          "grid_cost_m": 50.569448019647844,
+          "length_m": 50.583590155271544,
+          "optimal_ratio": 1.0,
+          "expanded": 104163,
+          "unique_expanded": 104163,
+          "reopened_expansions": 0,
+          "elapsed_ms_runs": [
+            255.21012500394136,
+            251.2879999994766,
+            257.2457499918528
+          ],
+          "median_ms": 255.21012500394136,
+          "path_file": "补充结果/启发函数实验/paths/dijkstra_path3.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/dijkstra_q3.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 869,
+            "length_m": 50.583590155271544,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999716,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.7699999999999996
+          }
+        },
+        "euclidean": {
+          "grid_cost_m": 50.569448019647844,
+          "length_m": 50.58359015527155,
+          "optimal_ratio": 1.0,
+          "expanded": 86310,
+          "unique_expanded": 86310,
+          "reopened_expansions": 0,
+          "elapsed_ms_runs": [
+            272.89883300545625,
+            264.6164170000702,
+            272.5486250128597
+          ],
+          "median_ms": 272.5486250128597,
+          "path_file": "补充结果/启发函数实验/paths/euclidean_path3.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/euclidean_q3.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 869,
+            "length_m": 50.58359015527155,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999716,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.7699999999999996
+          }
+        },
+        "manhattan": {
+          "grid_cost_m": 50.569448019647844,
+          "length_m": 50.58359015527155,
+          "optimal_ratio": 1.0,
+          "expanded": 83038,
+          "unique_expanded": 81617,
+          "reopened_expansions": 1421,
+          "elapsed_ms_runs": [
+            267.74416700936854,
+            263.649833999807,
+            271.5268330066465
+          ],
+          "median_ms": 267.74416700936854,
+          "path_file": "补充结果/启发函数实验/paths/manhattan_path3.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/manhattan_q3.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 869,
+            "length_m": 50.58359015527155,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999716,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.7699999999999996
+          }
+        },
+        "weighted2": {
+          "grid_cost_m": 50.74518395093586,
+          "length_m": 50.75932608655962,
+          "optimal_ratio": 1.0034751403895044,
+          "expanded": 151534,
+          "unique_expanded": 70180,
+          "reopened_expansions": 81354,
+          "elapsed_ms_runs": [
+            509.8277500073891,
+            504.1227919864468,
+            504.2502910073381
+          ],
+          "median_ms": 504.2502910073381,
+          "path_file": "补充结果/启发函数实验/paths/weighted2_path3.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/weighted2_q3.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 875,
+            "length_m": 50.75932608655962,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999716,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 1.7699999999999996
+          }
+        }
+      },
+      "status": "全部路径通过检查",
+      "euclidean_matches_existing_astar": true
+    },
+    {
+      "query": 4,
+      "start": [
+        12.24,
+        3.59
+      ],
+      "goal": [
+        0.1,
+        -4.21
+      ],
+      "algorithms": {
+        "dijkstra": {
+          "grid_cost_m": 25.74446968344238,
+          "length_m": 25.75861181906598,
+          "optimal_ratio": 1.0,
+          "expanded": 79240,
+          "unique_expanded": 79240,
+          "reopened_expansions": 0,
+          "elapsed_ms_runs": [
+            197.67904200125486,
+            198.37766600539908,
+            199.94087499799207
+          ],
+          "median_ms": 198.37766600539908,
+          "path_file": "补充结果/启发函数实验/paths/dijkstra_path4.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/dijkstra_q4.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 457,
+            "length_m": 25.75861181906598,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999893,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 2.175
+          }
+        },
+        "euclidean": {
+          "grid_cost_m": 25.74446968344239,
+          "length_m": 25.758611819065983,
+          "optimal_ratio": 1.0000000000000004,
+          "expanded": 35113,
+          "unique_expanded": 35113,
+          "reopened_expansions": 0,
+          "elapsed_ms_runs": [
+            116.81320800562389,
+            118.6802500160411,
+            119.29566602339037
+          ],
+          "median_ms": 118.6802500160411,
+          "path_file": "补充结果/启发函数实验/paths/euclidean_path4.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/euclidean_q4.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 457,
+            "length_m": 25.758611819065983,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999893,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 2.175
+          }
+        },
+        "manhattan": {
+          "grid_cost_m": 25.74446968344239,
+          "length_m": 25.758611819065983,
+          "optimal_ratio": 1.0000000000000004,
+          "expanded": 32056,
+          "unique_expanded": 31383,
+          "reopened_expansions": 673,
+          "elapsed_ms_runs": [
+            105.62437502085231,
+            105.95112497685477,
+            109.36379100894555
+          ],
+          "median_ms": 105.95112497685477,
+          "path_file": "补充结果/启发函数实验/paths/manhattan_path4.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/manhattan_q4.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 457,
+            "length_m": 25.758611819065983,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999893,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 2.175
+          }
+        },
+        "weighted2": {
+          "grid_cost_m": 25.74446968344239,
+          "length_m": 25.758611819065983,
+          "optimal_ratio": 1.0000000000000004,
+          "expanded": 38364,
+          "unique_expanded": 16871,
+          "reopened_expansions": 21493,
+          "elapsed_ms_runs": [
+            138.10066698351875,
+            138.4610410023015,
+            139.24329201108776
+          ],
+          "median_ms": 138.4610410023015,
+          "path_file": "补充结果/启发函数实验/paths/weighted2_path4.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/weighted2_q4.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 457,
+            "length_m": 25.758611819065983,
+            "max_step_m": 0.07071067811865576,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999893,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 2.175
+          }
+        }
+      },
+      "status": "全部路径通过检查",
+      "euclidean_matches_existing_astar": true
+    },
+    {
+      "query": 5,
+      "start": [
+        17.15,
+        -7.26
+      ],
+      "goal": [
+        1.4,
+        4.74
+      ],
+      "algorithms": {
+        "dijkstra": {
+          "grid_cost_m": 56.69665581351186,
+          "length_m": 56.71079794913577,
+          "optimal_ratio": 1.0,
+          "expanded": 98945,
+          "unique_expanded": 98945,
+          "reopened_expansions": 0,
+          "elapsed_ms_runs": [
+            237.3722919728607,
+            240.5441669980064,
+            242.2540410188958
+          ],
+          "median_ms": 240.5441669980064,
+          "path_file": "补充结果/启发函数实验/paths/dijkstra_path5.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/dijkstra_q5.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 999,
+            "length_m": 56.71079794913577,
+            "max_step_m": 0.07071067811865654,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999716,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 2.0199999999999996
+          }
+        },
+        "euclidean": {
+          "grid_cost_m": 56.69665581351159,
+          "length_m": 56.71079794913577,
+          "optimal_ratio": 0.9999999999999952,
+          "expanded": 76732,
+          "unique_expanded": 76732,
+          "reopened_expansions": 0,
+          "elapsed_ms_runs": [
+            236.5180839842651,
+            242.2577500110492,
+            239.4957499927841
+          ],
+          "median_ms": 239.4957499927841,
+          "path_file": "补充结果/启发函数实验/paths/euclidean_path5.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/euclidean_q5.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 999,
+            "length_m": 56.71079794913577,
+            "max_step_m": 0.07071067811865654,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999716,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 2.0199999999999996
+          }
+        },
+        "manhattan": {
+          "grid_cost_m": 56.69665581351159,
+          "length_m": 56.71079794913577,
+          "optimal_ratio": 0.9999999999999952,
+          "expanded": 70796,
+          "unique_expanded": 69847,
+          "reopened_expansions": 949,
+          "elapsed_ms_runs": [
+            221.16012501646765,
+            223.1897919846233,
+            223.13470899825916
+          ],
+          "median_ms": 223.13470899825916,
+          "path_file": "补充结果/启发函数实验/paths/manhattan_path5.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/manhattan_q5.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 999,
+            "length_m": 56.71079794913577,
+            "max_step_m": 0.07071067811865654,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999716,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 2.0199999999999996
+          }
+        },
+        "weighted2": {
+          "grid_cost_m": 56.87239174479961,
+          "length_m": 56.88653388042384,
+          "optimal_ratio": 1.0030995819553412,
+          "expanded": 136653,
+          "unique_expanded": 67823,
+          "reopened_expansions": 68830,
+          "elapsed_ms_runs": [
+            454.2272920079995,
+            457.9659999872092,
+            450.4533339932095
+          ],
+          "median_ms": 454.2272920079995,
+          "path_file": "补充结果/启发函数实验/paths/weighted2_path5.csv",
+          "checker_log": "补充结果/启发函数实验/checker_logs/weighted2_q5.txt",
+          "checker_passed": true,
+          "geometry_validation": {
+            "passed": true,
+            "point_count": 1005,
+            "length_m": 56.88653388042384,
+            "max_step_m": 0.07071067811865654,
+            "endpoint_error_m": 0.0,
+            "minimum_checked_segment_clearance_m": 0.29999999999999716,
+            "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+            "boundary_clearance_m": 2.0199999999999996
+          }
+        }
+      },
+      "status": "全部路径通过检查",
+      "euclidean_matches_existing_astar": true
+    },
+    {
+      "query": 6,
+      "start": [
+        -2.26,
+        -1.36
+      ],
+      "goal": [
+        15.0,
+        1.54
+      ],
+      "algorithms": {},
+      "status": "无法到达",
+      "reason": "无法到达：终点障碍距离 0.2500 m 小于半径 0.30 m"
+    },
+    {
+      "query": 7,
+      "start": [
+        17.4,
+        4.84
+      ],
+      "goal": [
+        30.0,
+        3.0
+      ],
+      "algorithms": {},
+      "status": "无法到达",
+      "reason": "无法到达：终点坐标在地图外"
+    }
+  ],
+  "priority": "(g+h, g, node_id)；相同优先级使用稳定平局规则",
+  "cost_model": "八邻域；禁止穿角；直行resolution，斜行sqrt(2)*resolution",
+  "variants": "欧氏、曼哈顿、2倍欧氏；所有A*变体允许更低g重新打开节点",
+  "timing": "搜索含初始化及回溯，不含I/O、检查器、绘图；算法顺序循环交错",
+  "expansion": "每次有效扩展记1；重开后扩展也计入，独立节点数量另列",
+  "optimal_ratio": "实际网格路线成本 / 新运行的现有Dijkstra成本；不含固定端点连接",
+  "validity_scope": "提供地图、障碍格中心模型；未验证实车动力学"
+}

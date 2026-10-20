@@ -1,0 +1,116 @@
+{
+  "passed": true,
+  "boundary_and_priority_cases": 27,
+  "scenarios": 6,
+  "total_simulation_steps": 3056,
+  "states_covered": [
+    "ATTACK",
+    "DEFEND",
+    "ENDGAME",
+    "PATROL",
+    "RESUPPLY",
+    "RETREAT",
+    "STOP"
+  ],
+  "shots": 28,
+  "deterministic_replay": true,
+  "runs": [
+    {
+      "scenario": "01_patrol_enemy",
+      "steps": 451,
+      "whole_trajectory": {
+        "passed": true,
+        "point_count": 452,
+        "length_m": 18.899494936611667,
+        "max_step_m": 0.07071067811865545,
+        "endpoint_error_m": 0.0,
+        "minimum_checked_segment_clearance_m": 0.2999999999999998,
+        "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+        "boundary_clearance_m": 1.3250000000000002
+      },
+      "transitions_match_expected": true,
+      "all_inputs_replayed": true
+    },
+    {
+      "scenario": "02_low_hp",
+      "steps": 601,
+      "whole_trajectory": {
+        "passed": true,
+        "point_count": 602,
+        "length_m": 33.564065632731584,
+        "max_step_m": 0.07071067811865545,
+        "endpoint_error_m": 0.0,
+        "minimum_checked_segment_clearance_m": 0.2999999999999998,
+        "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+        "boundary_clearance_m": 1.3250000000000002
+      },
+      "transitions_match_expected": true,
+      "all_inputs_replayed": true
+    },
+    {
+      "scenario": "03_low_ammo",
+      "steps": 601,
+      "whole_trajectory": {
+        "passed": true,
+        "point_count": 602,
+        "length_m": 34.10548698896889,
+        "max_step_m": 0.07071067811865545,
+        "endpoint_error_m": 0.0,
+        "minimum_checked_segment_clearance_m": 0.2999999999999998,
+        "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+        "boundary_clearance_m": 1.3250000000000002
+      },
+      "transitions_match_expected": true,
+      "all_inputs_replayed": true
+    },
+    {
+      "scenario": "04_outpost",
+      "steps": 501,
+      "whole_trajectory": {
+        "passed": true,
+        "point_count": 502,
+        "length_m": 9.61543289325507,
+        "max_step_m": 0.07071067811865545,
+        "endpoint_error_m": 0.0,
+        "minimum_checked_segment_clearance_m": 0.29999999999999893,
+        "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+        "boundary_clearance_m": 1.5750000000000002
+      },
+      "transitions_match_expected": true,
+      "all_inputs_replayed": true
+    },
+    {
+      "scenario": "05_endgame",
+      "steps": 451,
+      "whole_trajectory": {
+        "passed": true,
+        "point_count": 452,
+        "length_m": 13.771067811865475,
+        "max_step_m": 0.07071067811865576,
+        "endpoint_error_m": 0.0,
+        "minimum_checked_segment_clearance_m": 0.2999999999999998,
+        "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+        "boundary_clearance_m": 1.3250000000000002
+      },
+      "transitions_match_expected": true,
+      "all_inputs_replayed": true
+    },
+    {
+      "scenario": "06_priorities",
+      "steps": 451,
+      "whole_trajectory": {
+        "passed": true,
+        "point_count": 452,
+        "length_m": 4.769848480983499,
+        "max_step_m": 0.07071067811865545,
+        "endpoint_error_m": 0.0,
+        "minimum_checked_segment_clearance_m": 0.29999999999999893,
+        "segment_check": "解析点到线段距离；障碍采用格子中心模型",
+        "boundary_clearance_m": 1.3250000000000002
+      },
+      "transitions_match_expected": true,
+      "all_inputs_replayed": true
+    }
+  ],
+  "limitations": "验证为教学二维栅格/障碍中心模型；没有验证真实底盘动力学与官方比赛规则"
+}

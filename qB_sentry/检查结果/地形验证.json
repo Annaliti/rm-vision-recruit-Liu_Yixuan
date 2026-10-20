@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "synthetic_tests": [
+    "平地可通行",
+    "约11.3度连续坡道可通行，即使平台高于0.12m",
+    "0.20m台阶边缘不可跨越",
+    "同一支撑面上0.30m处结构碰撞，0.75m净空超过0.60m车身",
+    "大块无观测区域保留未知"
+  ],
+  "real_ramp_probes": 8,
+  "real_impassable_edge_probes": 4,
+  "ground_residual_p95_m": 0.014008677673727134,
+  "rotation_is_rigid": true,
+  "saved_cloud_paths_checked": 8,
+  "note": "仅验证明示模型、实际剖面及规划输出；点云异常物语义与真实底盘坡度能力无标注真值"
+}

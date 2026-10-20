@@ -1,0 +1,12 @@
+{
+  "sor_removed": 10194,
+  "outside_boundary_after_sor": 1105,
+  "below_ground_after_sor": 170,
+  "union_removed_after_sor": 1275,
+  "retained_points": 1337289,
+  "high_boundary_points_ignored_for_ground_map": 937905,
+  "boundary_height_p99_m": 18.16193389892578,
+  "tall_boundary": "检测到约18.5m高矩形围挡，保留近地碰撞截面；其仿真语义未经元数据证实，不贸然删除整面墙",
+  "cause": "孤立散点、地下/场外点与仿真表面不一致，可能来自注入噪声、异常回波或累积配准误差；仅PCD不能证明具体来源",
+  "object_semantics": "不能仅凭孤立或高度判定物体不存在；无法证实的实体保留，净空足够的高处点不投影为车身障碍"
+}
